@@ -10510,7 +10510,7 @@
                             "branch_attrs": {
                               "labels": {
                                 "aa": "S: L239S, R344K; orf1ab: T1121I, I1663L, Y2222C, W2746C, A2971V, K6910R",
-                                "clade": "Middle phase"
+                                "clade": "Middle phase (Guangzhou HSZ2 hospital)"
                               },
                               "mutations": {
                                 "S": [
@@ -10572,7 +10572,7 @@
                                     "name": "HSZ-Bc",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Middle phase"
+                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                       },
                                       "div": 796,
                                       "num_date": {
@@ -10595,7 +10595,7 @@
                                     "name": "HSZ-Bb",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Middle phase"
+                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                       },
                                       "div": 797,
                                       "num_date": {
@@ -10637,7 +10637,7 @@
                                         "name": "HSZ-Cb",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Middle phase"
+                                            "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                           },
                                           "div": 799,
                                           "num_date": {
@@ -10671,7 +10671,7 @@
                                         "name": "HSZ-Cc",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Middle phase"
+                                            "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                           },
                                           "div": 802,
                                           "num_date": {
@@ -10687,7 +10687,7 @@
                                     "name": "NODE_0000039",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Middle phase"
+                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                       },
                                       "div": 798,
                                       "num_date": {
@@ -10703,7 +10703,7 @@
                                 "name": "NODE_0000037",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Middle phase"
+                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                   },
                                   "div": 796,
                                   "num_date": {
@@ -10786,7 +10786,7 @@
                                     "name": "CUHK-W1",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Middle phase"
+                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                       },
                                       "div": 798,
                                       "num_date": {
@@ -10836,7 +10836,7 @@
                                             "name": "BJ162",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 798,
                                               "num_date": {
@@ -10868,7 +10868,7 @@
                                             "name": "BJ202",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 801,
                                               "num_date": {
@@ -10884,7 +10884,7 @@
                                         "name": "NODE_0000042",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Middle phase"
+                                            "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                           },
                                           "div": 798,
                                           "num_date": {
@@ -10934,7 +10934,7 @@
                                             "name": "HZS2-C",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 800,
                                               "num_date": {
@@ -10963,7 +10963,7 @@
                                             "name": "HZS2-D",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 798,
                                               "num_date": {
@@ -10986,7 +10986,7 @@
                                             "name": "HSZ2-A",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 798,
                                               "num_date": {
@@ -11018,7 +11018,7 @@
                                             "name": "HGZ8L2",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 800,
                                               "num_date": {
@@ -11041,7 +11041,7 @@
                                             "name": "HZS2-E",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 798,
                                               "num_date": {
@@ -11826,7 +11826,7 @@
                                             "name": "HZS2-Bb",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 797,
                                               "num_date": {
@@ -11878,7 +11878,7 @@
                                                 "name": "GZ50",
                                                 "node_attrs": {
                                                   "clade_membership": {
-                                                    "value": "Middle phase"
+                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                   },
                                                   "div": 803,
                                                   "num_date": {
@@ -11929,7 +11929,7 @@
                                                 "name": "GDH-BJH01",
                                                 "node_attrs": {
                                                   "clade_membership": {
-                                                    "value": "Middle phase"
+                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                   },
                                                   "div": 813,
                                                   "num_date": {
@@ -11945,7 +11945,7 @@
                                             "name": "NODE_0000047",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 802,
                                               "num_date": {
@@ -11989,7 +11989,7 @@
                                                     "name": "HZS2-Fb",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Middle phase"
+                                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                       },
                                                       "div": 800,
                                                       "num_date": {
@@ -12018,7 +12018,7 @@
                                                     "name": "HZS2-Fc",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Middle phase"
+                                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                       },
                                                       "div": 801,
                                                       "num_date": {
@@ -12034,7 +12034,7 @@
                                                 "name": "NODE_0000059",
                                                 "node_attrs": {
                                                   "clade_membership": {
-                                                    "value": "Middle phase"
+                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                   },
                                                   "div": 800,
                                                   "num_date": {
@@ -12101,7 +12101,7 @@
                                                     "name": "TJF",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Middle phase"
+                                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                       },
                                                       "div": 810,
                                                       "num_date": {
@@ -12156,7 +12156,7 @@
                                                         "name": "NS-1",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Middle phase"
+                                                            "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                           },
                                                           "div": 810,
                                                           "num_date": {
@@ -12555,7 +12555,7 @@
                                                             "name": "WH20",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Middle phase"
+                                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                               },
                                                               "div": 834,
                                                               "num_date": {
@@ -12595,7 +12595,7 @@
                                                                 "name": "BJ01",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Middle phase"
+                                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                                   },
                                                                   "div": 807,
                                                                   "num_date": {
@@ -12650,7 +12650,7 @@
                                                                 "name": "BJ03",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Middle phase"
+                                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                                   },
                                                                   "div": 817,
                                                                   "num_date": {
@@ -12666,7 +12666,7 @@
                                                             "name": "NODE_0000056",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Middle phase"
+                                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                               },
                                                               "div": 804,
                                                               "num_date": {
@@ -12724,7 +12724,7 @@
                                                                 "name": "BJ02",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Middle phase"
+                                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                                   },
                                                                   "div": 817,
                                                                   "num_date": {
@@ -12755,7 +12755,7 @@
                                                                 "name": "LLJ-2004",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Middle phase"
+                                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                                   },
                                                                   "div": 806,
                                                                   "num_date": {
@@ -12771,7 +12771,7 @@
                                                             "name": "NODE_0000057",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Middle phase"
+                                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                               },
                                                               "div": 805,
                                                               "num_date": {
@@ -12787,7 +12787,7 @@
                                                         "name": "NODE_0000054",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Middle phase"
+                                                            "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                           },
                                                           "div": 803,
                                                           "num_date": {
@@ -12803,7 +12803,7 @@
                                                     "name": "NODE_0000053",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Middle phase"
+                                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                       },
                                                       "div": 801,
                                                       "num_date": {
@@ -12819,7 +12819,7 @@
                                                 "name": "NODE_0000052",
                                                 "node_attrs": {
                                                   "clade_membership": {
-                                                    "value": "Middle phase"
+                                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                                   },
                                                   "div": 800,
                                                   "num_date": {
@@ -12835,7 +12835,7 @@
                                                 "branch_attrs": {
                                                   "labels": {
                                                     "aa": "ORF8: R17C; S: T244I; orf1ab: E5767D",
-                                                    "clade": "Late phase"
+                                                    "clade": "Late phase (Hong-Kong M hotel)"
                                                   },
                                                   "mutations": {
                                                     "ORF8": [
@@ -12862,7 +12862,7 @@
                                                     "name": "AS",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Late phase"
+                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                       },
                                                       "div": 801,
                                                       "num_date": {
@@ -12885,7 +12885,7 @@
                                                     "name": "CV7",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Late phase"
+                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                       },
                                                       "div": 802,
                                                       "num_date": {
@@ -12930,7 +12930,7 @@
                                                         "name": "ZJ0301-from-China",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 809,
                                                           "num_date": {
@@ -12991,7 +12991,7 @@
                                                         "name": "ZJ01",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 824,
                                                           "num_date": {
@@ -13007,7 +13007,7 @@
                                                     "name": "NODE_0000064",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Late phase"
+                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                       },
                                                       "div": 809,
                                                       "num_date": {
@@ -13042,7 +13042,7 @@
                                                         "name": "CDC-200301157",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 803,
                                                           "num_date": {
@@ -13073,7 +13073,7 @@
                                                         "name": "P2",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 806,
                                                           "num_date": {
@@ -13089,7 +13089,7 @@
                                                     "name": "NODE_0000086",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Late phase"
+                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                       },
                                                       "div": 803,
                                                       "num_date": {
@@ -13141,7 +13141,7 @@
                                                             "name": "TW1",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 808,
                                                               "num_date": {
@@ -13277,7 +13277,7 @@
                                                                 "name": "CUHK-AG01",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 846,
                                                                   "num_date": {
@@ -13330,7 +13330,7 @@
                                                                 "name": "GZ-A",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 855,
                                                                   "num_date": {
@@ -13346,7 +13346,7 @@
                                                             "name": "NODE_0000073",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 843,
                                                               "num_date": {
@@ -13362,7 +13362,7 @@
                                                         "name": "NODE_0000072",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 807,
                                                           "num_date": {
@@ -13390,7 +13390,7 @@
                                                             "name": "TW2",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 802,
                                                               "num_date": {
@@ -13418,7 +13418,7 @@
                                                                 "name": "TW4",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 803,
                                                                   "num_date": {
@@ -13437,7 +13437,7 @@
                                                                 "name": "TW3",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 803,
                                                                   "num_date": {
@@ -13453,7 +13453,7 @@
                                                             "name": "NODE_0000071",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 803,
                                                               "num_date": {
@@ -13469,7 +13469,7 @@
                                                         "name": "NODE_0000058",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 802,
                                                           "num_date": {
@@ -13485,7 +13485,7 @@
                                                     "name": "NODE_0000069",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Late phase"
+                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                       },
                                                       "div": 801,
                                                       "num_date": {
@@ -13544,7 +13544,7 @@
                                                             "name": "HKU-39849",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 810,
                                                               "num_date": {
@@ -13573,7 +13573,7 @@
                                                             "name": "HKU-39849-UOB",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 803,
                                                               "num_date": {
@@ -13641,7 +13641,7 @@
                                                                 "name": "WHU",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 816,
                                                                   "num_date": {
@@ -13660,7 +13660,7 @@
                                                                 "name": "TWC",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 803,
                                                                   "num_date": {
@@ -13690,7 +13690,7 @@
                                                                 "name": "HKU-39849-TCVSP-HARROD-00_1",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 805,
                                                                   "num_date": {
@@ -13719,7 +13719,7 @@
                                                                 "name": "HKU-39849-TCVSP-HARROD-00",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 804,
                                                                   "num_date": {
@@ -13756,7 +13756,7 @@
                                                                 "name": "HKU-39849-recSARS-CoV-HKU",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 807,
                                                                   "num_date": {
@@ -13772,7 +13772,7 @@
                                                             "name": "NODE_0000090",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 803,
                                                               "num_date": {
@@ -13788,7 +13788,7 @@
                                                         "name": "NODE_0000088",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 802,
                                                           "num_date": {
@@ -13869,7 +13869,7 @@
                                                                     "name": "SoD",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 811,
                                                                       "num_date": {
@@ -13893,7 +13893,7 @@
                                                                         "name": "FRA",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 808,
                                                                           "num_date": {
@@ -13912,7 +13912,7 @@
                                                                         "name": "Frankfurt-1",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 808,
                                                                           "num_date": {
@@ -13928,7 +13928,7 @@
                                                                     "name": "NODE_0000067",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 808,
                                                                       "num_date": {
@@ -13944,7 +13944,7 @@
                                                                 "name": "NODE_0000095",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 808,
                                                                   "num_date": {
@@ -13972,7 +13972,7 @@
                                                                     "name": "Sin2774",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 805,
                                                                       "num_date": {
@@ -14001,7 +14001,7 @@
                                                                     "name": "SinP5",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 805,
                                                                       "num_date": {
@@ -14020,7 +14020,7 @@
                                                                     "name": "SinP1",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 805,
                                                                       "num_date": {
@@ -14039,7 +14039,7 @@
                                                                     "name": "SinP3",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 805,
                                                                       "num_date": {
@@ -14071,7 +14071,7 @@
                                                                     "name": "SinP4",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 805,
                                                                       "num_date": {
@@ -14120,7 +14120,7 @@
                                                                     "name": "SinP2",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 805,
                                                                       "num_date": {
@@ -14136,7 +14136,7 @@
                                                                 "name": "NODE_0000097",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 805,
                                                                   "num_date": {
@@ -14152,7 +14152,7 @@
                                                             "name": "NODE_0000094",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 804,
                                                               "num_date": {
@@ -14198,7 +14198,7 @@
                                                                     "name": "Urbani",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 806,
                                                                       "num_date": {
@@ -14246,7 +14246,7 @@
                                                                         "name": "Mouse-adapted-MA-15",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 812,
                                                                           "num_date": {
@@ -14283,7 +14283,7 @@
                                                                         "name": "MA15",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 827,
                                                                           "num_date": {
@@ -14299,7 +14299,7 @@
                                                                     "name": "NODE_0000078",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 812,
                                                                       "num_date": {
@@ -14315,7 +14315,7 @@
                                                                 "name": "NODE_0000077",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 806,
                                                                   "num_date": {
@@ -14892,7 +14892,7 @@
                                                                         "name": "LC2",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 805,
                                                                           "num_date": {
@@ -14920,7 +14920,7 @@
                                                                             "name": "LC4",
                                                                             "node_attrs": {
                                                                               "clade_membership": {
-                                                                                "value": "Late phase"
+                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                               },
                                                                               "div": 804,
                                                                               "num_date": {
@@ -14949,7 +14949,7 @@
                                                                             "name": "LC5",
                                                                             "node_attrs": {
                                                                               "clade_membership": {
-                                                                                "value": "Late phase"
+                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                               },
                                                                               "div": 805,
                                                                               "num_date": {
@@ -14965,7 +14965,7 @@
                                                                         "name": "NODE_0000083",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 804,
                                                                           "num_date": {
@@ -14981,7 +14981,7 @@
                                                                     "name": "NODE_0000082",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 803,
                                                                       "num_date": {
@@ -15031,7 +15031,7 @@
                                                                             "name": "GZ-B",
                                                                             "node_attrs": {
                                                                               "clade_membership": {
-                                                                                "value": "Late phase"
+                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                               },
                                                                               "div": 804,
                                                                               "num_date": {
@@ -15108,7 +15108,7 @@
                                                                             "name": "GZ-C",
                                                                             "node_attrs": {
                                                                               "clade_membership": {
-                                                                                "value": "Late phase"
+                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                               },
                                                                               "div": 815,
                                                                               "num_date": {
@@ -15124,7 +15124,7 @@
                                                                         "name": "NODE_0000081",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 802,
                                                                           "num_date": {
@@ -15226,7 +15226,7 @@
                                                                                 "name": "Tor2",
                                                                                 "node_attrs": {
                                                                                   "clade_membership": {
-                                                                                    "value": "Late phase"
+                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                   },
                                                                                   "div": 803,
                                                                                   "num_date": {
@@ -15321,7 +15321,7 @@
                                                                                 "name": "ShanghaiQXC1",
                                                                                 "node_attrs": {
                                                                                   "clade_membership": {
-                                                                                    "value": "Late phase"
+                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                   },
                                                                                   "div": 840,
                                                                                   "num_date": {
@@ -15337,7 +15337,7 @@
                                                                             "name": "NODE_0000076",
                                                                             "node_attrs": {
                                                                               "clade_membership": {
-                                                                                "value": "Late phase"
+                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                               },
                                                                               "div": 802,
                                                                               "num_date": {
@@ -15380,7 +15380,7 @@
                                                                                     "name": "Sin2679",
                                                                                     "node_attrs": {
                                                                                       "clade_membership": {
-                                                                                        "value": "Late phase"
+                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                       },
                                                                                       "div": 803,
                                                                                       "num_date": {
@@ -15594,7 +15594,7 @@
                                                                                         "name": "Sin846",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 810,
                                                                                           "num_date": {
@@ -15628,7 +15628,7 @@
                                                                                             "name": "Sin842",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -15801,7 +15801,7 @@
                                                                                             "name": "Sin3408L",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -15817,7 +15817,7 @@
                                                                                         "name": "NODE_0000106",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 805,
                                                                                           "num_date": {
@@ -15862,7 +15862,7 @@
                                                                                             "name": "Sin850",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 807,
                                                                                               "num_date": {
@@ -16247,7 +16247,7 @@
                                                                                             "name": "Sin3408",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 806,
                                                                                               "num_date": {
@@ -16338,7 +16338,7 @@
                                                                                             "name": "Sin849",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -16357,7 +16357,7 @@
                                                                                             "name": "Sin3725V",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -16406,7 +16406,7 @@
                                                                                                 "name": "Sin845",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 811,
                                                                                                   "num_date": {
@@ -16445,7 +16445,7 @@
                                                                                                     "name": "Sin847",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 811,
                                                                                                       "num_date": {
@@ -16468,7 +16468,7 @@
                                                                                                     "name": "Sin848",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 812,
                                                                                                       "num_date": {
@@ -16484,7 +16484,7 @@
                                                                                                 "name": "NODE_0000112",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 811,
                                                                                                   "num_date": {
@@ -16513,7 +16513,7 @@
                                                                                                     "name": "Sin3765V",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 810,
                                                                                                       "num_date": {
@@ -16617,7 +16617,7 @@
                                                                                                     "name": "Sin852",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 810,
                                                                                                       "num_date": {
@@ -16633,7 +16633,7 @@
                                                                                                 "name": "NODE_0000114",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 810,
                                                                                                   "num_date": {
@@ -16649,7 +16649,7 @@
                                                                                             "name": "NODE_0000111",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 808,
                                                                                               "num_date": {
@@ -16665,7 +16665,7 @@
                                                                                         "name": "NODE_0000107",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 805,
                                                                                           "num_date": {
@@ -16681,7 +16681,7 @@
                                                                                     "name": "NODE_0000104",
                                                                                     "node_attrs": {
                                                                                       "clade_membership": {
-                                                                                        "value": "Late phase"
+                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                       },
                                                                                       "div": 804,
                                                                                       "num_date": {
@@ -16697,7 +16697,7 @@
                                                                                 "name": "NODE_0000103",
                                                                                 "node_attrs": {
                                                                                   "clade_membership": {
-                                                                                    "value": "Late phase"
+                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                   },
                                                                                   "div": 802,
                                                                                   "num_date": {
@@ -16726,7 +16726,7 @@
                                                                                         "name": "HSR-1",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 801,
                                                                                           "num_date": {
@@ -16770,7 +16770,7 @@
                                                                                             "name": "Sin2500",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 803,
                                                                                               "num_date": {
@@ -16809,7 +16809,7 @@
                                                                                                 "name": "Sin2748",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 802,
                                                                                                   "num_date": {
@@ -16849,7 +16849,7 @@
                                                                                                 "name": "Sin2677",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 804,
                                                                                                   "num_date": {
@@ -16865,7 +16865,7 @@
                                                                                             "name": "NODE_0000100",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 802,
                                                                                               "num_date": {
@@ -16881,7 +16881,7 @@
                                                                                         "name": "NODE_0000065",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 802,
                                                                                           "num_date": {
@@ -16897,7 +16897,7 @@
                                                                                     "name": "NODE_0000098",
                                                                                     "node_attrs": {
                                                                                       "clade_membership": {
-                                                                                        "value": "Late phase"
+                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                       },
                                                                                       "div": 801,
                                                                                       "num_date": {
@@ -16945,7 +16945,7 @@
                                                                                         "name": "PUMC01",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 804,
                                                                                           "num_date": {
@@ -16964,7 +16964,7 @@
                                                                                         "name": "LC1",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 802,
                                                                                           "num_date": {
@@ -16983,7 +16983,7 @@
                                                                                         "name": "TW5",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 802,
                                                                                           "num_date": {
@@ -17012,7 +17012,7 @@
                                                                                         "name": "CUHK-Su10",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 803,
                                                                                           "num_date": {
@@ -17053,7 +17053,7 @@
                                                                                             "name": "PUMC02",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 803,
                                                                                               "num_date": {
@@ -17082,7 +17082,7 @@
                                                                                             "name": "Sino3-11",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 804,
                                                                                               "num_date": {
@@ -17098,7 +17098,7 @@
                                                                                         "name": "NODE_0000126",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 803,
                                                                                           "num_date": {
@@ -17150,7 +17150,7 @@
                                                                                             "name": "PUMC03",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -17185,7 +17185,7 @@
                                                                                             "name": "Sino1-11",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 807,
                                                                                               "num_date": {
@@ -17201,7 +17201,7 @@
                                                                                         "name": "NODE_0000128",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 804,
                                                                                           "num_date": {
@@ -17233,7 +17233,7 @@
                                                                                             "name": "ZJ02",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 804,
                                                                                               "num_date": {
@@ -17634,7 +17634,7 @@
                                                                                                 "name": "BJ182-12",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 827,
                                                                                                   "num_date": {
@@ -17840,7 +17840,7 @@
                                                                                                     "name": "BJ182a",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 826,
                                                                                                       "num_date": {
@@ -17877,7 +17877,7 @@
                                                                                                         "name": "BJ182b",
                                                                                                         "node_attrs": {
                                                                                                           "clade_membership": {
-                                                                                                            "value": "Late phase"
+                                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                                           },
                                                                                                           "div": 829,
                                                                                                           "num_date": {
@@ -17924,7 +17924,7 @@
                                                                                                             "name": "BJ182-8",
                                                                                                             "node_attrs": {
                                                                                                               "clade_membership": {
-                                                                                                                "value": "Late phase"
+                                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                                               },
                                                                                                               "div": 833,
                                                                                                               "num_date": {
@@ -17959,7 +17959,7 @@
                                                                                                             "name": "BJ182-4",
                                                                                                             "node_attrs": {
                                                                                                               "clade_membership": {
-                                                                                                                "value": "Late phase"
+                                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                                               },
                                                                                                               "div": 835,
                                                                                                               "num_date": {
@@ -17975,7 +17975,7 @@
                                                                                                         "name": "NODE_0000121",
                                                                                                         "node_attrs": {
                                                                                                           "clade_membership": {
-                                                                                                            "value": "Late phase"
+                                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                                           },
                                                                                                           "div": 832,
                                                                                                           "num_date": {
@@ -17991,7 +17991,7 @@
                                                                                                     "name": "NODE_0000120",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 829,
                                                                                                       "num_date": {
@@ -18007,7 +18007,7 @@
                                                                                                 "name": "NODE_0000119",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 826,
                                                                                                   "num_date": {
@@ -18023,7 +18023,7 @@
                                                                                             "name": "NODE_0000118",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 821,
                                                                                               "num_date": {
@@ -18039,7 +18039,7 @@
                                                                                         "name": "NODE_0000117",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 803,
                                                                                           "num_date": {
@@ -18072,7 +18072,7 @@
                                                                                             "name": "Taiwan-TC1",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -18091,7 +18091,7 @@
                                                                                             "name": "TW8",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 804,
                                                                                               "num_date": {
@@ -18124,7 +18124,7 @@
                                                                                             "name": "CUHK-AG03",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 806,
                                                                                               "num_date": {
@@ -18183,7 +18183,7 @@
                                                                                             "name": "GD69",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 822,
                                                                                               "num_date": {
@@ -18202,7 +18202,7 @@
                                                                                             "name": "TW6",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 804,
                                                                                               "num_date": {
@@ -18221,7 +18221,7 @@
                                                                                             "name": "TWC3",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 804,
                                                                                               "num_date": {
@@ -18240,7 +18240,7 @@
                                                                                             "name": "CUHK-AG02",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 804,
                                                                                               "num_date": {
@@ -18268,7 +18268,7 @@
                                                                                                 "name": "TW7",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 805,
                                                                                                   "num_date": {
@@ -18287,7 +18287,7 @@
                                                                                                 "name": "TWC2",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 805,
                                                                                                   "num_date": {
@@ -18303,7 +18303,7 @@
                                                                                             "name": "NODE_0000134",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 805,
                                                                                               "num_date": {
@@ -18336,7 +18336,7 @@
                                                                                                 "name": "TWS",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 807,
                                                                                                   "num_date": {
@@ -18359,7 +18359,7 @@
                                                                                                 "name": "TW10",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 807,
                                                                                                   "num_date": {
@@ -18378,7 +18378,7 @@
                                                                                                 "name": "TW9",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 806,
                                                                                                   "num_date": {
@@ -18402,7 +18402,7 @@
                                                                                                 "name": "TWK",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 808,
                                                                                                   "num_date": {
@@ -18443,7 +18443,7 @@
                                                                                                 "name": "TW11",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 810,
                                                                                                   "num_date": {
@@ -18476,7 +18476,7 @@
                                                                                                 "name": "TWJ-genomic-RNA",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 807,
                                                                                                   "num_date": {
@@ -18514,7 +18514,7 @@
                                                                                                     "name": "Taiwan-TC3",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 808,
                                                                                                       "num_date": {
@@ -18545,7 +18545,7 @@
                                                                                                     "name": "Taiwan-TC2",
                                                                                                     "node_attrs": {
                                                                                                       "clade_membership": {
-                                                                                                        "value": "Late phase"
+                                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                                       },
                                                                                                       "div": 810,
                                                                                                       "num_date": {
@@ -18561,7 +18561,7 @@
                                                                                                 "name": "NODE_0000144",
                                                                                                 "node_attrs": {
                                                                                                   "clade_membership": {
-                                                                                                    "value": "Late phase"
+                                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                                   },
                                                                                                   "div": 807,
                                                                                                   "num_date": {
@@ -18577,7 +18577,7 @@
                                                                                             "name": "NODE_0000138",
                                                                                             "node_attrs": {
                                                                                               "clade_membership": {
-                                                                                                "value": "Late phase"
+                                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                                               },
                                                                                               "div": 806,
                                                                                               "num_date": {
@@ -18593,7 +18593,7 @@
                                                                                         "name": "NODE_0000129",
                                                                                         "node_attrs": {
                                                                                           "clade_membership": {
-                                                                                            "value": "Late phase"
+                                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                                           },
                                                                                           "div": 804,
                                                                                           "num_date": {
@@ -18609,7 +18609,7 @@
                                                                                     "name": "NODE_0000115",
                                                                                     "node_attrs": {
                                                                                       "clade_membership": {
-                                                                                        "value": "Late phase"
+                                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                                       },
                                                                                       "div": 802,
                                                                                       "num_date": {
@@ -18625,7 +18625,7 @@
                                                                                 "name": "NODE_0000096",
                                                                                 "node_attrs": {
                                                                                   "clade_membership": {
-                                                                                    "value": "Late phase"
+                                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                                   },
                                                                                   "div": 801,
                                                                                   "num_date": {
@@ -18641,7 +18641,7 @@
                                                                             "name": "NODE_0000087",
                                                                             "node_attrs": {
                                                                               "clade_membership": {
-                                                                                "value": "Late phase"
+                                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                                               },
                                                                               "div": 801,
                                                                               "num_date": {
@@ -18657,7 +18657,7 @@
                                                                         "name": "NODE_0000084",
                                                                         "node_attrs": {
                                                                           "clade_membership": {
-                                                                            "value": "Late phase"
+                                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                                           },
                                                                           "div": 801,
                                                                           "num_date": {
@@ -18673,7 +18673,7 @@
                                                                     "name": "NODE_0000079",
                                                                     "node_attrs": {
                                                                       "clade_membership": {
-                                                                        "value": "Late phase"
+                                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                                       },
                                                                       "div": 801,
                                                                       "num_date": {
@@ -18689,7 +18689,7 @@
                                                                 "name": "NODE_0000074",
                                                                 "node_attrs": {
                                                                   "clade_membership": {
-                                                                    "value": "Late phase"
+                                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                                   },
                                                                   "div": 801,
                                                                   "num_date": {
@@ -18705,7 +18705,7 @@
                                                             "name": "NODE_0000070",
                                                             "node_attrs": {
                                                               "clade_membership": {
-                                                                "value": "Late phase"
+                                                                "value": "Late phase (Hong-Kong M hotel)"
                                                               },
                                                               "div": 801,
                                                               "num_date": {
@@ -18721,7 +18721,7 @@
                                                         "name": "NODE_0000066",
                                                         "node_attrs": {
                                                           "clade_membership": {
-                                                            "value": "Late phase"
+                                                            "value": "Late phase (Hong-Kong M hotel)"
                                                           },
                                                           "div": 801,
                                                           "num_date": {
@@ -18737,7 +18737,7 @@
                                                     "name": "NODE_0000061",
                                                     "node_attrs": {
                                                       "clade_membership": {
-                                                        "value": "Late phase"
+                                                        "value": "Late phase (Hong-Kong M hotel)"
                                                       },
                                                       "div": 801,
                                                       "num_date": {
@@ -18753,7 +18753,7 @@
                                                 "name": "NODE_0000060",
                                                 "node_attrs": {
                                                   "clade_membership": {
-                                                    "value": "Late phase"
+                                                    "value": "Late phase (Hong-Kong M hotel)"
                                                   },
                                                   "div": 801,
                                                   "num_date": {
@@ -18769,7 +18769,7 @@
                                             "name": "NODE_0000051",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Middle phase"
+                                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                               },
                                               "div": 798,
                                               "num_date": {
@@ -18785,7 +18785,7 @@
                                         "name": "NODE_0000043",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Middle phase"
+                                            "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                           },
                                           "div": 797,
                                           "num_date": {
@@ -18801,7 +18801,7 @@
                                     "name": "NODE_0000041",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Middle phase"
+                                        "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                       },
                                       "div": 796,
                                       "num_date": {
@@ -18817,7 +18817,7 @@
                                 "name": "NODE_0000040",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Middle phase"
+                                    "value": "Middle phase (Guangzhou HSZ2 hospital)"
                                   },
                                   "div": 795,
                                   "num_date": {
@@ -18833,7 +18833,7 @@
                             "name": "NODE_0000036",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Middle phase"
+                                "value": "Middle phase (Guangzhou HSZ2 hospital)"
                               },
                               "div": 792,
                               "num_date": {
