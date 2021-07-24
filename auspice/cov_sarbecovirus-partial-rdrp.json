@@ -590,7 +590,7 @@
         "branch_attrs": {
           "labels": {
             "aa": "p: Y45H, C67S, W70R, N71H, R90*, P93Q",
-            "clade": "Europe"
+            "clade": "Europe-Africa"
           },
           "mutations": {
             "nuc": [
@@ -765,7 +765,7 @@
                       },
                       "accession": "KY352407",
                       "clade_membership": {
-                        "value": "Europe"
+                        "value": "Europe-Africa"
                       },
                       "country": {
                         "value": "Kenya"
@@ -834,7 +834,7 @@
                           },
                           "accession": "JQ649535",
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "country": {
                             "value": "Rwanda"
@@ -877,7 +877,7 @@
                               },
                               "accession": "JQ649536",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "Rwanda"
@@ -905,7 +905,7 @@
                               },
                               "accession": "MT726044",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "Uganda"
@@ -936,7 +936,7 @@
                               },
                               "accession": "MT726043",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "Uganda"
@@ -967,7 +967,7 @@
                               },
                               "accession": "MT726045",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "Rwanda"
@@ -991,7 +991,7 @@
                         "name": "NODE_0000034",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.09323384461439496,
                           "num_date": {
@@ -1003,7 +1003,7 @@
                     "name": "NODE_0000033",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "Europe"
+                        "value": "Europe-Africa"
                       },
                       "div": 0.09181195461439497,
                       "num_date": {
@@ -1015,7 +1015,7 @@
                 "name": "NODE_0000032",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "Europe"
+                    "value": "Europe-Africa"
                   },
                   "div": 0.06999992461439497,
                   "num_date": {
@@ -1174,7 +1174,7 @@
                         "value": "Alkhovsky et al. (2021)"
                       },
                       "clade_membership": {
-                        "value": "Europe"
+                        "value": "Europe-Africa"
                       },
                       "country": {
                         "value": "Russia"
@@ -1326,7 +1326,7 @@
                                 "value": "Crook et al. (2021)"
                               },
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "United Kingdom"
@@ -1388,7 +1388,7 @@
                                   },
                                   "accession": "KC633209",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Spain"
@@ -1416,7 +1416,7 @@
                                   },
                                   "accession": "KC633212",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Spain"
@@ -1444,7 +1444,7 @@
                                   },
                                   "accession": "KC633211",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Spain"
@@ -1487,7 +1487,7 @@
                                   },
                                   "accession": "KC633210",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Spain"
@@ -1534,7 +1534,7 @@
                                       },
                                       "accession": "KC633213",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Spain"
@@ -1566,7 +1566,7 @@
                                       },
                                       "accession": "KC633214",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Spain"
@@ -1587,7 +1587,7 @@
                                 "name": "NODE_0000044",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.14022281461439498,
                                   "num_date": {
@@ -1599,7 +1599,7 @@
                             "name": "NODE_0000040",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.13878800461439497,
                               "num_date": {
@@ -1611,7 +1611,7 @@
                         "name": "NODE_0000039",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.13388741461439496,
                           "num_date": {
@@ -1665,7 +1665,7 @@
                                   },
                                   "accession": "KF500953",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Italy"
@@ -1707,7 +1707,7 @@
                                       },
                                       "accession": "KF500952",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Italy"
@@ -1735,7 +1735,7 @@
                                       },
                                       "accession": "KF500954",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Italy"
@@ -1756,7 +1756,7 @@
                                 "name": "NODE_0000047",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.14669273461439497,
                                   "num_date": {
@@ -1768,7 +1768,7 @@
                             "name": "NODE_0000046",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.13936453461439496,
                               "num_date": {
@@ -1822,7 +1822,7 @@
                                 "node_attrs": {
                                   "accession": "GQ404797",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Slovenia"
@@ -1861,7 +1861,7 @@
                                     "node_attrs": {
                                       "accession": "GQ404795",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Slovenia"
@@ -1898,7 +1898,7 @@
                                             "value": "Rihtaric et al. (2010)"
                                           },
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Slovenia"
@@ -1935,7 +1935,7 @@
                                               },
                                               "accession": "KC633216",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Slovenia"
@@ -1963,7 +1963,7 @@
                                               },
                                               "accession": "KC633217",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Slovenia"
@@ -1991,7 +1991,7 @@
                                               },
                                               "accession": "KC633220",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Slovenia"
@@ -2019,7 +2019,7 @@
                                               },
                                               "accession": "KC633219",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Slovenia"
@@ -2047,7 +2047,7 @@
                                               },
                                               "accession": "KC633215",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Slovenia"
@@ -2075,7 +2075,7 @@
                                               },
                                               "accession": "KC633218",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Slovenia"
@@ -2096,7 +2096,7 @@
                                         "name": "NODE_0000051",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "div": 0.15525176461439497,
                                           "num_date": {
@@ -2108,7 +2108,7 @@
                                     "name": "NODE_0000050",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.15279554461439496,
                                       "num_date": {
@@ -2120,7 +2120,7 @@
                                 "name": "NODE_0000049",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.15033596461439497,
                                   "num_date": {
@@ -2132,7 +2132,7 @@
                             "name": "NODE_0000048",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.14530721461439497,
                               "num_date": {
@@ -2144,7 +2144,7 @@
                         "name": "NODE_0000045",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.12990196461439496,
                           "num_date": {
@@ -2156,7 +2156,7 @@
                     "name": "NODE_0000038",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "Europe"
+                        "value": "Europe-Africa"
                       },
                       "div": 0.11947263461439496,
                       "num_date": {
@@ -2168,7 +2168,7 @@
                 "name": "NODE_0000037",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "Europe"
+                    "value": "Europe-Africa"
                   },
                   "div": 0.08916668461439496,
                   "num_date": {
@@ -2180,7 +2180,7 @@
             "name": "NODE_0000031",
             "node_attrs": {
               "clade_membership": {
-                "value": "Europe"
+                "value": "Europe-Africa"
               },
               "div": 0.02828893461439496,
               "num_date": {
@@ -2237,7 +2237,7 @@
                 "node_attrs": {
                   "accession": "KT381914",
                   "clade_membership": {
-                    "value": "Europe"
+                    "value": "Europe-Africa"
                   },
                   "country": {
                     "value": "Taiwan"
@@ -2385,7 +2385,7 @@
                           },
                           "accession": "KY423411",
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "country": {
                             "value": "France"
@@ -2431,7 +2431,7 @@
                               },
                               "accession": "KY423414",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "France"
@@ -2474,7 +2474,7 @@
                                 "node_attrs": {
                                   "accession": "KC633208",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2518,7 +2518,7 @@
                                       },
                                       "accession": "KY423412",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Spain"
@@ -2551,7 +2551,7 @@
                                       },
                                       "accession": "KY423413",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Spain"
@@ -2572,7 +2572,7 @@
                                 "name": "NODE_0000062",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.10352503461439495,
                                   "num_date": {
@@ -2584,7 +2584,7 @@
                             "name": "NODE_0000061",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.09837254461439496,
                               "num_date": {
@@ -2612,7 +2612,7 @@
                                   },
                                   "accession": "KY423416",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2644,7 +2644,7 @@
                                   },
                                   "accession": "KY423432",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2672,7 +2672,7 @@
                                   },
                                   "accession": "KY423429",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2704,7 +2704,7 @@
                                   },
                                   "accession": "KY423430",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2732,7 +2732,7 @@
                                   },
                                   "accession": "KY423431",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2753,7 +2753,7 @@
                             "name": "NODE_0000064",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.09617228461439496,
                               "num_date": {
@@ -2765,7 +2765,7 @@
                         "name": "NODE_0000060",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.09361014461439496,
                           "num_date": {
@@ -2799,7 +2799,7 @@
                               },
                               "accession": "KY423402",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "France"
@@ -2834,7 +2834,7 @@
                                 "node_attrs": {
                                   "accession": "KC633207",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2868,7 +2868,7 @@
                                   },
                                   "accession": "KY423433",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2900,7 +2900,7 @@
                                   },
                                   "accession": "KY423376",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2932,7 +2932,7 @@
                                   },
                                   "accession": "KY423378",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -2960,7 +2960,7 @@
                                   },
                                   "accession": "KY423377",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "France"
@@ -3002,7 +3002,7 @@
                                           },
                                           "accession": "KY423401",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "France"
@@ -3035,7 +3035,7 @@
                                           },
                                           "accession": "KY423404",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "France"
@@ -3056,7 +3056,7 @@
                                     "name": "NODE_0000075",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.09632981461439495,
                                       "num_date": {
@@ -3087,7 +3087,7 @@
                                         "node_attrs": {
                                           "accession": "KY502395",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Luxembourg"
@@ -3112,7 +3112,7 @@
                                         "node_attrs": {
                                           "accession": "KC633205",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Italy"
@@ -3137,7 +3137,7 @@
                                         "node_attrs": {
                                           "accession": "KC633206",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Italy"
@@ -3165,7 +3165,7 @@
                                           },
                                           "accession": "KY423395",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "France"
@@ -3208,7 +3208,7 @@
                                               },
                                               "accession": "KY423375",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "France"
@@ -3236,7 +3236,7 @@
                                               },
                                               "accession": "KY423379",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "France"
@@ -3268,7 +3268,7 @@
                                               },
                                               "accession": "KY423403",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "France"
@@ -3289,7 +3289,7 @@
                                         "name": "NODE_0000080",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "div": 0.09713368461439495,
                                           "num_date": {
@@ -3301,7 +3301,7 @@
                                     "name": "NODE_0000076",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.09457604461439495,
                                       "num_date": {
@@ -3313,7 +3313,7 @@
                                 "name": "NODE_0000074",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.09377321461439495,
                                   "num_date": {
@@ -3325,7 +3325,7 @@
                             "name": "NODE_0000069",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.09320386461439495,
                               "num_date": {
@@ -3337,7 +3337,7 @@
                         "name": "NODE_0000068",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.09029209461439495,
                           "num_date": {
@@ -3349,7 +3349,7 @@
                     "name": "NODE_0000058",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "Europe"
+                        "value": "Europe-Africa"
                       },
                       "div": 0.08883782461439496,
                       "num_date": {
@@ -3459,7 +3459,7 @@
                               },
                               "accession": "MG975784",
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "Italy"
@@ -3514,7 +3514,7 @@
                                 "node_attrs": {
                                   "accession": "KC633200",
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "country": {
                                     "value": "Italy"
@@ -3549,7 +3549,7 @@
                                     "node_attrs": {
                                       "accession": "KC633199",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Italy"
@@ -3574,7 +3574,7 @@
                                     "node_attrs": {
                                       "accession": "KC633198",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Italy"
@@ -3620,7 +3620,7 @@
                                           },
                                           "accession": "KY780399",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Italy"
@@ -3648,7 +3648,7 @@
                                           },
                                           "accession": "KY780400",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Italy"
@@ -3676,7 +3676,7 @@
                                           },
                                           "accession": "KY780394",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Italy"
@@ -3712,7 +3712,7 @@
                                           },
                                           "accession": "KY780391",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Italy"
@@ -3733,7 +3733,7 @@
                                     "name": "NODE_0000087",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.10459671461439497,
                                       "num_date": {
@@ -3745,7 +3745,7 @@
                                 "name": "NODE_0000085",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.09650113461439497,
                                   "num_date": {
@@ -3757,7 +3757,7 @@
                             "name": "NODE_0000084",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.09347474461439496,
                               "num_date": {
@@ -3769,7 +3769,7 @@
                         "name": "NODE_0000083",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.07825944461439496,
                           "num_date": {
@@ -3825,7 +3825,7 @@
                                 "value": "Alkhovsky et al. (2021)"
                               },
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "country": {
                                 "value": "Russia"
@@ -3904,7 +3904,7 @@
                                       },
                                       "accession": "GU190230",
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "country": {
                                         "value": "Bulgaria"
@@ -3955,7 +3955,7 @@
                                           },
                                           "accession": "GU190231",
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Bulgaria"
@@ -3997,7 +3997,7 @@
                                               },
                                               "accession": "GU190215",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Bulgaria"
@@ -4028,7 +4028,7 @@
                                               },
                                               "accession": "GU190217",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Bulgaria"
@@ -4049,7 +4049,7 @@
                                         "name": "NODE_0000094",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "div": 0.08420775461439496,
                                           "num_date": {
@@ -4061,7 +4061,7 @@
                                     "name": "NODE_0000093",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.08053560461439496,
                                       "num_date": {
@@ -4073,7 +4073,7 @@
                                 "name": "NODE_0000092",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.07637297461439496,
                                   "num_date": {
@@ -4119,7 +4119,7 @@
                                             "value": "Lojkic et al. (2021)"
                                           },
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "country": {
                                             "value": "Croatia"
@@ -4185,7 +4185,7 @@
                                                 "value": "Said et al."
                                               },
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Lebanon"
@@ -4219,7 +4219,7 @@
                                                 "value": "Said et al."
                                               },
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Lebanon"
@@ -4253,7 +4253,7 @@
                                                 "value": "Said et al."
                                               },
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Lebanon"
@@ -4287,7 +4287,7 @@
                                                 "value": "Said et al."
                                               },
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Lebanon"
@@ -4321,7 +4321,7 @@
                                                 "value": "Said et al."
                                               },
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Lebanon"
@@ -4345,7 +4345,7 @@
                                         "name": "NODE_0000097",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "div": 0.10745246461439498,
                                           "num_date": {
@@ -4357,7 +4357,7 @@
                                     "name": "NODE_0000096",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.07578159461439497,
                                       "num_date": {
@@ -4419,7 +4419,7 @@
                                               },
                                               "accession": "GU190226",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Bulgaria"
@@ -4475,7 +4475,7 @@
                                                   },
                                                   "accession": "KC633202",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4515,7 +4515,7 @@
                                                   },
                                                   "accession": "GU190224",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4548,7 +4548,7 @@
                                                   },
                                                   "accession": "KC633201",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4569,7 +4569,7 @@
                                             "name": "NODE_0000103",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "div": 0.08409099461439495,
                                               "num_date": {
@@ -4581,7 +4581,7 @@
                                         "name": "NODE_0000102",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "div": 0.07988442461439496,
                                           "num_date": {
@@ -4625,7 +4625,7 @@
                                             "node_attrs": {
                                               "accession": "KJ652335",
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "country": {
                                                 "value": "Hungary"
@@ -4669,7 +4669,7 @@
                                                   },
                                                   "accession": "KC633204",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4697,7 +4697,7 @@
                                                   },
                                                   "accession": "GU190221",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4735,7 +4735,7 @@
                                                   },
                                                   "accession": "GU190223",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4767,7 +4767,7 @@
                                                   },
                                                   "accession": "KC633203",
                                                   "clade_membership": {
-                                                    "value": "Europe"
+                                                    "value": "Europe-Africa"
                                                   },
                                                   "country": {
                                                     "value": "Bulgaria"
@@ -4788,7 +4788,7 @@
                                             "name": "NODE_0000106",
                                             "node_attrs": {
                                               "clade_membership": {
-                                                "value": "Europe"
+                                                "value": "Europe-Africa"
                                               },
                                               "div": 0.07890922461439497,
                                               "num_date": {
@@ -4800,7 +4800,7 @@
                                         "name": "NODE_0000105",
                                         "node_attrs": {
                                           "clade_membership": {
-                                            "value": "Europe"
+                                            "value": "Europe-Africa"
                                           },
                                           "div": 0.07753197461439497,
                                           "num_date": {
@@ -4812,7 +4812,7 @@
                                     "name": "NODE_0000101",
                                     "node_attrs": {
                                       "clade_membership": {
-                                        "value": "Europe"
+                                        "value": "Europe-Africa"
                                       },
                                       "div": 0.07587903461439496,
                                       "num_date": {
@@ -4824,7 +4824,7 @@
                                 "name": "NODE_0000095",
                                 "node_attrs": {
                                   "clade_membership": {
-                                    "value": "Europe"
+                                    "value": "Europe-Africa"
                                   },
                                   "div": 0.07326190461439497,
                                   "num_date": {
@@ -4836,7 +4836,7 @@
                             "name": "NODE_0000091",
                             "node_attrs": {
                               "clade_membership": {
-                                "value": "Europe"
+                                "value": "Europe-Africa"
                               },
                               "div": 0.07031252461439497,
                               "num_date": {
@@ -4848,7 +4848,7 @@
                         "name": "NODE_0000090",
                         "node_attrs": {
                           "clade_membership": {
-                            "value": "Europe"
+                            "value": "Europe-Africa"
                           },
                           "div": 0.06731523461439497,
                           "num_date": {
@@ -4860,7 +4860,7 @@
                     "name": "NODE_0000082",
                     "node_attrs": {
                       "clade_membership": {
-                        "value": "Europe"
+                        "value": "Europe-Africa"
                       },
                       "div": 0.06467673461439497,
                       "num_date": {
@@ -4872,7 +4872,7 @@
                 "name": "NODE_0000057",
                 "node_attrs": {
                   "clade_membership": {
-                    "value": "Europe"
+                    "value": "Europe-Africa"
                   },
                   "div": 0.055221064614394966,
                   "num_date": {
@@ -4884,7 +4884,7 @@
             "name": "NODE_0000056",
             "node_attrs": {
               "clade_membership": {
-                "value": "Europe"
+                "value": "Europe-Africa"
               },
               "div": 0.025788814614394962,
               "num_date": {
@@ -4896,7 +4896,7 @@
         "name": "NODE_0000030",
         "node_attrs": {
           "clade_membership": {
-            "value": "Europe"
+            "value": "Europe-Africa"
           },
           "div": 0.014168914614394961,
           "num_date": {
