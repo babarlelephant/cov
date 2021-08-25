@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      },
+      {
+        "key": "posterior",
+        "title": "posterior",
+        "type": "continuous"
+      }
+    ],
+    "filters": [],
+    "panels": [
+      "tree"
+    ],
+    "updated": "2021-08-25"
+  },
+  "tree": {
+    "branch_attrs": {},
+    "children": [
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "name": "H11N9|A/duck/Memphis/546/1974",
+            "node_attrs": {
+              "num_date": {
+                "value": 1974.0
+              },
+              "posterior": {
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "H1N1|A/Brevig_Mission/1/1918",
+                    "node_attrs": {
+                      "num_date": {
+                        "value": 1918.0
+                      },
+                      "posterior": {
+                        "value": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/Hickox/1940",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1940.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "H1N1|A/WSN/1933",
+                            "node_attrs": {
+                              "num_date": {
+                                "value": 1933.0
+                              },
+                              "posterior": {
+                                "value": 1.0
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "H1N1|A/Wilson-Smith/1933",
+                            "node_attrs": {
+                              "num_date": {
+                                "value": 1933.0
+                              },
+                              "posterior": {
+                                "value": 1.0
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000005",
+                        "node_attrs": {
+                          "num_date": {
+                            "confidence": [
+                              1931.3427723754767,
+                              1930.5122947609473
+                            ],
+                            "value": 1930.93407593697
+                          },
+                          "posterior": {
+                            "value": 0.999000999000999
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000004",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1924.932763210266,
+                          1922.5195104544568
+                        ],
+                        "value": 1923.768478068087
+                      },
+                      "posterior": {
+                        "value": 0.999000999000999
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000003",
+                "node_attrs": {
+                  "num_date": {
+                    "confidence": [
+                      1914.3968373010173,
+                      1911.3647217807104
+                    ],
+                    "value": 1912.7231740461912
+                  },
+                  "posterior": {
+                    "value": 0.998001998001998
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/swine/JY2/1931",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1931.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/swine/USA/1976/1931",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1931.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000007",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1928.561543536064,
+                          1927.5793143686965
+                        ],
+                        "value": 1928.104889508059
+                      },
+                      "posterior": {
+                        "value": 0.999000999000999
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/swine/Ohio/23/1935",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1935.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/swine/Wisconsin/1/1957",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1957.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000008",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1931.620749538942,
+                          1929.8348931386245
+                        ],
+                        "value": 1930.7113402988418
+                      },
+                      "posterior": {
+                        "value": 0.999000999000999
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000006",
+                "node_attrs": {
+                  "num_date": {
+                    "confidence": [
+                      1926.3720178492817,
+                      1924.629430363845
+                    ],
+                    "value": 1925.487399948032
+                  },
+                  "posterior": {
+                    "value": 0.999000999000999
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000002",
+            "node_attrs": {
+              "num_date": {
+                "confidence": [
+                  1910.1083489730092,
+                  1905.9029278548476
+                ],
+                "value": 1908.196861435488
+              },
+              "posterior": {
+                "value": 0.7152847152847153
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000001",
+        "node_attrs": {
+          "num_date": {
+            "confidence": [
+              1909.843986985087,
+              1899.5855777662741
+            ],
+            "value": 1905.2122808313663
+          },
+          "posterior": {
+            "value": 0.974025974025974
+          }
+        }
+      },
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "name": "H3N8|A/equine/Miami/1/1963",
+            "node_attrs": {
+              "num_date": {
+                "value": 1963.0
+              },
+              "posterior": {
+                "value": 1.0
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/New_York/3014/2009",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 2009.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/swine/North_Carolina/SG1479/2005",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 2005.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000012",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1993.7822745255007,
+                          1990.6745310205713
+                        ],
+                        "value": 1991.9648917002414
+                      },
+                      "posterior": {
+                        "value": 0.999000999000999
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/mallard/Wisconsin/142/1976",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1976.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "H3N2|A/Albany/4/1969",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1969.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000013",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1960.6991546437682,
+                          1954.1161752482105
+                        ],
+                        "value": 1957.14230143376
+                      },
+                      "posterior": {
+                        "value": 0.954045954045954
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000011",
+                "node_attrs": {
+                  "num_date": {
+                    "confidence": [
+                      1950.4560104437826,
+                      1942.0702452856412
+                    ],
+                    "value": 1946.5963919488042
+                  },
+                  "posterior": {
+                    "value": 0.958041958041958
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H1N1|A/duck/Bavaria/2/1977",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1977.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "H2N1|A/mallard/Stralsund/41-6/1981",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1981.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000015",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1974.1656092264639,
+                          1969.1776068131303
+                        ],
+                        "value": 1971.3771734977659
+                      },
+                      "posterior": {
+                        "value": 0.999000999000999
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "H3N1|A/mallard_duck/Minnesota/1979",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 1979.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "H5N1|A/mallard/ON/499/2005",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 2005.0
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000016",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          1975.0704893121451,
+                          1969.3908429759988
+                        ],
+                        "value": 1973.1235779223962
+                      },
+                      "posterior": {
+                        "value": 0.9600399600399601
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000014",
+                "node_attrs": {
+                  "num_date": {
+                    "confidence": [
+                      1944.1257489457307,
+                      1935.503122210265
+                    ],
+                    "value": 1940.578640200818
+                  },
+                  "posterior": {
+                    "value": 0.9090909090909091
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000010",
+            "node_attrs": {
+              "num_date": {
+                "confidence": [
+                  1941.475951141154,
+                  1929.8482711002425
+                ],
+                "value": 1936.2190187101733
+              },
+              "posterior": {
+                "value": 0.987012987012987
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000009",
+        "node_attrs": {
+          "num_date": {
+            "confidence": [
+              1888.067178798166,
+              1865.5365440776684
+            ],
+            "value": 1879.242327546012
+          },
+          "posterior": {
+            "value": 0.7922077922077922
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000000",
+    "node_attrs": {
+      "num_date": {
+        "confidence": [
+          1877.6617765913932,
+          1828.0170118269439
+        ],
+        "value": 1863.2616509259728
+      },
+      "posterior": {
+        "value": 1.0
+      }
+    }
+  },
+  "version": "v2"
+}
