@@ -30811,10 +30811,13 @@
                                                                     "branch_attrs": {
                                                                       "mutations": {}
                                                                     },
-                                                                    "name": "naX|Wuhan/Hu-1/2019",
+                                                                    "name": "41M|Wuhan/Hu-1/2019",
                                                                     "node_attrs": {
                                                                       "Accession": {
                                                                         "value": "EPI_ISL_402125"
+                                                                      },
+                                                                      "age": {
+                                                                        "value": "41"
                                                                       },
                                                                       "author": {
                                                                         "author": "Zhang,Y.-Z., Wu,F., Chen,Y.-M., Pei,Y.-Y., Xu,L., Wang,W., Zhao,S., Yu,B., Hu,Y., Tao,Z.-W., Song,Z.-G., Tian,J.-H., Zhang,Y.-L., Liu,Y., Zheng,J.-J., Dai,F.-H., Wang,Q.-M., She,J.-L. and Zhu,T.-Y.",
@@ -30838,7 +30841,7 @@
                                                                         "value": "National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)"
                                                                       },
                                                                       "sex": {
-                                                                        "value": "X"
+                                                                        "value": "Male"
                                                                       },
                                                                       "submitting_lab": {
                                                                         "value": "National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)"
