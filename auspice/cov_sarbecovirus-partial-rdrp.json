@@ -413,6 +413,10 @@
             "latitude": 18.56,
             "longitude": 101.97561
           },
+          "Fujian": {
+            "latitude": 26.284852,
+            "longitude": 118.122938
+          },
           "Gloucestershire": {
             "latitude": 51.82930075394037,
             "longitude": -2.129498250860435
@@ -432,6 +436,10 @@
           "Guizhou": {
             "latitude": 26.5,
             "longitude": 106.5
+          },
+          "Henan": {
+            "latitude": 33.817629,
+            "longitude": 113.690243
           },
           "Hezhou": {
             "latitude": 24.394740904748037,
@@ -457,6 +465,10 @@
             "latitude": 27.6662087,
             "longitude": 111.7487063
           },
+          "Jiangxi": {
+            "latitude": 27.458973,
+            "longitude": 115.535326
+          },
           "Jilin": {
             "latitude": 43.42,
             "longitude": 126.12
@@ -469,6 +481,10 @@
             "latitude": 35.0865384,
             "longitude": 112.2611172
           },
+          "Korea": {
+            "latitude": 36.609249,
+            "longitude": 127.917932
+          },
           "Kunming": {
             "latitude": 25.013024,
             "longitude": 102.866742
@@ -476,6 +492,10 @@
           "Lebanon": {
             "latitude": 33.8750629,
             "longitude": 35.843409
+          },
+          "Liaoning": {
+            "latitude": 40.9975197,
+            "longitude": 122.9955469
           },
           "Lingqiu": {
             "latitude": 39.3520183,
