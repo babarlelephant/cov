@@ -61,7 +61,9 @@
       "location",
       "division",
       "country",
-      "length"
+      "length",
+	  "submitting_lab",
+	  "originating_lab"
     ],
     "genome_annotations": {
       "E": {
