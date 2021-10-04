@@ -1,0 +1,242 @@
+<html>
+
+<head><meta charset="UTF-8">	
+	<title>Visiting the Wuhan seafood market</title>
+	<meta name="description" content="Visiting the Wuhan seafood market">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Visiting the Wuhan seafood market">
+	<meta property="og:url" content="http://babarlelephant.free-hoster.net/visit-the-wuhan-seafood-market/">
+	<meta property="og:image" content="http://babarlelephant.free-hoster.net/visit-the-wuhan-seafood-market/icon.jpg">
+	<meta property="og:image:width" content="1438">
+	<meta property="og:image:height" content="1214">
+	<meta property="article:modified_time" content="2021-10-04T15:22:50+00:00" />
+
+</head>
+
+<body>
+
+<table style="position:relative; height:90%;">
+<td style="position:relative;width:70%;">
+<div id = "market" style="position:relative;width:100%;">
+	<img src = "market.png" width="100%"/>
+</div>
+
+</td>
+<td style="width:30%" >
+<div id="right"  style="position:relative;overflow-y:auto; height:100%;">
+Click on the pink dots to walk through the market.<br/>
+All but a few images with vendors were taken on December 31 between the first rumors and the market closure at 1am of January 1.
+Most other pictures were taken in January and are from a lot of different Chinese websites, searching for 华南海鲜市场. Pay attention to the few videos.
+<br/>With all the respect due to the victims, including those in the market who sparked the pandemic. Remember that a few early cases weren't connected to the market.
+<!--<span>65M IPBCAMS-WH-01</span><br/><img src='http://image.nbd.com.cn/uploads/articles/images/805277/1577766855__2.jpg'/>-->
+</div>
+<td>
+</table>
+<style>
+.street {
+	position:absolute;
+	//background:green;
+	//background:#FF00FFA0;
+	z-Index:1;
+	border-radius:50%;
+	
+}
+.dot {
+	position:absolute;
+	//background:green;
+	background:#FF00FFA0;
+	z-Index:1;
+	border-radius:50%;
+	
+}
+.dot:hover {
+	background:black;
+}
+iframe {
+	width:150%;
+	height:150%;
+	transform:scale(0.7);
+	transform-origin: top left;
+	overflow-x:auto;
+	overflow-y:auto;
+}
+</style>
+<br/>
+<input type="button" value="addPlace" onclick="javascript:addPlace();"/>
+<input type="button" value="editPlace" onclick="javascript:editPlace();"/>
+<input type="button" value="exportData" onclick="javascript:exportData();"/>
+
+<script src="data.js"></script>
+<script>
+var currentAction = "none";
+var market=document.getElementById("market");
+var o = {};
+function parseAndDrawData(data) {
+	var tab = data.split("\n");
+
+	var name = "";
+	for (var j = 0; j < tab.length; j++) {
+		if (tab[j].length > 3) {
+			if (tab[j][0] != "\t") {
+				name = tab[j].split("\r")[0].split("\n")[0].split("\t")[0]; //.split(" ")[0];
+				if (!(name in o)) o[name]=[];
+				//console.log(name+":");
+			}
+			else {
+				var l = tab[j].split("\n")[0];
+				o[name].push(l.substr(1));
+			}
+		}
+	}
+	for (var n in o) {
+		if (n[0]!="#") {
+			var l = n.split("-");
+			if (n.includes("street")) {
+				addDot(l[0],l[1],"street",l[3]);
+			} 
+			else {
+				addDot(parseFloat(l[0]),parseFloat(l[1]));
+			}
+		}
+	}
+}
+
+parseAndDrawData(dummyFunctionFromDataJs.toString().split("/*")[1].split("*/")[0]); // dummyFunctionFromDataJs comes from data.js loaded in a <script> tag above
+
+var tmpButtonsCount = 0;
+
+function marketAddPlaceOnClick(e) {
+	var x = e.offsetX,y=e.offsetY;
+	var percentX = Math.round(x/market.clientWidth*100*10)/10;
+	var percentY = Math.round(y/market.clientHeight*100*10)/10;
+	addDot(percentX,percentY);
+}
+
+function addDot(percentX,percentY,className,text) {
+	var d = document.createElement("div");
+	if (!className)	className = "dot";
+	d.className=className;
+	if (text) d.innerText = text;
+	var percentRadiusX = 0.4;
+	var percentRadiusY = 0.4*market.clientWidth/market.clientHeight;
+	
+	var ss ="top:"+(percentY-percentRadiusY)+"%;left:"+(percentX-percentRadiusX)+"%;width:"+(percentRadiusX*2)+"%;height:"+(percentRadiusY*2)+"%;";
+	d.style=ss;
+	//console.log(ss);
+
+	var s = percentX+"-"+percentY;
+	d.onclick=function(e) {
+		if (currentAction == "editPlace") {
+			var righthtml = "<textarea id='edit' wrap='off' cols='50'rows='10' onkeydown='javascript:return handleTabInTextarea(this);'>\n";
+			righthtml+=s+"\n";
+			for (var j = 0; j < o[s].length; j++) {
+				righthtml += "\t" + o[s][j]+"\n";
+			}
+			if (o[s].length==0) {
+				righthtml += "\t#comment\timage-url\n";
+			}
+			righthtml += "</textarea><br/><input type='button' value='save' id='tmpButtonsCountSv"+tmpButtonsCount+"'/><input type='button' value='undo' onclick='javascript:undo();'/><input type='button' value='movePlace' id='tmpButtonsCountMv"+tmpButtonsCount+"'/><input type='button' value='removePlace' id='tmpButtonsCountRm"+tmpButtonsCount+"'/>";
+			document.getElementById("right").innerHTML=righthtml;
+			document.getElementById("tmpButtonsCountRm"+tmpButtonsCount).onclick = function() { removePlace(s,d);}
+			document.getElementById("tmpButtonsCountMv"+tmpButtonsCount).onclick = function() { movePlace(s,d);}
+			document.getElementById("tmpButtonsCountSv"+tmpButtonsCount).onclick = function() { savePlace(s);}
+			tmpButtonsCount++;
+			
+			e.stopImmediatePropagation();
+			currentAction = "none";
+		}
+		else if (currentAction == "none") {
+			var righthtml = "";
+			for (var j = 0; j < o[s].length; j++) {
+				if (o[s][j][0]!="#") {
+					var l = o[s][j].split("\t");
+					if (l[0] != "HTML") {
+						righthtml += "<span>"+l[0]+"</span><br/><img src='"+l[1]+"' width='100%'/>\n";
+					} else {
+						righthtml += l[1];
+					}
+				}
+			}
+			console.log(righthtml);
+			document.getElementById("right").innerHTML=righthtml;
+		}
+	}
+	market.appendChild(d);
+	market.onclick = null;
+	if (! (s in o)) o[s] = [];
+}
+
+function savePlace(s) {
+	delete o[s];
+	parseAndDrawData(document.getElementById("right").querySelector("textarea").value);
+	
+}
+function handleTabInTextarea(t) {
+	if(event.keyCode===9){
+		var v=t.value,s=t.selectionStart,e=t.selectionEnd;t.value=v.substring(0, s)+'\t'+v.substring(e);t.selectionStart=t.selectionEnd=s+1; return false;
+	}
+	return true;
+}
+function movePlace(s,d) {
+	market.onclick = function (e) {
+		var x = e.offsetX,y=e.offsetY;
+		var percentX = Math.round(x/market.clientWidth*100*10)/10;
+		var percentY = Math.round(y/market.clientHeight*100*10)/10;
+		var tmp = o[s];
+		delete o[s];
+		var ss = percentX+"-"+percentY;
+		o[ss] = tmp;
+		d.parentNode.removeChild(d);
+		addDot(percentX,percentY);
+		o["#"+s+" moved to "+ss] = [];
+	}
+}
+function removePlace(s,d) {
+	d.parentNode.removeChild(d);
+	var t = o[s];
+	delete o[s];
+	o["#"+s] = t;
+}
+function addPlace() {
+	market.onclick = marketAddPlaceOnClick;
+	currentAction = "addPlace";
+}
+function editPlace() {
+	currentAction = "editPlace";
+	market.onclick = null;
+}
+function exportData() {
+	var t = document.createElement("textarea");
+	t.onkeydown = function() { return handleTabInTextarea(t);}
+	t.setAttribute('wrap','off');
+	t.setAttribute('cols',50);
+	t.setAttribute('rows',20);
+	var v = "";
+	for (var s in o) {
+		v += s+"\n";
+		for (var j in o[s]) {
+			v += "\t"+o[s][j]+"\n";
+		}
+	}
+	t.value = v;
+	document.getElementById("right").innerHTML = "";
+	document.getElementById("right").appendChild(t);
+}
+document.addEventListener("resize", function() {
+	var radius = Math.round(market.clientWidth*0.01);
+	for (var j = 0; j < market.children.length; j++) {
+		var d = market.children[j];
+		if (d.tagName=="div") {
+			var percentRadiusX = 0.4;
+			var percentRadiusY = 0.4*market.clientWidth/market.clientHeight;
+			d.percentX = x/market.clientWidth*100;
+			d.percentY = y/market.clientHeight*100;
+			var ss ="top:"+(d.percentY-percentRadiusY)+"%;left:"+(d.percentX-percentRadiusX)+"%;width:"+(percentRadiusX*2)+"%;height:"+(percentRadiusY*2)+"%;";
+			d.style=ss;
+		}
+	}
+});
+</script>
+</body>
+</html>
