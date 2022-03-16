@@ -61,9 +61,7 @@
       "location",
       "division",
       "country",
-      "length",
-	  "submitting_lab",
-	  "originating_lab"
+      "length"
     ],
     "genome_annotations": {
       "E": {
@@ -180,10 +178,11 @@
     ],
     "panels": [
       "tree",
-      "entropy"
+      "entropy",
+      "frequencies"
     ],
     "title": "Early SARS-CoV-2 sequences including Bloom partial sequences and rooted at T28144C",
-    "updated": "2021-09-02"
+    "updated": "2022-03-16"
   },
   "tree": {
     "branch_attrs": {
