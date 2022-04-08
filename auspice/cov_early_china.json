@@ -1,6 +1,6 @@
 {
   "meta": {
-    "colorings": [  
+    "colorings": [
       {
         "key": "gt",
         "title": "Genotype",
@@ -24313,7 +24313,7 @@
                                                         "branch_attrs": {
                                                           "mutations": {}
                                                         },
-                                                        "name": "naX|Wuhan/WHU02/2020",
+                                                        "name": "21F|Wuhan/WHU02/2020",
                                                         "node_attrs": {
                                                           "Accession": {
                                                             "value": "EPI_ISL_406717"
@@ -24358,7 +24358,7 @@
                                                         "branch_attrs": {
                                                           "mutations": {}
                                                         },
-                                                        "name": "naX|Wuhan/WHU01/2020",
+                                                        "name": "39M|Wuhan/WHU01/2020",
                                                         "node_attrs": {
                                                           "Accession": {
                                                             "value": "EPI_ISL_406716"
