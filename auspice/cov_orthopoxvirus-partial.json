@@ -266,7 +266,7 @@
       "tree",
       "map"
     ],
-    "title": "Orthopoxvirus, genbank near full length genomes",
+    "title": "Orthopoxvirus, 5000nt alignment, several short regions concatenated to match the partial sequences",
     "updated": "2022-05-19"
   },
   "tree": {
