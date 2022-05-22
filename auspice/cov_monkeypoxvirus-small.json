@@ -1460,6 +1460,9 @@
           "genbankHost": {
             "value": "Homo sapiens"
           },
+          "host": {
+            "value": "Homo sapiens"
+          },
           "isolate": {
             "value": "MT903339"
           },
@@ -1508,6 +1511,9 @@
               },
               "div": 1.52113e-05,
               "genbankHost": {
+                "value": "Homo sapiens"
+              },
+              "host": {
                 "value": "Homo sapiens"
               },
               "isolate": {
@@ -1572,6 +1578,9 @@
                       "genbankHost": {
                         "value": "Homo sapiens"
                       },
+                      "host": {
+                        "value": "Homo sapiens"
+                      },
                       "isolate": {
                         "value": "MT903338"
                       },
@@ -1596,6 +1605,9 @@
                       },
                       "div": 4.56343e-05,
                       "genbankHost": {
+                        "value": "Homo sapiens"
+                      },
+                      "host": {
                         "value": "Homo sapiens"
                       },
                       "isolate": {
@@ -1700,12 +1712,12 @@
                       "date": {
                         "value": "2017"
                       },
-                      "div": 0.0002130271,
+                      "div": 0.0002130266,
                       "genbankHost": {
                         "value": "Homo sapiens"
                       },
                       "host": {
-                        "value": "Human"
+                        "value": "Homo sapiens"
                       },
                       "isolate": {
                         "value": "MPXV_Nig_2017_297957"
@@ -1794,7 +1806,7 @@
                             "value": "Homo sapiens"
                           },
                           "host": {
-                            "value": "Human"
+                            "value": "Homo sapiens"
                           },
                           "isolate": {
                             "value": "Israel_2018"
@@ -1837,8 +1849,14 @@
                                   "country": {
                                     "value": "Nigeria"
                                   },
+                                  "date": {
+                                    "value": "Aug 2018"
+                                  },
                                   "div": 9.85025e-05,
                                   "genbankHost": {
+                                    "value": "Homo sapiens"
+                                  },
+                                  "host": {
                                     "value": "Homo sapiens"
                                   },
                                   "isolate": {
@@ -1873,8 +1891,14 @@
                                   "country": {
                                     "value": "United Kingdom"
                                   },
+                                  "date": {
+                                    "value": "Sep 2018"
+                                  },
                                   "div": 0.00010293539999999999,
                                   "genbankHost": {
+                                    "value": "Homo sapiens"
+                                  },
+                                  "host": {
                                     "value": "Homo sapiens"
                                   },
                                   "isolate": {
@@ -1924,8 +1948,14 @@
                                   "country": {
                                     "value": "Singapore"
                                   },
+                                  "date": {
+                                    "value": "Apr 2019"
+                                  },
                                   "div": 0.00010800609999999999,
                                   "genbankHost": {
+                                    "value": "Homo sapiens"
+                                  },
+                                  "host": {
                                     "value": "Homo sapiens"
                                   },
                                   "isolate": {
@@ -1967,8 +1997,14 @@
                                           "country": {
                                             "value": "United Kingdom"
                                           },
+                                          "date": {
+                                            "value": "Sep 2018"
+                                          },
                                           "div": 0.00010394939999999999,
                                           "genbankHost": {
+                                            "value": "Homo sapiens"
+                                          },
+                                          "host": {
                                             "value": "Homo sapiens"
                                           },
                                           "isolate": {
@@ -1988,8 +2024,14 @@
                                           "country": {
                                             "value": "United Kingdom"
                                           },
+                                          "date": {
+                                            "value": "Sep 2018"
+                                          },
                                           "div": 0.00010394939999999999,
                                           "genbankHost": {
+                                            "value": "Homo sapiens"
+                                          },
+                                          "host": {
                                             "value": "Homo sapiens"
                                           },
                                           "isolate": {
