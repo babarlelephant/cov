@@ -1925,6 +1925,7 @@
               "A86925G",
               "A87058G",
               "G87064A",
+              "T87510C",
               "A87744G",
               "T89223C",
               "T89588G",
@@ -2103,7 +2104,7 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "MPXV-UK_P2-136: V101I, S535N; p003-ankyrin-like: D437Y; p006-epidermal-growth-factor-like-protein: A11T; p010-ankyrin-like-protein: N135K, R555L, K637E; p012-ankyrin-like-protein: N601K; p021-ankyin-like-protein: V89M; p023-ankyrin-like-protein: V277D; p036-Hypothetical-protein: K64E; p058-Hypothetical-protein: T599N; p066: T97M; p068-putative-metalloprotease: V587M; p082: F37L; p083: K152Q; p088: V846I; p092: D294E; p128-DNA-helicase: M439T; p137: A292T; p139: T65I; p144: M1I; p145: A65T; p153: S70A; p160: A232T; p164-hypothetical-protein: N356K, Q376R; p170: I39N, R47X, T48-, D49-, C50-, S51-, V52-, H53-, R54-, P55-, T56-, A57-, S58-, G59-, G60-, L61-, I62-, T63-, E64-, G65-, N66-, G67-, F68-, R69-, V70-, X71-, X72-, Y73-, D74-, Q75-, C76-, T77-, E78-, P79-, H80-, D81-, F82-, I83-, I84-, T85-, D86-, T87-, Q88-, Q89-, T90-, R91-, L92-, G93-, S94-, S95-, H96-, T97-, Y98-, I99-, K100-, F101-, S102-, N103-, M104-, N105-, T106-, G107-, V108-, P109-, S110-, S111-, I112-, P113-, K114-, C115-, S116-, R117-, T118-, L119-, S120-, I121-, S122-, V123-, Y124-, C125-, D126-, Q127-, E128-, A129-, G130-, D131-, I132-, K133-, F134-, E135-, E136-, Y137-, T138-, Q139-, E140-, S141-, S142-, D143-, I144-, S145-, I146-, R147-, V148-, K149-, Y150-, D151-, S152-, S153-, C154-, I155-, D156-, Y157-, L158-, G159-, I160-, N161-, Q162-, S163-, F164-, M165-, N166-, E167-, C168-, I169-, R170-, R171-, I172-, T173-, T174-, W175-, D176-, R177-, E178-, S179-, C180-, V181-, R182-, I183-, D184-, T185-, Q186-, T187-, I188-, N189-, K190-, Y191-, L192-, K193-, S194-, C195-, T196-, N197-, T198-, K199-, F200-, D201-, R202-, N203-, V204-, Y205-, K206-, R207-, Y208X; p175-IL-beta-binding-protein: V18I; p177: A150V; p180: T328I; p182-surface-glycoprotein: N729K; p184-hypothetical-protein: P140H"
+                "aa": "MPXV-UK_P2-136: V101I, S535N; p003-ankyrin-like: D437Y; p006-epidermal-growth-factor-like-protein: A11T; p010-ankyrin-like-protein: N135K, R555L, K637E; p012-ankyrin-like-protein: N601K; p021-ankyin-like-protein: V89M; p023-ankyrin-like-protein: V277D; p036-Hypothetical-protein: K64E; p058-Hypothetical-protein: T599N; p066: T97M; p068-putative-metalloprotease: V587M; p082: F37L; p083: K152Q; p088: V846I; p092: D294E; p128-DNA-helicase: M439T; p137: A292T; p139: T65I; p144: M1I; p145: A65T; p153: S70A; p160: A232T; p164-hypothetical-protein: N356K, Q376R; p170: I39N, R47X, T48-, D49-, C50-, S51-, V52-, H53-, R54-, P55-, T56-, A57-, S58-, G59-, G60-, L61-, I62-, T63-, E64-, G65-, N66-, G67-, F68-, R69-, V70-, X71-, X72-, Y73-, D74-, Q75-, C76-, T77-, E78-, P79-, H80-, D81-, F82-, I83-, I84-, T85-, D86-, T87-, Q88-, Q89-, T90-, R91-, L92-, G93-, S94-, S95-, H96-, T97-, Y98-, I99-, K100-, F101-, S102-, N103-, M104-, N105-, T106-, G107-, V108-, P109-, S110-, S111-, I112-, P113-, K114-, C115-, S116-, R117-, T118-, L119-, S120-, I121-, S122-, V123-, Y124-, C125-, D126-, Q127-, E128-, A129-, G130-, D131-, I132-, K133-, F134-, E135-, E136-, Y137-, T138-, Q139-, E140-, S141-, S142-, D143-, I144-, S145-, I146-, R147-, V148-, K149-, Y150-, D151-, S152-, S153-, C154-, I155-, D156-, Y157-, L158-, G159-, I160-, N161-, Q162-, S163-, F164-, M165-, N166-, E167-, C168-, I169-, R170-, R171-, I172-, T173-, T174-, W175-, D176-, R177-, E178-, S179-, C180-, V181-, R182-, I183-, D184-, T185-, Q186-, T187-, I188-, N189-, K190-, Y191-, L192-, K193-, S194-, C195-, T196-, N197-, T198-, K199-, F200-, D201-, R202-, N203-, V204-, Y205-, K206-, R207-, Y208X; p171: X18S, X19D, X20T; p175-IL-beta-binding-protein: V18I; p177: A150V; p180: T328I; p182-surface-glycoprotein: N729K; p184-hypothetical-protein: P140H"
               },
               "mutations": {
                 "MPXV-UK_P2-136": [
@@ -2159,7 +2160,6 @@
                   "A80592C",
                   "G83670A",
                   "A84287G",
-                  "T87510C",
                   "G88575T",
                   "C92639A",
                   "G103430A",
@@ -2671,6 +2671,10 @@
                   "G168861-",
                   "T168862-",
                   "C168956T",
+                  "-169734A",
+                  "-169736A",
+                  "-169737T",
+                  "-169738A",
                   "T170765C",
                   "G172747A",
                   "C173646T",
@@ -2937,6 +2941,11 @@
                   "R207-",
                   "Y208X"
                 ],
+                "p171": [
+                  "X18S",
+                  "X19D",
+                  "X20T"
+                ],
                 "p175-IL-beta-binding-protein": [
                   "V18I"
                 ],
@@ -2965,12 +2974,12 @@
                   "country": {
                     "value": "USA"
                   },
-                  "div": 0.0016191779067214565,
+                  "div": 0.0015559512718839748,
                   "host": {
                     "value": "gambian rat"
                   },
                   "num_date": {
-                    "value": 2003.009346431933
+                    "value": 2003.0075673483773
                   },
                   "outbreak_associated": {
                     "value": "no"
@@ -2998,59 +3007,12 @@
                     "name": "USA_2003_044",
                     "node_attrs": {
                       "accession": "DQ011153",
-                      "div": 0.0016242732620798583,
+                      "div": 0.0015610419210045107,
                       "host": {
                         "value": "prairie dog"
                       },
                       "num_date": {
-                        "value": 2003.1925097054766
-                      },
-                      "outbreak_associated": {
-                        "value": "no"
-                      },
-                      "region": {
-                        "value": "North America"
-                      }
-                    }
-                  },
-                  {
-                    "branch_attrs": {
-                      "mutations": {}
-                    },
-                    "name": "MPXV-USA2003_099_Rope_Squirrel",
-                    "node_attrs": {
-                      "accession": "MT903348",
-                      "country": {
-                        "value": "USA"
-                      },
-                      "div": 0.0016242732620798583,
-                      "host": {
-                        "value": "squirrel"
-                      },
-                      "num_date": {
-                        "value": 2003.1925097054766
-                      },
-                      "outbreak_associated": {
-                        "value": "no"
-                      },
-                      "region": {
-                        "value": "North America"
-                      }
-                    }
-                  },
-                  {
-                    "branch_attrs": {
-                      "mutations": {}
-                    },
-                    "name": "USA_2003_039",
-                    "node_attrs": {
-                      "accession": "DQ011157",
-                      "div": 0.0016242732620798583,
-                      "host": {
-                        "value": "human"
-                      },
-                      "num_date": {
-                        "value": 2003.1925097054766
+                        "value": 2003.232583414642
                       },
                       "outbreak_associated": {
                         "value": "no"
@@ -3070,12 +3032,59 @@
                       "country": {
                         "value": "USA"
                       },
-                      "div": 0.0016242732620798583,
+                      "div": 0.0015610419210045107,
                       "host": {
                         "value": "dormouse"
                       },
                       "num_date": {
-                        "value": 2003.1925097054766
+                        "value": 2003.232583414642
+                      },
+                      "outbreak_associated": {
+                        "value": "no"
+                      },
+                      "region": {
+                        "value": "North America"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "mutations": {}
+                    },
+                    "name": "USA_2003_039",
+                    "node_attrs": {
+                      "accession": "DQ011157",
+                      "div": 0.0015610419210045107,
+                      "host": {
+                        "value": "human"
+                      },
+                      "num_date": {
+                        "value": 2003.232583414642
+                      },
+                      "outbreak_associated": {
+                        "value": "no"
+                      },
+                      "region": {
+                        "value": "North America"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "mutations": {}
+                    },
+                    "name": "MPXV-USA2003_099_Rope_Squirrel",
+                    "node_attrs": {
+                      "accession": "MT903348",
+                      "country": {
+                        "value": "USA"
+                      },
+                      "div": 0.0015610419210045107,
+                      "host": {
+                        "value": "squirrel"
+                      },
+                      "num_date": {
+                        "value": 2003.232583414642
                       },
                       "outbreak_associated": {
                         "value": "no"
@@ -3088,18 +3097,18 @@
                 ],
                 "name": "NODE_0000020",
                 "node_attrs": {
-                  "div": 0.0016242732620798583,
+                  "div": 0.0015610419210045107,
                   "num_date": {
-                    "value": 2003.1925097054766
+                    "value": 2003.232583414642
                   }
                 }
               }
             ],
             "name": "NODE_0000019",
             "node_attrs": {
-              "div": 0.0016191779067214565,
+              "div": 0.0015559512718839748,
               "num_date": {
-                "value": 2003.009346431933
+                "value": 2003.0075673483773
               }
             }
           },
@@ -3240,6 +3249,7 @@
                       "C71664G",
                       "C79989T",
                       "T80773G",
+                      "C87510T",
                       "C93710T",
                       "A95747G",
                       "C125807T",
@@ -3337,7 +3347,7 @@
                   {
                     "branch_attrs": {
                       "labels": {
-                        "aa": "p012-ankyrin-like-protein: L126F; p017: A74V; p023-ankyrin-like-protein: M1-, D2-, L3-, S4-, R5-, I6-, N7-, T8-, W9-, K10-, S11-, K12-, Q13-, L14-, K15-, S16-, F17-, L18-, S19-, S20-, K21-, D22X, *285X; p029-Hypothetical-protein: V16X, H17-, D18X, *220X; p031-Kelch-like-protein: D478X, *483X; p039-Hypothetical-protein: T302I; p040-EEV-maturation-protein: C203Y; p078: Y137H; p110-late-transcription-factor-VLTF-3: A192T; p171: S18X, D19-, T20-, D21-, T22X; p180: *4X, *6X, *14X, F15X, F18L, F20L, *27X, *43X, *46X, *63X, *71X, *93X, *100X, *111X, *119X, *128X, *138X, *139X, *170X, *176X, *210X, *217X, *223X, *227X, *244X, *255X, *265X, *268X, *290X, *299X, *316X, *325X, *329X, *336X, *347X; p188: W1-, T2-, R3-, L4-, C5-, A6-, S7-, L8X, *53X, *60X, *64X, *76X, *85X, *111X, *125X, *151X, *160X, *211X, *212X, *269X, *280X, *306X, *324X, *338X, *398X, *404X, *423X, *426X, *427X, *432X, *446X, *455X, *463X, *474X, *491X, *520X, *541X, *563X, *566X, *571X"
+                        "aa": "p012-ankyrin-like-protein: L126F; p017: A74V; p023-ankyrin-like-protein: M1-, D2-, L3-, S4-, R5-, I6-, N7-, T8-, W9-, K10-, S11-, K12-, Q13-, L14-, K15-, S16-, F17-, L18-, S19-, S20-, K21-, D22X, *285X; p029-Hypothetical-protein: V16X, H17-, D18X, *220X; p031-Kelch-like-protein: D478X, *483X; p039-Hypothetical-protein: T302I; p040-EEV-maturation-protein: C203Y; p078: Y137H; p110-late-transcription-factor-VLTF-3: A192T; p171: X19-, X20-, D21-, T22X; p180: *4X, *6X, *14X, F15X, F18L, F20L, *27X, *43X, *46X, *63X, *71X, *93X, *100X, *111X, *119X, *128X, *138X, *139X, *170X, *176X, *210X, *217X, *223X, *227X, *244X, *255X, *265X, *268X, *290X, *299X, *316X, *325X, *329X, *336X, *347X; p188: W1-, T2-, R3-, L4-, C5-, A6-, S7-, L8X, *53X, *60X, *64X, *76X, *85X, *111X, *125X, *151X, *160X, *211X, *212X, *269X, *280X, *306X, *324X, *338X, *398X, *404X, *423X, *426X, *427X, *432X, *446X, *455X, *463X, *474X, *491X, *520X, *541X, *563X, *566X, *571X"
                       },
                       "mutations": {
                         "nuc": [
@@ -3531,11 +3541,7 @@
                           "A156421G",
                           "G167500A",
                           "C169733-",
-                          "A169734-",
                           "G169735-",
-                          "A169736-",
-                          "T169737-",
-                          "A169738-",
                           "C169739-",
                           "A169740-",
                           "G169741-",
@@ -3936,9 +3942,8 @@
                           "A192T"
                         ],
                         "p171": [
-                          "S18X",
-                          "D19-",
-                          "T20-",
+                          "X19-",
+                          "X20-",
                           "D21-",
                           "T22X"
                         ],
@@ -4029,9 +4034,9 @@
                       "country": {
                         "value": "Netherlands"
                       },
-                      "div": 0.0017699004034773935,
+                      "div": 0.0017133592471832246,
                       "num_date": {
-                        "value": 1965.9986301769864
+                        "value": 1965.9986301869862
                       },
                       "outbreak_associated": {
                         "value": "no"
@@ -4044,7 +4049,7 @@
                   {
                     "branch_attrs": {
                       "labels": {
-                        "aa": "p018-Hypothetical-protein: Y133C; p024-serine-protease-inhibitor-like-protein: Q327H; p031-Kelch-like-protein: D478X, *483X; p058-Hypothetical-protein: K196N; p091: V2A; p130-IMV-membrane-protein: A31T; p170: W175L; p171: S18X, D19-, T20X"
+                        "aa": "p018-Hypothetical-protein: Y133C; p024-serine-protease-inhibitor-like-protein: Q327H; p031-Kelch-like-protein: D478X, *483X; p058-Hypothetical-protein: K196N; p091: V2A; p130-IMV-membrane-protein: A31T; p170: W175L; p171: X19-"
                       },
                       "mutations": {
                         "nuc": [
@@ -4080,11 +4085,7 @@
                           "G163266A",
                           "G168764T",
                           "C169733-",
-                          "A169734-",
                           "G169735-",
-                          "A169736-",
-                          "T169737-",
-                          "A169738-",
                           "T178118-",
                           "T178119-",
                           "A196633C"
@@ -4112,9 +4113,7 @@
                           "W175L"
                         ],
                         "p171": [
-                          "S18X",
-                          "D19-",
-                          "T20X"
+                          "X19-"
                         ]
                       }
                     },
@@ -4124,9 +4123,9 @@
                       "country": {
                         "value": "France"
                       },
-                      "div": 0.0014658672653648653,
+                      "div": 0.0014102776593936871,
                       "num_date": {
-                        "value": 1968.0013661602186
+                        "value": 1968.0013661702185
                       },
                       "outbreak_associated": {
                         "value": "no"
@@ -4139,7 +4138,7 @@
                   {
                     "branch_attrs": {
                       "labels": {
-                        "aa": "p006-epidermal-growth-factor-like-protein: A11D; p067-RNA-helicase-NPH-II: P391S; p118: S91L; p137: D378-, D379-, D380-, D381-, D382-, D383-, D384-, D385-"
+                        "aa": "p006-epidermal-growth-factor-like-protein: A11D; p067-RNA-helicase-NPH-II: P391S; p118: S91L; p137: D378-, D379-, D380-, D381-, D382-, D383-, D384-, D385-; p171: X18S, X19D, X20T"
                       },
                       "mutations": {
                         "nuc": [
@@ -4171,7 +4170,11 @@
                           "A136545-",
                           "T136546-",
                           "C136547-",
-                          "G148327-"
+                          "G148327-",
+                          "-169734A",
+                          "-169736A",
+                          "-169737T",
+                          "-169738A"
                         ],
                         "p006-epidermal-growth-factor-like-protein": [
                           "A11D"
@@ -4191,6 +4194,11 @@
                           "D383-",
                           "D384-",
                           "D385-"
+                        ],
+                        "p171": [
+                          "X18S",
+                          "X19D",
+                          "X20T"
                         ]
                       }
                     },
@@ -4227,9 +4235,9 @@
                         "name": "MPXV_WRAIR7_61__Walter_Reed_267",
                         "node_attrs": {
                           "accession": "AY603973",
-                          "div": 0.0013835395960344042,
+                          "div": 0.00132811611225816,
                           "num_date": {
-                            "value": 1961.0013699030137
+                            "value": 1961.0013699130136
                           },
                           "outbreak_associated": {
                             "value": "no"
@@ -4277,9 +4285,9 @@
                             "name": "COP_58",
                             "node_attrs": {
                               "accession": "AY753185",
-                              "div": 0.0013783838677248628,
+                              "div": 0.0013229542456203312,
                               "num_date": {
-                                "value": 1958.9404370155125
+                                "value": 1958.9385657725252
                               },
                               "outbreak_associated": {
                                 "value": "no"
@@ -4357,7 +4365,7 @@
                               "country": {
                                 "value": "Democratic Republic of the Congo"
                               },
-                              "div": 0.0013989751606716357,
+                              "div": 0.0013435323371586985,
                               "host": {
                                 "value": "rat"
                               },
@@ -4375,34 +4383,34 @@
                         ],
                         "name": "NODE_0000017",
                         "node_attrs": {
-                          "div": 0.0013783838677248628,
+                          "div": 0.0013229542456203312,
                           "num_date": {
-                            "value": 1958.9404370155125
+                            "value": 1958.9385657725252
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000016",
                     "node_attrs": {
-                      "div": 0.0013580019322000667,
+                      "div": 0.0013025917929836285,
                       "num_date": {
-                        "value": 1958.6289237769379
+                        "value": 1958.5346804434123
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000014",
                 "node_attrs": {
-                  "div": 0.0013427032017324673,
+                  "div": 0.0012873078452293237,
                   "num_date": {
-                    "value": 1958.2943857322841
+                    "value": 1957.8420224007837
                   }
                 }
               },
               {
                 "branch_attrs": {
                   "labels": {
-                    "aa": "MPXV-UK_P2-136: A241V; p003-ankyrin-like: E174A; p024-serine-protease-inhibitor-like-protein: D39-; p047-poly-A-polymerase-large-subunit: V149I; p137: D369-, M370X, *510X; p187-ankyrin-like-protein: L428S"
+                    "aa": "MPXV-UK_P2-136: A241V; p003-ankyrin-like: E174A; p024-serine-protease-inhibitor-like-protein: D39-; p047-poly-A-polymerase-large-subunit: V149I; p137: D369-, M370X, *510X; p171: X18S, X19D, X20T; p187-ankyrin-like-protein: L428S"
                   },
                   "mutations": {
                     "MPXV-UK_P2-136": [
@@ -4419,7 +4427,6 @@
                       "C28402T",
                       "C43253T",
                       "T69861C",
-                      "T87510C",
                       "C133531T",
                       "G135382A",
                       "A136570-",
@@ -4435,6 +4442,10 @@
                       "A163206-",
                       "A163207-",
                       "C163208-",
+                      "-169734A",
+                      "-169736A",
+                      "-169737T",
+                      "-169738A",
                       "T179164-",
                       "A179165-",
                       "T179166-",
@@ -4466,6 +4477,11 @@
                       "D369-",
                       "M370X",
                       "*510X"
+                    ],
+                    "p171": [
+                      "X18S",
+                      "X19D",
+                      "X20T"
                     ],
                     "p187-ankyrin-like-protein": [
                       "L428S"
@@ -4807,9 +4823,9 @@
                       "country": {
                         "value": "Sierra Leone"
                       },
-                      "div": 0.0014738730213679613,
+                      "div": 0.0014184251159678393,
                       "num_date": {
-                        "value": 1970.0013699030137
+                        "value": 1970.0013699130136
                       },
                       "outbreak_associated": {
                         "value": "no"
@@ -5033,9 +5049,9 @@
                           "country": {
                             "value": "Cote d'Ivoire"
                           },
-                          "div": 0.00153034988148636,
+                          "div": 0.0014747692503310186,
                           "num_date": {
-                            "value": 1971.9986301769864
+                            "value": 1971.9986301869862
                           },
                           "outbreak_associated": {
                             "value": "no"
@@ -5098,12 +5114,12 @@
                               "country": {
                                 "value": "Liberia"
                               },
-                              "div": 0.0014625611713429923,
+                              "div": 0.0014070291510203032,
                               "host": {
                                 "value": "human"
                               },
                               "num_date": {
-                                "value": 1970.9986301769864
+                                "value": 1970.9986301869862
                               },
                               "outbreak_associated": {
                                 "value": "no"
@@ -5208,12 +5224,12 @@
                                   "country": {
                                     "value": "Cote d'Ivoire"
                                   },
-                                  "div": 0.0015509843729093053,
+                                  "div": 0.0014953394687025666,
                                   "host": {
                                     "value": "Monkey"
                                   },
                                   "num_date": {
-                                    "value": 2012.247267799563
+                                    "value": 2012.2472678095628
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -5434,7 +5450,7 @@
                                       "country": {
                                         "value": "Cote d'Ivoire"
                                       },
-                                      "div": 0.001571509285490329,
+                                      "div": 0.0015158447192202395,
                                       "host": {
                                         "value": "chimpanzee"
                                       },
@@ -5512,7 +5528,7 @@
                                           "country": {
                                             "value": "Cote d'Ivoire"
                                           },
-                                          "div": 0.0015662733833677607,
+                                          "div": 0.0015106016747822536,
                                           "host": {
                                             "value": "chimpanzee"
                                           },
@@ -11787,7 +11803,7 @@
                                               "country": {
                                                 "value": "Cote d'Ivoire"
                                               },
-                                              "div": 0.0015662733833677607,
+                                              "div": 0.0015106016747822536,
                                               "host": {
                                                 "value": "chimpanzee"
                                               },
@@ -11829,7 +11845,7 @@
                                                   "country": {
                                                     "value": "Cote d'Ivoire"
                                                   },
-                                                  "div": 0.0015662733833677607,
+                                                  "div": 0.0015106016747822536,
                                                   "host": {
                                                     "value": "chimpanzee"
                                                   },
@@ -11919,7 +11935,7 @@
                                                       "country": {
                                                         "value": "Cote d'Ivoire"
                                                       },
-                                                      "div": 0.0015662733833677607,
+                                                      "div": 0.0015106016747822536,
                                                       "host": {
                                                         "value": "chimpanzee"
                                                       },
@@ -12000,7 +12016,7 @@
                                                           "country": {
                                                             "value": "Cote d'Ivoire"
                                                           },
-                                                          "div": 0.0015662733833677607,
+                                                          "div": 0.0015106016747822536,
                                                           "host": {
                                                             "value": "chimpanzee"
                                                           },
@@ -12022,8 +12038,24 @@
                                                         "children": [
                                                           {
                                                             "branch_attrs": {
+                                                              "labels": {
+                                                                "aa": "p137: -366X, -367X, *510X"
+                                                              },
                                                               "mutations": {
                                                                 "nuc": [
+                                                                  "-136578A",
+                                                                  "-136582T",
+                                                                  "-136583C",
+                                                                  "-179185A",
+                                                                  "-179188T",
+                                                                  "-179189T",
+                                                                  "-179190A",
+                                                                  "-179191T",
+                                                                  "-179192A",
+                                                                  "-179193T",
+                                                                  "-179194A",
+                                                                  "-179195C",
+                                                                  "-179196A",
                                                                   "-179197T",
                                                                   "-179198T",
                                                                   "-179199A",
@@ -12051,21 +12083,26 @@
                                                                   "-179221A",
                                                                   "-179222C",
                                                                   "-179223A"
+                                                                ],
+                                                                "p137": [
+                                                                  "-366X",
+                                                                  "-367X",
+                                                                  "*510X"
                                                                 ]
                                                               }
                                                             },
-                                                            "name": "MPXV_TNP_2017_North_Saro",
+                                                            "name": "MPXV_TNP_2017_North_Mama",
                                                             "node_attrs": {
-                                                              "accession": "MN346694",
+                                                              "accession": "MN346692",
                                                               "country": {
                                                                 "value": "Cote d'Ivoire"
                                                               },
-                                                              "div": 0.0015662733833677607,
+                                                              "div": 0.0015106016747822536,
                                                               "host": {
                                                                 "value": "chimpanzee"
                                                               },
                                                               "num_date": {
-                                                                "value": 2017.2369863013698
+                                                                "value": 2017.1739726027397
                                                               },
                                                               "outbreak_associated": {
                                                                 "value": "no"
@@ -12082,24 +12119,8 @@
                                                             "children": [
                                                               {
                                                                 "branch_attrs": {
-                                                                  "labels": {
-                                                                    "aa": "p137: -366X, -367X, *510X"
-                                                                  },
                                                                   "mutations": {
                                                                     "nuc": [
-                                                                      "-136578A",
-                                                                      "-136582T",
-                                                                      "-136583C",
-                                                                      "-179185A",
-                                                                      "-179188T",
-                                                                      "-179189T",
-                                                                      "-179190A",
-                                                                      "-179191T",
-                                                                      "-179192A",
-                                                                      "-179193T",
-                                                                      "-179194A",
-                                                                      "-179195C",
-                                                                      "-179196A",
                                                                       "-179197T",
                                                                       "-179198T",
                                                                       "-179199A",
@@ -12127,26 +12148,21 @@
                                                                       "-179221A",
                                                                       "-179222C",
                                                                       "-179223A"
-                                                                    ],
-                                                                    "p137": [
-                                                                      "-366X",
-                                                                      "-367X",
-                                                                      "*510X"
                                                                     ]
                                                                   }
                                                                 },
-                                                                "name": "MPXV_TNP_2017_North_Mama",
+                                                                "name": "MPXV_TNP_2017_North_Saro",
                                                                 "node_attrs": {
-                                                                  "accession": "MN346692",
+                                                                  "accession": "MN346694",
                                                                   "country": {
                                                                     "value": "Cote d'Ivoire"
                                                                   },
-                                                                  "div": 0.0015662733833677607,
+                                                                  "div": 0.0015106016747822536,
                                                                   "host": {
                                                                     "value": "chimpanzee"
                                                                   },
                                                                   "num_date": {
-                                                                    "value": 2017.1739726027397
+                                                                    "value": 2017.2369863013698
                                                                   },
                                                                   "outbreak_associated": {
                                                                     "value": "no"
@@ -12161,6 +12177,31 @@
                                                                   "mutations": {}
                                                                 },
                                                                 "children": [
+                                                                  {
+                                                                    "branch_attrs": {
+                                                                      "mutations": {}
+                                                                    },
+                                                                    "name": "MPXV_TNP_2017_North_Surprise_1",
+                                                                    "node_attrs": {
+                                                                      "accession": "MN346696",
+                                                                      "country": {
+                                                                        "value": "Cote d'Ivoire"
+                                                                      },
+                                                                      "div": 0.0015106016747822536,
+                                                                      "host": {
+                                                                        "value": "chimpanzee"
+                                                                      },
+                                                                      "num_date": {
+                                                                        "value": 2017.2534246575342
+                                                                      },
+                                                                      "outbreak_associated": {
+                                                                        "value": "no"
+                                                                      },
+                                                                      "region": {
+                                                                        "value": "Africa"
+                                                                      }
+                                                                    }
+                                                                  },
                                                                   {
                                                                     "branch_attrs": {
                                                                       "labels": {
@@ -12222,7 +12263,7 @@
                                                                       "country": {
                                                                         "value": "Cote d'Ivoire"
                                                                       },
-                                                                      "div": 0.0015662733833677607,
+                                                                      "div": 0.0015106016747822536,
                                                                       "host": {
                                                                         "value": "chimpanzee"
                                                                       },
@@ -12236,164 +12277,139 @@
                                                                         "value": "Africa"
                                                                       }
                                                                     }
-                                                                  },
-                                                                  {
-                                                                    "branch_attrs": {
-                                                                      "mutations": {}
-                                                                    },
-                                                                    "name": "MPXV_TNP_2017_North_Surprise_1",
-                                                                    "node_attrs": {
-                                                                      "accession": "MN346696",
-                                                                      "country": {
-                                                                        "value": "Cote d'Ivoire"
-                                                                      },
-                                                                      "div": 0.0015662733833677607,
-                                                                      "host": {
-                                                                        "value": "chimpanzee"
-                                                                      },
-                                                                      "num_date": {
-                                                                        "value": 2017.2534246575342
-                                                                      },
-                                                                      "outbreak_associated": {
-                                                                        "value": "no"
-                                                                      },
-                                                                      "region": {
-                                                                        "value": "Africa"
-                                                                      }
-                                                                    }
                                                                   }
                                                                 ],
                                                                 "name": "NODE_0000033",
                                                                 "node_attrs": {
-                                                                  "div": 0.0015662733833677607,
+                                                                  "div": 0.0015106016747822536,
                                                                   "num_date": {
-                                                                    "value": 2017.056939754733
+                                                                    "value": 2017.0521645859035
                                                                   }
                                                                 }
                                                               }
                                                             ],
                                                             "name": "NODE_0000031",
                                                             "node_attrs": {
-                                                              "div": 0.0015662733833677607,
+                                                              "div": 0.0015106016747822536,
                                                               "num_date": {
-                                                                "value": 2017.0476349460948
+                                                                "value": 2017.0521645859035
                                                               }
                                                             }
                                                           }
                                                         ],
                                                         "name": "NODE_0000028",
                                                         "node_attrs": {
-                                                          "div": 0.0015662733833677607,
+                                                          "div": 0.0015106016747822536,
                                                           "num_date": {
-                                                            "value": 2017.0386983249448
+                                                            "value": 2017.0407706029314
                                                           }
                                                         }
                                                       }
                                                     ],
                                                     "name": "NODE_0000026",
                                                     "node_attrs": {
-                                                      "div": 0.0015662733833677607,
+                                                      "div": 0.0015106016747822536,
                                                       "num_date": {
-                                                        "value": 2017.0296986314443
+                                                        "value": 2017.029676272795
                                                       }
                                                     }
                                                   }
                                                 ],
                                                 "name": "NODE_0000022",
                                                 "node_attrs": {
-                                                  "div": 0.0015662733833677607,
+                                                  "div": 0.0015106016747822536,
                                                   "num_date": {
-                                                    "value": 2017.0209933220706
+                                                    "value": 2017.0184396129198
                                                   }
                                                 }
                                               }
                                             ],
                                             "name": "NODE_0000021",
                                             "node_attrs": {
-                                              "div": 0.0015662733833677607,
+                                              "div": 0.0015106016747822536,
                                               "num_date": {
-                                                "value": 2017.0124213685383
+                                                "value": 2017.007710422529
                                               }
                                             }
                                           }
                                         ],
                                         "name": "NODE_0000015",
                                         "node_attrs": {
-                                          "div": 0.0015662733833677607,
+                                          "div": 0.0015106016747822536,
                                           "num_date": {
-                                            "value": 2017.003744767134
+                                            "value": 2016.9967175014306
                                           }
                                         }
                                       }
                                     ],
                                     "name": "NODE_0000003",
                                     "node_attrs": {
-                                      "div": 0.0015662733833677607,
+                                      "div": 0.0015106016747822536,
                                       "num_date": {
-                                        "value": 2016.9950832668583
+                                        "value": 2016.9856843502243
                                       }
                                     }
                                   }
                                 ],
                                 "name": "NODE_0000002",
                                 "node_attrs": {
-                                  "div": 0.001540685944905147,
+                                  "div": 0.0014850402672943357,
                                   "num_date": {
-                                    "value": 2015.5793996452542
+                                    "value": 2015.82500886162
                                   }
                                 }
                               }
                             ],
                             "name": "NODE_0000001",
                             "node_attrs": {
-                              "div": 0.0015254037194294512,
+                              "div": 0.0014697724247034712,
                               "num_date": {
-                                "value": 2011.4313762917102
+                                "value": 2011.213787805642
                               }
                             }
                           }
                         ],
                         "name": "NODE_0000000",
                         "node_attrs": {
-                          "div": 0.0014523533381048718,
+                          "div": 0.0013968265974566142,
                           "num_date": {
-                            "value": 1970.7214591261406
+                            "value": 1970.6223313642922
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000011",
                     "node_attrs": {
-                      "div": 0.0014421631439391037,
+                      "div": 0.0013866462637643594,
                       "num_date": {
-                        "value": 1969.5983653274436
+                        "value": 1969.2395660919465
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000012",
                 "node_attrs": {
-                  "div": 0.0012658140968333888,
+                  "div": 0.001210611054911212,
                   "num_date": {
-                    "value": 1960.3727319304448
+                    "value": 1958.7008493814283
                   }
                 }
               }
             ],
             "name": "NODE_0000013",
             "node_attrs": {
-              "div": 0.0011989048723090796,
+              "div": 0.001143775677170468,
               "num_date": {
-                "value": 1955.610164433545
+                "value": 1954.148214495461
               }
             }
           }
         ],
         "name": "NODE_0000018",
         "node_attrs": {
-          "div": 0.0010988941151122188,
+          "div": 0.0010439378440216327,
           "num_date": {
-            "value": 1953.1571938688653
+            "value": 1950.9577115540812
           }
         }
       },
@@ -12409,7 +12425,7 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "MPXV-UK_P2-186: *2X, *7X, *21X, *27X, *29X, *34X, *48X, *69X, *87X, *94X, *136X, *153X, *159X, V170X, *176X; p016-hypothetical-protein: N260T; p051: V35I; p058-Hypothetical-protein: D308N; p128-DNA-helicase: E7D; p134: E1005Q; p137: A236T; p152: R127H; p162: L7V, K91T, A195V, T210I; p163: V18I; p164-hypothetical-protein: S277N, E455A; p165: N26-, S27-, S28-; p167: C168Y; p173: A101E; p175-IL-beta-binding-protein: D71Y, S94A, I98V, P144L; p178: P193Q"
+                "aa": "MPXV-UK_P2-186: *2X, *7X, *21X, *27X, *29X, *34X, *48X, *69X, *87X, *94X, *136X, *153X, *159X, V170X, *176X; p016-hypothetical-protein: N260T; p051: V35I; p058-Hypothetical-protein: D308N; p128-DNA-helicase: E7D; p134: E1005Q; p137: A236T; p152: R127H; p162: L7V, K91T, A195V, T210I; p163: V18I; p164-hypothetical-protein: S277N, E455A; p165: N26-, S27-, S28-; p167: C168Y; p171: X18S, X19D, X20T; p173: A101E; p175-IL-beta-binding-protein: D71Y, S94A, I98V, P144L; p178: P193Q"
               },
               "mutations": {
                 "MPXV-UK_P2-186": [
@@ -12506,6 +12522,10 @@
                   "G166674A",
                   "T169343C",
                   "C169508T",
+                  "-169734A",
+                  "-169736A",
+                  "-169737T",
+                  "-169738A",
                   "C170974T",
                   "C171300A",
                   "T172090-",
@@ -12569,6 +12589,11 @@
                 "p167": [
                   "C168Y"
                 ],
+                "p171": [
+                  "X18S",
+                  "X19D",
+                  "X20T"
+                ],
                 "p173": [
                   "A101E"
                 ],
@@ -12589,9 +12614,9 @@
               "country": {
                 "value": "Nigeria"
               },
-              "div": 0.001286574619453712,
+              "div": 0.001420186940084374,
               "num_date": {
-                "value": 1978.0013699030137
+                "value": 1978.0013699130136
               },
               "outbreak_associated": {
                 "value": "no"
@@ -12604,7 +12629,7 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "MPXV-UK_P2-161: G14R, G66V; MPXV-UK_P2-176: A9I; MPXV-UK_P2-179: *39R; MPXV-UK_P2-186: K118T; p033-Hypothetical-protein: V37M; p034-hypothetical-protein: X72F, X76*; p038-Ser-Thr-kinase: G438R; p039-Hypothetical-protein: T118A; p058-Hypothetical-protein: V441I, F459S; p072-Hypothetical-protein: A178E; p101: R256K, S413N; p106: A29V; p108: N97H, V514I; p128-DNA-helicase: T264I, P348A; p137: A343T, T355I, Y408H; p147-hypothetical-protein: I46V; p153: T145M, V167D; p154-hypothetical-protein: A30T; p155: Y285C; p162: I22T, A167T, E177D; p165: R506C; p167: C80F; p170: X71V, X72I, S120C, X222*; p171: S18X, D19X, T20X, X47K, X48E; p172: D71N, R133Q; p175-IL-beta-binding-protein: C99Y, A156T; p177: N175T; p178: V470M, W501L; p180: Y50H; p181-uncharacterized-protein: I183M; p182-surface-glycoprotein: C210Y, *349S, A360T, V376M, M412T, T548I, G777D; p184-hypothetical-protein: M22T; p188: S393L, P500H"
+                "aa": "MPXV-UK_P2-161: G14R, G66V; MPXV-UK_P2-176: A9I; MPXV-UK_P2-179: *39R; MPXV-UK_P2-186: K118T; p033-Hypothetical-protein: V37M; p034-hypothetical-protein: X72F, X76*; p038-Ser-Thr-kinase: G438R; p039-Hypothetical-protein: T118A; p058-Hypothetical-protein: V441I, F459S; p072-Hypothetical-protein: A178E; p101: R256K, S413N; p106: A29V; p108: N97H, V514I; p128-DNA-helicase: T264I, P348A; p137: A343T, T355I, Y408H; p147-hypothetical-protein: I46V; p153: T145M, V167D; p154-hypothetical-protein: A30T; p155: Y285C; p162: I22T, A167T, E177D; p165: R506C; p167: C80F; p170: X71V, X72I, S120C, X222*; p171: X47K, X48E; p172: D71N, R133Q; p175-IL-beta-binding-protein: C99Y, A156T; p177: N175T; p178: V470M, W501L; p180: Y50H; p181-uncharacterized-protein: I183M; p182-surface-glycoprotein: C210Y, *349S, A360T, V376M, M412T, T548I, G777D; p184-hypothetical-protein: M22T; p188: S393L, P500H"
               },
               "mutations": {
                 "MPXV-UK_P2-161": [
@@ -12805,10 +12830,6 @@
                   "C168599G",
                   "G169585A",
                   "G169614A",
-                  "A169734-",
-                  "A169736-",
-                  "T169737-",
-                  "A169738-",
                   "-169820A",
                   "-169821A",
                   "-169822G",
@@ -12878,7 +12899,6 @@
                   "G183700A",
                   "C183701T",
                   "G184142A",
-                  "T187078-",
                   "T189278C",
                   "G189423A",
                   "-189744T",
@@ -12979,9 +12999,6 @@
                   "X222*"
                 ],
                 "p171": [
-                  "S18X",
-                  "D19X",
-                  "T20X",
                   "X47K",
                   "X48E"
                 ],
@@ -13042,7 +13059,8 @@
                       "G160185T",
                       "C160863T",
                       "C169733-",
-                      "G169735-"
+                      "G169735-",
+                      "T187078-"
                     ],
                     "p012-ankyrin-like-protein": [
                       "T548M"
@@ -13065,9 +13083,9 @@
                   "country": {
                     "value": "Nigeria"
                   },
-                  "div": 0.0018671341365681872,
+                  "div": 0.0019991282426230464,
                   "num_date": {
-                    "value": 1971.9986301769864
+                    "value": 1971.9986301869862
                   },
                   "outbreak_associated": {
                     "value": "no"
@@ -13144,7 +13162,6 @@
                       "-174603A",
                       "G178500A",
                       "-181251A",
-                      "-187078T",
                       "C193765T",
                       "-196606A",
                       "-196607A"
@@ -13265,7 +13282,7 @@
                               "country": {
                                 "value": "Nigeria"
                               },
-                              "div": 0.002024139075921357,
+                              "div": 0.0021559121993691183,
                               "host": {
                                 "value": "human"
                               },
@@ -13290,7 +13307,7 @@
                               "country": {
                                 "value": "Nigeria"
                               },
-                              "div": 0.0020139582847205077,
+                              "div": 0.0021457364334004072,
                               "host": {
                                 "value": "human"
                               },
@@ -13319,7 +13336,7 @@
                               "country": {
                                 "value": "Nigeria"
                               },
-                              "div": 0.0020190442728528937,
+                              "div": 0.0021508199681794914,
                               "host": {
                                 "value": "human"
                               },
@@ -13337,9 +13354,9 @@
                         ],
                         "name": "NODE_0000030",
                         "node_attrs": {
-                          "div": 0.0020139582847205077,
+                          "div": 0.0021457364334004072,
                           "num_date": {
-                            "value": 2017.7256864992228
+                            "value": 2017.7539385759153
                           }
                         }
                       },
@@ -13401,12 +13418,12 @@
                                   "country": {
                                     "value": "Nigeria"
                                   },
-                                  "div": 0.0020139291821680695,
+                                  "div": 0.002145712615802568,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2018.3913502449768
+                                    "value": 2018.326232787533
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -13436,12 +13453,12 @@
                                   "country": {
                                     "value": "Nigeria"
                                   },
-                                  "div": 0.0020088346287015267,
+                                  "div": 0.002140620462153813,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2018.187840866465
+                                    "value": 2018.071965894676
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -13454,9 +13471,9 @@
                             ],
                             "name": "NODE_0000029",
                             "node_attrs": {
-                              "div": 0.002003748584213024,
+                              "div": 0.0021355369487764645,
                               "num_date": {
-                                "value": 2017.9846713915078
+                                "value": 2017.8181304371442
                               }
                             }
                           },
@@ -13494,12 +13511,12 @@
                                   "country": {
                                     "value": "Nigeria"
                                   },
-                                  "div": 0.0020088349734311587,
+                                  "div": 0.0021406209672524203,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2018.187884996242
+                                    "value": 2018.0721080876087
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -13546,12 +13563,12 @@
                                   "country": {
                                     "value": "Nigeria"
                                   },
-                                  "div": 0.002013928713165868,
+                                  "div": 0.002145712186102721,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2018.3913618690474
+                                    "value": 2018.3263283031038
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -13564,27 +13581,27 @@
                             ],
                             "name": "NODE_0000027",
                             "node_attrs": {
-                              "div": 0.002003748584213024,
+                              "div": 0.0021355369487764645,
                               "num_date": {
-                                "value": 2017.9847017505563
+                                "value": 2017.81824740895
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000037",
+                        "name": "NODE_0000039",
                         "node_attrs": {
-                          "div": 0.001988492773468133,
+                          "div": 0.002120295490315138,
                           "num_date": {
-                            "value": 2017.0565175148863
+                            "value": 2017.057684033683
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000034",
+                    "name": "NODE_0000037",
                     "node_attrs": {
-                      "div": 0.001988492773468133,
+                      "div": 0.002120295490315138,
                       "num_date": {
-                        "value": 2017.0565175148863
+                        "value": 2017.057684033683
                       }
                     }
                   },
@@ -13656,67 +13673,6 @@
                       {
                         "branch_attrs": {
                           "labels": {
-                            "aa": "p153: E56V"
-                          },
-                          "mutations": {
-                            "nuc": [
-                              "T604-",
-                              "C8781T",
-                              "C91372T",
-                              "T133087-",
-                              "T133088-",
-                              "T133089-",
-                              "T133090-",
-                              "T133091-",
-                              "T133092-",
-                              "T133112-",
-                              "T133113-",
-                              "A147604T",
-                              "G177350A",
-                              "T179179-",
-                              "T179180-",
-                              "A179181-",
-                              "T179182-",
-                              "A179183-",
-                              "T179184-",
-                              "A179185-",
-                              "C179186-",
-                              "A179187-",
-                              "T179188-",
-                              "T179189-",
-                              "A179190-",
-                              "T179191-",
-                              "A196606-"
-                            ],
-                            "p153": [
-                              "E56V"
-                            ]
-                          }
-                        },
-                        "name": "Israel_2018",
-                        "node_attrs": {
-                          "accession": "MN648051",
-                          "country": {
-                            "value": "Israel"
-                          },
-                          "div": 0.0020756393767916628,
-                          "host": {
-                            "value": "human"
-                          },
-                          "num_date": {
-                            "value": 2018.7575342465752
-                          },
-                          "outbreak_associated": {
-                            "value": "no"
-                          },
-                          "region": {
-                            "value": "West Asia"
-                          }
-                        }
-                      },
-                      {
-                        "branch_attrs": {
-                          "labels": {
                             "aa": "p048-hypothetical-protein: E658K; p158: E141K; p172: S179L"
                           },
                           "mutations": {
@@ -13744,7 +13700,7 @@
                           "country": {
                             "value": "Singapore"
                           },
-                          "div": 0.0020755117257074333,
+                          "div": 0.0022072348851902707,
                           "host": {
                             "value": "human"
                           },
@@ -28538,7 +28494,7 @@
                           "country": {
                             "value": "Nigeria"
                           },
-                          "div": 0.002065979554900433,
+                          "div": 0.002197707564794121,
                           "host": {
                             "value": "human"
                           },
@@ -28604,18 +28560,79 @@
                           "country": {
                             "value": "United Kingdom"
                           },
-                          "div": 0.002070401678750106,
+                          "div": 0.0022021273502518127,
                           "host": {
                             "value": "human"
                           },
                           "num_date": {
-                            "value": 2018.5385083096176
+                            "value": 2018.5320724514893
                           },
                           "outbreak_associated": {
                             "value": "no"
                           },
                           "region": {
                             "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "p153: E56V"
+                          },
+                          "mutations": {
+                            "nuc": [
+                              "T604-",
+                              "C8781T",
+                              "C91372T",
+                              "T133087-",
+                              "T133088-",
+                              "T133089-",
+                              "T133090-",
+                              "T133091-",
+                              "T133092-",
+                              "T133112-",
+                              "T133113-",
+                              "A147604T",
+                              "G177350A",
+                              "T179179-",
+                              "T179180-",
+                              "A179181-",
+                              "T179182-",
+                              "A179183-",
+                              "T179184-",
+                              "A179185-",
+                              "C179186-",
+                              "A179187-",
+                              "T179188-",
+                              "T179189-",
+                              "A179190-",
+                              "T179191-",
+                              "A196606-"
+                            ],
+                            "p153": [
+                              "E56V"
+                            ]
+                          }
+                        },
+                        "name": "Israel_2018",
+                        "node_attrs": {
+                          "accession": "MN648051",
+                          "country": {
+                            "value": "Israel"
+                          },
+                          "div": 0.002207357800233603,
+                          "host": {
+                            "value": "human"
+                          },
+                          "num_date": {
+                            "value": 2018.7575342465752
+                          },
+                          "outbreak_associated": {
+                            "value": "no"
+                          },
+                          "region": {
+                            "value": "West Asia"
                           }
                         }
                       },
@@ -28680,12 +28697,12 @@
                                   "country": {
                                     "value": "United Kingdom"
                                   },
-                                  "div": 0.0020703752310659877,
+                                  "div": 0.0022020961623267876,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2018.0906742764619
+                                    "value": 2018.001445358961
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -28731,12 +28748,12 @@
                                   "country": {
                                     "value": "United Kingdom"
                                   },
-                                  "div": 0.0020703752310659877,
+                                  "div": 0.0022020961623267876,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2018.0906742764619
+                                    "value": 2018.001445358961
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
@@ -28747,11 +28764,11 @@
                                 }
                               }
                             ],
-                            "name": "NODE_0000042",
+                            "name": "NODE_0000034",
                             "node_attrs": {
-                              "div": 0.0020703752310659877,
+                              "div": 0.0022020961623267876,
                               "num_date": {
-                                "value": 2018.0906742764619
+                                "value": 2017.9870257400403
                               }
                             }
                           },
@@ -28844,8 +28861,7 @@
                                   "C193693T",
                                   "C194104T",
                                   "C194624T",
-                                  "C195953T",
-                                  "A196607-"
+                                  "C195953T"
                                 ],
                                 "p001-chemokine-binding-protein": [
                                   "S105L"
@@ -28910,6 +28926,259 @@
                               }
                             },
                             "children": [
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "MPXV-UK_P2-186: D81N; p008-zinc-finger-like-protein: K230X, *243X; p028-unchracterized-protein: E145X, *150X; p038-Ser-Thr-kinase: K144X, *440X; p045-hypothetical-protein: K49X, *232X; p047-poly-A-polymerase-large-subunit: F65X, *480X; p057-putative-virion-core-protein: L8X, *130X; p058-Hypothetical-protein: R665C; p061-IMV-membrane-protein: F56X, *74X; p065-hypothetical-protein: F180X, *383X; p072-Hypothetical-protein: K65X, *435X; p080: K266X, *345X; p087: N60X, *134X; p092: F116X, K206X, *796X; p106: N570X, *632X; p107: N205X, *288X; p117-VITF-3-subunit: K87X, *293X; p121: N6X, *191X; p128-DNA-helicase: L14X, L258X, *493X; p132-resolvase: I184X, *188X; p133-VITF-3-subunit: *383X; p134: K2X, K946X, *1165X; p139: F8X, *147X; p154-hypothetical-protein: E57X, *75X; p159: K243X, *560X; p162: P169X, *314X; p165: I87X, *562X; p169: E62K, T261X, *268X; p172: Q229X, *283X; p181-uncharacterized-protein: *3X, *4X, *10X, *35X, *38X, *51X, *80X, *83X, *91X, *108X, *111X, *115X, *127X, *132X, *150X, *155X, *157X, M174X, *190X"
+                                  },
+                                  "mutations": {
+                                    "MPXV-UK_P2-186": [
+                                      "D81N"
+                                    ],
+                                    "nuc": [
+                                      "T164-",
+                                      "A333-",
+                                      "T6592-",
+                                      "A8057-",
+                                      "A10283-",
+                                      "A21084-",
+                                      "A28533-",
+                                      "A28534-",
+                                      "T32197-",
+                                      "T35574-",
+                                      "T41747-",
+                                      "A43504-",
+                                      "A55128-",
+                                      "G55142A",
+                                      "A58653-",
+                                      "A62046-",
+                                      "A62922-",
+                                      "C64435T",
+                                      "G70069-",
+                                      "T76088-",
+                                      "T76089-",
+                                      "A76892-",
+                                      "T80850-",
+                                      "T80851-",
+                                      "T88840-",
+                                      "A89109-",
+                                      "A91707-",
+                                      "T103371-",
+                                      "T105364-",
+                                      "A116017-",
+                                      "T121125-",
+                                      "A123997-",
+                                      "A124729-",
+                                      "A127756-",
+                                      "A128936-",
+                                      "G131770-",
+                                      "T133093-",
+                                      "T133094-",
+                                      "T133095-",
+                                      "T133096-",
+                                      "T133097-",
+                                      "T133644-",
+                                      "A138479-",
+                                      "A148217-",
+                                      "T150543-",
+                                      "A152679-",
+                                      "A153429-",
+                                      "T155428-",
+                                      "G159434-",
+                                      "T163603-",
+                                      "G167528A",
+                                      "T168127-",
+                                      "A170734-",
+                                      "T170908-",
+                                      "T172090-",
+                                      "-179178A",
+                                      "-179179T",
+                                      "-179180T",
+                                      "-179181A",
+                                      "-179182T",
+                                      "-179183A",
+                                      "-179184T",
+                                      "-179185A",
+                                      "-179186C",
+                                      "-179187A",
+                                      "-179188T",
+                                      "-179189T",
+                                      "-179190A",
+                                      "-179191T",
+                                      "-179192A",
+                                      "-179193T",
+                                      "-179194A",
+                                      "-179195C",
+                                      "-179196A",
+                                      "-179197T",
+                                      "-179198T",
+                                      "-179199A",
+                                      "-179200T",
+                                      "G181054-",
+                                      "A181251-",
+                                      "T187078-",
+                                      "G190665A",
+                                      "A196607-",
+                                      "A196608-"
+                                    ],
+                                    "p008-zinc-finger-like-protein": [
+                                      "K230X",
+                                      "*243X"
+                                    ],
+                                    "p028-unchracterized-protein": [
+                                      "E145X",
+                                      "*150X"
+                                    ],
+                                    "p038-Ser-Thr-kinase": [
+                                      "K144X",
+                                      "*440X"
+                                    ],
+                                    "p045-hypothetical-protein": [
+                                      "K49X",
+                                      "*232X"
+                                    ],
+                                    "p047-poly-A-polymerase-large-subunit": [
+                                      "F65X",
+                                      "*480X"
+                                    ],
+                                    "p057-putative-virion-core-protein": [
+                                      "L8X",
+                                      "*130X"
+                                    ],
+                                    "p058-Hypothetical-protein": [
+                                      "R665C"
+                                    ],
+                                    "p061-IMV-membrane-protein": [
+                                      "F56X",
+                                      "*74X"
+                                    ],
+                                    "p065-hypothetical-protein": [
+                                      "F180X",
+                                      "*383X"
+                                    ],
+                                    "p072-Hypothetical-protein": [
+                                      "K65X",
+                                      "*435X"
+                                    ],
+                                    "p080": [
+                                      "K266X",
+                                      "*345X"
+                                    ],
+                                    "p087": [
+                                      "N60X",
+                                      "*134X"
+                                    ],
+                                    "p092": [
+                                      "F116X",
+                                      "K206X",
+                                      "*796X"
+                                    ],
+                                    "p106": [
+                                      "N570X",
+                                      "*632X"
+                                    ],
+                                    "p107": [
+                                      "N205X",
+                                      "*288X"
+                                    ],
+                                    "p117-VITF-3-subunit": [
+                                      "K87X",
+                                      "*293X"
+                                    ],
+                                    "p121": [
+                                      "N6X",
+                                      "*191X"
+                                    ],
+                                    "p128-DNA-helicase": [
+                                      "L14X",
+                                      "L258X",
+                                      "*493X"
+                                    ],
+                                    "p132-resolvase": [
+                                      "I184X",
+                                      "*188X"
+                                    ],
+                                    "p133-VITF-3-subunit": [
+                                      "*383X"
+                                    ],
+                                    "p134": [
+                                      "K2X",
+                                      "K946X",
+                                      "*1165X"
+                                    ],
+                                    "p139": [
+                                      "F8X",
+                                      "*147X"
+                                    ],
+                                    "p154-hypothetical-protein": [
+                                      "E57X",
+                                      "*75X"
+                                    ],
+                                    "p159": [
+                                      "K243X",
+                                      "*560X"
+                                    ],
+                                    "p162": [
+                                      "P169X",
+                                      "*314X"
+                                    ],
+                                    "p165": [
+                                      "I87X",
+                                      "*562X"
+                                    ],
+                                    "p169": [
+                                      "E62K",
+                                      "T261X",
+                                      "*268X"
+                                    ],
+                                    "p172": [
+                                      "Q229X",
+                                      "*283X"
+                                    ],
+                                    "p181-uncharacterized-protein": [
+                                      "*3X",
+                                      "*4X",
+                                      "*10X",
+                                      "*35X",
+                                      "*38X",
+                                      "*51X",
+                                      "*80X",
+                                      "*83X",
+                                      "*91X",
+                                      "*108X",
+                                      "*111X",
+                                      "*115X",
+                                      "*127X",
+                                      "*132X",
+                                      "*150X",
+                                      "*155X",
+                                      "*157X",
+                                      "M174X",
+                                      "*190X"
+                                    ]
+                                  }
+                                },
+                                "name": "SLO",
+                                "node_attrs": {
+                                  "accession": "ON609725",
+                                  "country": {
+                                    "value": "Slovenia"
+                                  },
+                                  "div": 0.0024644113755471282,
+                                  "host": {
+                                    "value": "human"
+                                  },
+                                  "num_date": {
+                                    "value": 2022.390410958904
+                                  },
+                                  "outbreak_associated": {
+                                    "value": "yes"
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
                               {
                                 "branch_attrs": {
                                   "labels": {
@@ -29116,6 +29385,7 @@
                                       "A190934-",
                                       "A192917-",
                                       "A194391-",
+                                      "A196607-",
                                       "A196608-",
                                       "A196609-"
                                     ],
@@ -29788,12 +30058,12 @@
                                   "country": {
                                     "value": "France"
                                   },
-                                  "div": 0.0023228436927967945,
+                                  "div": 0.002454209334679788,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2022.4013699030138
+                                    "value": 2022.4013699130137
                                   },
                                   "outbreak_associated": {
                                     "value": "yes"
@@ -29806,89 +30076,35 @@
                               {
                                 "branch_attrs": {
                                   "labels": {
-                                    "aa": "p003-ankyrin-like: P559X, *589X; p017: S66L; p028-unchracterized-protein: E145X, *150X; p080: K266X, *345X; p092: F116X, *796X; p139: F8X, *147X; p190-chemokine-binding-protein: *9X, *58X, *74X, *91X, *113X, *139X, H171R, I172T, *175X, *194X, T202X, C203X, V204A, K211E"
+                                    "aa": "p131: S412L; p132-resolvase: Q9*"
                                   },
                                   "mutations": {
                                     "nuc": [
-                                      "T606-",
-                                      "G2941-",
-                                      "G18952A",
-                                      "A28533-",
-                                      "T76088-",
-                                      "T76089-",
-                                      "A89109-",
-                                      "T133092-",
-                                      "T133093-",
-                                      "T133094-",
-                                      "T133095-",
-                                      "T133096-",
-                                      "T133097-",
-                                      "-133098T",
-                                      "A138479-",
-                                      "T170908-",
-                                      "G179153T",
-                                      "A196161G",
-                                      "C196162A",
-                                      "T196164C",
-                                      "A196253-",
-                                      "T196258-",
-                                      "T196260C",
-                                      "A196280G",
-                                      "T196572C"
+                                      "-605T",
+                                      "C127229T",
+                                      "C144538T",
+                                      "A188354-"
                                     ],
-                                    "p003-ankyrin-like": [
-                                      "P559X",
-                                      "*589X"
+                                    "p131": [
+                                      "S412L"
                                     ],
-                                    "p017": [
-                                      "S66L"
-                                    ],
-                                    "p028-unchracterized-protein": [
-                                      "E145X",
-                                      "*150X"
-                                    ],
-                                    "p080": [
-                                      "K266X",
-                                      "*345X"
-                                    ],
-                                    "p092": [
-                                      "F116X",
-                                      "*796X"
-                                    ],
-                                    "p139": [
-                                      "F8X",
-                                      "*147X"
-                                    ],
-                                    "p190-chemokine-binding-protein": [
-                                      "*9X",
-                                      "*58X",
-                                      "*74X",
-                                      "*91X",
-                                      "*113X",
-                                      "*139X",
-                                      "H171R",
-                                      "I172T",
-                                      "*175X",
-                                      "*194X",
-                                      "T202X",
-                                      "C203X",
-                                      "V204A",
-                                      "K211E"
+                                    "p132-resolvase": [
+                                      "Q9*"
                                     ]
                                   }
                                 },
-                                "name": "MPXV-CH-38134631/2022",
+                                "name": "Monkeypox/PT0010/2022",
                                 "node_attrs": {
-                                  "accession": "ON595760",
+                                  "accession": "ON585036",
                                   "country": {
-                                    "value": "Switzerland"
+                                    "value": "Portugal"
                                   },
-                                  "div": 0.0023537202016270103,
+                                  "div": 0.0024543438507396817,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2022.3794520547945
+                                    "value": 2022.368493150685
                                   },
                                   "outbreak_associated": {
                                     "value": "yes"
@@ -29920,12 +30136,12 @@
                                   "country": {
                                     "value": "United Kingdom"
                                   },
-                                  "div": 0.002322849337700758,
+                                  "div": 0.002454214983664551,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2022.4013699030138
+                                    "value": 2022.4013699130137
                                   },
                                   "outbreak_associated": {
                                     "value": "yes"
@@ -29937,37 +30153,57 @@
                               },
                               {
                                 "branch_attrs": {
-                                  "labels": {
-                                    "aa": "p131: S412L; p132-resolvase: Q9*"
-                                  },
                                   "mutations": {
                                     "nuc": [
-                                      "-605T",
-                                      "C127229T",
-                                      "C144538T",
-                                      "A188354-",
-                                      "-196607A"
-                                    ],
-                                    "p131": [
-                                      "S412L"
-                                    ],
-                                    "p132-resolvase": [
-                                      "Q9*"
+                                      "C49901T",
+                                      "-133098T",
+                                      "C154004T"
                                     ]
                                   }
                                 },
-                                "name": "Monkeypox/PT0010/2022",
+                                "name": "MPXV_UK_2022_3",
                                 "node_attrs": {
-                                  "accession": "ON585036",
+                                  "accession": "ON619837",
                                   "country": {
-                                    "value": "Portugal"
+                                    "value": "United Kingdom"
                                   },
-                                  "div": 0.002322978312984778,
+                                  "div": 0.0024542193842093723,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2022.368493150685
+                                    "value": 2022.4013699130137
+                                  },
+                                  "outbreak_associated": {
+                                    "value": "yes"
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "-133098T",
+                                      "C147022T",
+                                      "G172106A"
+                                    ]
+                                  }
+                                },
+                                "name": "MPXV_UK_2022_4",
+                                "node_attrs": {
+                                  "accession": "ON619838",
+                                  "country": {
+                                    "value": "United Kingdom"
+                                  },
+                                  "div": 0.00245421173152353,
+                                  "host": {
+                                    "value": "human"
+                                  },
+                                  "num_date": {
+                                    "value": 2022.4013699130137
                                   },
                                   "outbreak_associated": {
                                     "value": "yes"
@@ -30036,326 +30272,12 @@
                                   "country": {
                                     "value": "Portugal"
                                   },
-                                  "div": 0.002343706179765393,
+                                  "div": 0.0024750524965196155,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
                                     "value": 2022.3383561643836
-                                  },
-                                  "outbreak_associated": {
-                                    "value": "yes"
-                                  },
-                                  "region": {
-                                    "value": "Europe"
-                                  }
-                                }
-                              },
-                              {
-                                "branch_attrs": {
-                                  "labels": {
-                                    "aa": "MPXV-UK_P2-186: D81N; p008-zinc-finger-like-protein: K230X, *243X; p028-unchracterized-protein: E145X, *150X; p038-Ser-Thr-kinase: K144X, *440X; p045-hypothetical-protein: K49X, *232X; p047-poly-A-polymerase-large-subunit: F65X, *480X; p057-putative-virion-core-protein: L8X, *130X; p058-Hypothetical-protein: R665C; p061-IMV-membrane-protein: F56X, *74X; p065-hypothetical-protein: F180X, *383X; p072-Hypothetical-protein: K65X, *435X; p080: K266X, *345X; p087: N60X, *134X; p092: F116X, K206X, *796X; p106: N570X, *632X; p107: N205X, *288X; p117-VITF-3-subunit: K87X, *293X; p121: N6X, *191X; p128-DNA-helicase: L14X, L258X, *493X; p132-resolvase: I184X, *188X; p133-VITF-3-subunit: *383X; p134: K2X, K946X, *1165X; p139: F8X, *147X; p154-hypothetical-protein: E57X, *75X; p159: K243X, *560X; p162: P169X, *314X; p165: I87X, *562X; p169: E62K, T261X, *268X; p172: Q229X, *283X; p181-uncharacterized-protein: *3X, *4X, *10X, *35X, *38X, *51X, *80X, *83X, *91X, *108X, *111X, *115X, *127X, *132X, *150X, *155X, *157X, M174X, *190X"
-                                  },
-                                  "mutations": {
-                                    "MPXV-UK_P2-186": [
-                                      "D81N"
-                                    ],
-                                    "nuc": [
-                                      "T164-",
-                                      "A333-",
-                                      "T6592-",
-                                      "A8057-",
-                                      "A10283-",
-                                      "A21084-",
-                                      "A28533-",
-                                      "A28534-",
-                                      "T32197-",
-                                      "T35574-",
-                                      "T41747-",
-                                      "A43504-",
-                                      "A55128-",
-                                      "G55142A",
-                                      "A58653-",
-                                      "A62046-",
-                                      "A62922-",
-                                      "C64435T",
-                                      "G70069-",
-                                      "T76088-",
-                                      "T76089-",
-                                      "A76892-",
-                                      "T80850-",
-                                      "T80851-",
-                                      "T88840-",
-                                      "A89109-",
-                                      "A91707-",
-                                      "T103371-",
-                                      "T105364-",
-                                      "A116017-",
-                                      "T121125-",
-                                      "A123997-",
-                                      "A124729-",
-                                      "A127756-",
-                                      "A128936-",
-                                      "G131770-",
-                                      "T133093-",
-                                      "T133094-",
-                                      "T133095-",
-                                      "T133096-",
-                                      "T133097-",
-                                      "T133644-",
-                                      "A138479-",
-                                      "A148217-",
-                                      "T150543-",
-                                      "A152679-",
-                                      "A153429-",
-                                      "T155428-",
-                                      "G159434-",
-                                      "T163603-",
-                                      "G167528A",
-                                      "T168127-",
-                                      "A170734-",
-                                      "T170908-",
-                                      "T172090-",
-                                      "-179178A",
-                                      "-179179T",
-                                      "-179180T",
-                                      "-179181A",
-                                      "-179182T",
-                                      "-179183A",
-                                      "-179184T",
-                                      "-179185A",
-                                      "-179186C",
-                                      "-179187A",
-                                      "-179188T",
-                                      "-179189T",
-                                      "-179190A",
-                                      "-179191T",
-                                      "-179192A",
-                                      "-179193T",
-                                      "-179194A",
-                                      "-179195C",
-                                      "-179196A",
-                                      "-179197T",
-                                      "-179198T",
-                                      "-179199A",
-                                      "-179200T",
-                                      "G181054-",
-                                      "A181251-",
-                                      "T187078-",
-                                      "G190665A",
-                                      "A196608-"
-                                    ],
-                                    "p008-zinc-finger-like-protein": [
-                                      "K230X",
-                                      "*243X"
-                                    ],
-                                    "p028-unchracterized-protein": [
-                                      "E145X",
-                                      "*150X"
-                                    ],
-                                    "p038-Ser-Thr-kinase": [
-                                      "K144X",
-                                      "*440X"
-                                    ],
-                                    "p045-hypothetical-protein": [
-                                      "K49X",
-                                      "*232X"
-                                    ],
-                                    "p047-poly-A-polymerase-large-subunit": [
-                                      "F65X",
-                                      "*480X"
-                                    ],
-                                    "p057-putative-virion-core-protein": [
-                                      "L8X",
-                                      "*130X"
-                                    ],
-                                    "p058-Hypothetical-protein": [
-                                      "R665C"
-                                    ],
-                                    "p061-IMV-membrane-protein": [
-                                      "F56X",
-                                      "*74X"
-                                    ],
-                                    "p065-hypothetical-protein": [
-                                      "F180X",
-                                      "*383X"
-                                    ],
-                                    "p072-Hypothetical-protein": [
-                                      "K65X",
-                                      "*435X"
-                                    ],
-                                    "p080": [
-                                      "K266X",
-                                      "*345X"
-                                    ],
-                                    "p087": [
-                                      "N60X",
-                                      "*134X"
-                                    ],
-                                    "p092": [
-                                      "F116X",
-                                      "K206X",
-                                      "*796X"
-                                    ],
-                                    "p106": [
-                                      "N570X",
-                                      "*632X"
-                                    ],
-                                    "p107": [
-                                      "N205X",
-                                      "*288X"
-                                    ],
-                                    "p117-VITF-3-subunit": [
-                                      "K87X",
-                                      "*293X"
-                                    ],
-                                    "p121": [
-                                      "N6X",
-                                      "*191X"
-                                    ],
-                                    "p128-DNA-helicase": [
-                                      "L14X",
-                                      "L258X",
-                                      "*493X"
-                                    ],
-                                    "p132-resolvase": [
-                                      "I184X",
-                                      "*188X"
-                                    ],
-                                    "p133-VITF-3-subunit": [
-                                      "*383X"
-                                    ],
-                                    "p134": [
-                                      "K2X",
-                                      "K946X",
-                                      "*1165X"
-                                    ],
-                                    "p139": [
-                                      "F8X",
-                                      "*147X"
-                                    ],
-                                    "p154-hypothetical-protein": [
-                                      "E57X",
-                                      "*75X"
-                                    ],
-                                    "p159": [
-                                      "K243X",
-                                      "*560X"
-                                    ],
-                                    "p162": [
-                                      "P169X",
-                                      "*314X"
-                                    ],
-                                    "p165": [
-                                      "I87X",
-                                      "*562X"
-                                    ],
-                                    "p169": [
-                                      "E62K",
-                                      "T261X",
-                                      "*268X"
-                                    ],
-                                    "p172": [
-                                      "Q229X",
-                                      "*283X"
-                                    ],
-                                    "p181-uncharacterized-protein": [
-                                      "*3X",
-                                      "*4X",
-                                      "*10X",
-                                      "*35X",
-                                      "*38X",
-                                      "*51X",
-                                      "*80X",
-                                      "*83X",
-                                      "*91X",
-                                      "*108X",
-                                      "*111X",
-                                      "*115X",
-                                      "*127X",
-                                      "*132X",
-                                      "*150X",
-                                      "*155X",
-                                      "*157X",
-                                      "M174X",
-                                      "*190X"
-                                    ]
-                                  }
-                                },
-                                "name": "SLO",
-                                "node_attrs": {
-                                  "accession": "ON609725",
-                                  "country": {
-                                    "value": "Slovenia"
-                                  },
-                                  "div": 0.0023330511034175975,
-                                  "host": {
-                                    "value": "human"
-                                  },
-                                  "num_date": {
-                                    "value": 2022.390410958904
-                                  },
-                                  "outbreak_associated": {
-                                    "value": "yes"
-                                  },
-                                  "region": {
-                                    "value": "Europe"
-                                  }
-                                }
-                              },
-                              {
-                                "branch_attrs": {
-                                  "mutations": {
-                                    "nuc": [
-                                      "C49901T",
-                                      "-133098T",
-                                      "C154004T"
-                                    ]
-                                  }
-                                },
-                                "name": "MPXV_UK_2022_3",
-                                "node_attrs": {
-                                  "accession": "ON619837",
-                                  "country": {
-                                    "value": "United Kingdom"
-                                  },
-                                  "div": 0.0023228536872482277,
-                                  "host": {
-                                    "value": "human"
-                                  },
-                                  "num_date": {
-                                    "value": 2022.4013699030138
-                                  },
-                                  "outbreak_associated": {
-                                    "value": "yes"
-                                  },
-                                  "region": {
-                                    "value": "Europe"
-                                  }
-                                }
-                              },
-                              {
-                                "branch_attrs": {
-                                  "mutations": {
-                                    "nuc": [
-                                      "-133098T",
-                                      "C147022T",
-                                      "G172106A"
-                                    ]
-                                  }
-                                },
-                                "name": "MPXV_UK_2022_4",
-                                "node_attrs": {
-                                  "accession": "ON619838",
-                                  "country": {
-                                    "value": "United Kingdom"
-                                  },
-                                  "div": 0.0023228460646915164,
-                                  "host": {
-                                    "value": "human"
-                                  },
-                                  "num_date": {
-                                    "value": 2022.4013699030138
                                   },
                                   "outbreak_associated": {
                                     "value": "yes"
@@ -30465,7 +30387,6 @@
                                       "A178879-",
                                       "T178880-",
                                       "T178881-",
-                                      "-196607A",
                                       "C196641-",
                                       "T196642-",
                                       "T196643-",
@@ -30497,12 +30418,84 @@
                                   "country": {
                                     "value": "Netherlands"
                                   },
-                                  "div": 0.0023228532157845683,
+                                  "div": 0.002454218802976269,
                                   "host": {
                                     "value": "human"
                                   },
                                   "num_date": {
-                                    "value": 2022.4013699030138
+                                    "value": 2022.4013699130137
+                                  },
+                                  "outbreak_associated": {
+                                    "value": "yes"
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "p003-ankyrin-like: P559X, *589X; p017: S66L; p028-unchracterized-protein: E145X, *150X; p080: K266X, *345X; p092: F116X, *796X; p139: F8X, *147X"
+                                  },
+                                  "mutations": {
+                                    "nuc": [
+                                      "T606-",
+                                      "G2941-",
+                                      "G18952A",
+                                      "A28533-",
+                                      "T76088-",
+                                      "T76089-",
+                                      "A89109-",
+                                      "T133092-",
+                                      "T133093-",
+                                      "T133094-",
+                                      "T133095-",
+                                      "T133096-",
+                                      "T133097-",
+                                      "-133098T",
+                                      "A138479-",
+                                      "T170908-",
+                                      "G179153T",
+                                      "A196607-"
+                                    ],
+                                    "p003-ankyrin-like": [
+                                      "P559X",
+                                      "*589X"
+                                    ],
+                                    "p017": [
+                                      "S66L"
+                                    ],
+                                    "p028-unchracterized-protein": [
+                                      "E145X",
+                                      "*150X"
+                                    ],
+                                    "p080": [
+                                      "K266X",
+                                      "*345X"
+                                    ],
+                                    "p092": [
+                                      "F116X",
+                                      "*796X"
+                                    ],
+                                    "p139": [
+                                      "F8X",
+                                      "*147X"
+                                    ]
+                                  }
+                                },
+                                "name": "MPXV-CH-38134631/2022",
+                                "node_attrs": {
+                                  "accession": "ON595760",
+                                  "country": {
+                                    "value": "Switzerland"
+                                  },
+                                  "div": 0.0024542209121741123,
+                                  "host": {
+                                    "value": "human"
+                                  },
+                                  "num_date": {
+                                    "value": 2022.3794520547945
                                   },
                                   "outbreak_associated": {
                                     "value": "yes"
@@ -31777,7 +31770,8 @@
                                     "branch_attrs": {
                                       "mutations": {
                                         "nuc": [
-                                          "C16977T"
+                                          "C16977T",
+                                          "A196607-"
                                         ]
                                       }
                                     },
@@ -31787,7 +31781,7 @@
                                       "country": {
                                         "value": "Portugal"
                                       },
-                                      "div": 0.0023279737760757953,
+                                      "div": 0.002459332348437571,
                                       "host": {
                                         "value": "human"
                                       },
@@ -31807,8 +31801,7 @@
                                       "mutations": {
                                         "nuc": [
                                           "-605T",
-                                          "G82862A",
-                                          "-196607A"
+                                          "G82862A"
                                         ]
                                       }
                                     },
@@ -31818,7 +31811,7 @@
                                       "country": {
                                         "value": "Portugal"
                                       },
-                                      "div": 0.002327974026911118,
+                                      "div": 0.0024593326511578055,
                                       "host": {
                                         "value": "human"
                                       },
@@ -31834,11 +31827,11 @@
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000055",
+                                "name": "NODE_0000046",
                                 "node_attrs": {
-                                  "div": 0.002322863531984587,
+                                  "div": 0.002454224546798415,
                                   "num_date": {
-                                    "value": 2022.2592659698796
+                                    "value": 2022.2684732468135
                                   }
                                 }
                               },
@@ -31846,19 +31839,7 @@
                                 "branch_attrs": {
                                   "mutations": {
                                     "nuc": [
-                                      "-605T",
-                                      "-179181A",
-                                      "-179182T",
-                                      "-179183A",
-                                      "-179184T",
-                                      "-179185A",
-                                      "-179186C",
-                                      "-179187A",
-                                      "-179188T",
-                                      "-179198T",
-                                      "-179199A",
-                                      "-179200T",
-                                      "-196607A"
+                                      "-605T"
                                     ]
                                   }
                                 },
@@ -31874,6 +31855,14 @@
                                           "-179178A",
                                           "-179179T",
                                           "-179180T",
+                                          "-179181A",
+                                          "-179182T",
+                                          "-179183A",
+                                          "-179184T",
+                                          "-179185A",
+                                          "-179186C",
+                                          "-179187A",
+                                          "-179188T",
                                           "-179189T",
                                           "-179190A",
                                           "-179191T",
@@ -31883,6 +31872,9 @@
                                           "-179195C",
                                           "-179196A",
                                           "-179197T",
+                                          "-179198T",
+                                          "-179199A",
+                                          "-179200T",
                                           "A188354-"
                                         ],
                                         "p057-putative-virion-core-protein": [
@@ -31896,7 +31888,7 @@
                                       "country": {
                                         "value": "Portugal"
                                       },
-                                      "div": 0.0023177388730877616,
+                                      "div": 0.0024491071458260212,
                                       "host": {
                                         "value": "human"
                                       },
@@ -31954,6 +31946,14 @@
                                               "-179178A",
                                               "-179179T",
                                               "-179180T",
+                                              "-179181A",
+                                              "-179182T",
+                                              "-179183A",
+                                              "-179184T",
+                                              "-179185A",
+                                              "-179186C",
+                                              "-179187A",
+                                              "-179188T",
                                               "-179189T",
                                               "-179190A",
                                               "-179191T",
@@ -31962,7 +31962,10 @@
                                               "-179194A",
                                               "-179195C",
                                               "-179196A",
-                                              "-179197T"
+                                              "-179197T",
+                                              "-179198T",
+                                              "-179199A",
+                                              "-179200T"
                                             ],
                                             "p049-double-strand-RNA-binding-protein": [
                                               "R120K"
@@ -31975,7 +31978,7 @@
                                           "country": {
                                             "value": "Belgium"
                                           },
-                                          "div": 0.0023177390247792902,
+                                          "div": 0.0024491072198362866,
                                           "host": {
                                             "value": "human"
                                           },
@@ -32000,17 +32003,6 @@
                                               "mutations": {
                                                 "nuc": [
                                                   "-133098T",
-                                                  "A179181-",
-                                                  "T179182-",
-                                                  "A179183-",
-                                                  "T179184-",
-                                                  "A179185-",
-                                                  "C179186-",
-                                                  "A179187-",
-                                                  "T179188-",
-                                                  "T179198-",
-                                                  "A179199-",
-                                                  "T179200-",
                                                   "C187159T"
                                                 ]
                                               }
@@ -32021,7 +32013,7 @@
                                               "country": {
                                                 "value": "Germany"
                                               },
-                                              "div": 0.0023177391407752093,
+                                              "div": 0.002449107281380621,
                                               "host": {
                                                 "value": "human"
                                               },
@@ -32048,9 +32040,16 @@
                                                       "-179178A",
                                                       "-179179T",
                                                       "-179180T",
+                                                      "-179181A",
+                                                      "-179182T",
+                                                      "-179183A",
+                                                      "-179184T",
                                                       "-179195C",
                                                       "-179196A",
                                                       "-179197T",
+                                                      "-179198T",
+                                                      "-179199A",
+                                                      "-179200T",
                                                       "A188354-"
                                                     ]
                                                   }
@@ -32063,24 +32062,15 @@
                                                     "children": [
                                                       {
                                                         "branch_attrs": {
-                                                          "mutations": {
-                                                            "nuc": [
-                                                              "-179189T",
-                                                              "-179190A",
-                                                              "-179191T",
-                                                              "-179192A",
-                                                              "-179193T",
-                                                              "-179194A"
-                                                            ]
-                                                          }
+                                                          "mutations": {}
                                                         },
-                                                        "name": "Monkeypox/PT0009/2022",
+                                                        "name": "Monkeypox/PT0003/2022",
                                                         "node_attrs": {
-                                                          "accession": "ON585035",
+                                                          "accession": "ON585031",
                                                           "country": {
                                                             "value": "Portugal"
                                                           },
-                                                          "div": 0.002312652232753804,
+                                                          "div": 0.0024440228040964506,
                                                           "host": {
                                                             "value": "human"
                                                           },
@@ -32097,15 +32087,28 @@
                                                       },
                                                       {
                                                         "branch_attrs": {
-                                                          "mutations": {}
+                                                          "mutations": {
+                                                            "nuc": [
+                                                              "-179185A",
+                                                              "-179186C",
+                                                              "-179187A",
+                                                              "-179188T",
+                                                              "-179189T",
+                                                              "-179190A",
+                                                              "-179191T",
+                                                              "-179192A",
+                                                              "-179193T",
+                                                              "-179194A"
+                                                            ]
+                                                          }
                                                         },
-                                                        "name": "Monkeypox/PT0003/2022",
+                                                        "name": "Monkeypox/PT0009/2022",
                                                         "node_attrs": {
-                                                          "accession": "ON585031",
+                                                          "accession": "ON585035",
                                                           "country": {
                                                             "value": "Portugal"
                                                           },
-                                                          "div": 0.002312652232753804,
+                                                          "div": 0.0024440228040964506,
                                                           "host": {
                                                             "value": "human"
                                                           },
@@ -32121,11 +32124,11 @@
                                                         }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000049",
+                                                    "name": "NODE_0000052",
                                                     "node_attrs": {
-                                                      "div": 0.002312652232753804,
+                                                      "div": 0.0024440228040964506,
                                                       "num_date": {
-                                                        "value": 2022.3380292891934
+                                                        "value": 2022.3291931961219
                                                       }
                                                     }
                                                   },
@@ -32144,7 +32147,7 @@
                                                           "country": {
                                                             "value": "Portugal"
                                                           },
-                                                          "div": 0.002312652232753804,
+                                                          "div": 0.0024440228040964506,
                                                           "host": {
                                                             "value": "human"
                                                           },
@@ -32169,7 +32172,7 @@
                                                           "country": {
                                                             "value": "Portugal"
                                                           },
-                                                          "div": 0.002312652232753804,
+                                                          "div": 0.0024440228040964506,
                                                           "host": {
                                                             "value": "human"
                                                           },
@@ -32185,20 +32188,20 @@
                                                         }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000050",
+                                                    "name": "NODE_0000053",
                                                     "node_attrs": {
-                                                      "div": 0.002312652232753804,
+                                                      "div": 0.0024440228040964506,
                                                       "num_date": {
-                                                        "value": 2022.3380292891934
+                                                        "value": 2022.3291931961219
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000048",
+                                                "name": "NODE_0000051",
                                                 "node_attrs": {
-                                                  "div": 0.002312652232753804,
+                                                  "div": 0.0024440228040964506,
                                                   "num_date": {
-                                                    "value": 2022.3351319004157
+                                                    "value": 2022.3291931961219
                                                   }
                                                 }
                                               },
@@ -32209,38 +32212,14 @@
                                                 "children": [
                                                   {
                                                     "branch_attrs": {
-                                                      "mutations": {}
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "-179181A",
+                                                          "-179182T"
+                                                        ]
+                                                      }
                                                     },
                                                     "children": [
-                                                      {
-                                                        "branch_attrs": {
-                                                          "mutations": {
-                                                            "nuc": [
-                                                              "A179154-"
-                                                            ]
-                                                          }
-                                                        },
-                                                        "name": "INMI-Pt1",
-                                                        "node_attrs": {
-                                                          "accession": "ON614676",
-                                                          "country": {
-                                                            "value": "Italy"
-                                                          },
-                                                          "div": 0.002312652232753804,
-                                                          "host": {
-                                                            "value": "human"
-                                                          },
-                                                          "num_date": {
-                                                            "value": 2022.376712328767
-                                                          },
-                                                          "outbreak_associated": {
-                                                            "value": "yes"
-                                                          },
-                                                          "region": {
-                                                            "value": "Europe"
-                                                          }
-                                                        }
-                                                      },
                                                       {
                                                         "branch_attrs": {
                                                           "mutations": {
@@ -32258,7 +32237,7 @@
                                                           "country": {
                                                             "value": "Portugal"
                                                           },
-                                                          "div": 0.002312652232753804,
+                                                          "div": 0.0024440228040964506,
                                                           "host": {
                                                             "value": "human"
                                                           },
@@ -32272,13 +32251,51 @@
                                                             "value": "Europe"
                                                           }
                                                         }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {
+                                                          "mutations": {
+                                                            "nuc": [
+                                                              "A179154-",
+                                                              "-179183A",
+                                                              "-179184T",
+                                                              "-179185A",
+                                                              "-179186C",
+                                                              "-179187A",
+                                                              "-179188T",
+                                                              "-179198T",
+                                                              "-179199A",
+                                                              "-179200T"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "name": "INMI-Pt1",
+                                                        "node_attrs": {
+                                                          "accession": "ON614676",
+                                                          "country": {
+                                                            "value": "Italy"
+                                                          },
+                                                          "div": 0.0024440228040964506,
+                                                          "host": {
+                                                            "value": "human"
+                                                          },
+                                                          "num_date": {
+                                                            "value": 2022.376712328767
+                                                          },
+                                                          "outbreak_associated": {
+                                                            "value": "yes"
+                                                          },
+                                                          "region": {
+                                                            "value": "Europe"
+                                                          }
+                                                        }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000052",
+                                                    "name": "NODE_0000055",
                                                     "node_attrs": {
-                                                      "div": 0.002312652232753804,
+                                                      "div": 0.0024440228040964506,
                                                       "num_date": {
-                                                        "value": 2022.355686155047
+                                                        "value": 2022.3384281045858
                                                       }
                                                     }
                                                   },
@@ -32298,47 +32315,11 @@
                                                           "-133182T",
                                                           "-133183C",
                                                           "-133184T",
-                                                          "A179181-",
-                                                          "T179182-",
-                                                          "A179183-",
-                                                          "T179184-",
-                                                          "A179185-",
-                                                          "C179186-",
-                                                          "A179187-",
-                                                          "T179188-",
-                                                          "T179198-",
-                                                          "A179199-",
-                                                          "T179200-",
                                                           "A196607-"
                                                         ]
                                                       }
                                                     },
                                                     "children": [
-                                                      {
-                                                        "branch_attrs": {
-                                                          "mutations": {}
-                                                        },
-                                                        "name": "MPXV_USA_2022_MA001",
-                                                        "node_attrs": {
-                                                          "accession": "ON563414",
-                                                          "country": {
-                                                            "value": "USA"
-                                                          },
-                                                          "div": 0.002312652232753804,
-                                                          "host": {
-                                                            "value": "human"
-                                                          },
-                                                          "num_date": {
-                                                            "value": 2022.3310254263572
-                                                          },
-                                                          "outbreak_associated": {
-                                                            "value": "yes"
-                                                          },
-                                                          "region": {
-                                                            "value": "North America"
-                                                          }
-                                                        }
-                                                      },
                                                       {
                                                         "branch_attrs": {
                                                           "mutations": {}
@@ -32349,12 +32330,12 @@
                                                           "country": {
                                                             "value": "United Kingdom"
                                                           },
-                                                          "div": 0.002312652232753804,
+                                                          "div": 0.0024440228040964506,
                                                           "host": {
                                                             "value": "human"
                                                           },
                                                           "num_date": {
-                                                            "value": 2022.3310254263572
+                                                            "value": 2022.3312872246797
                                                           },
                                                           "outbreak_associated": {
                                                             "value": "yes"
@@ -32363,112 +32344,137 @@
                                                             "value": "Europe"
                                                           }
                                                         }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {
+                                                          "mutations": {}
+                                                        },
+                                                        "name": "MPXV_USA_2022_MA001",
+                                                        "node_attrs": {
+                                                          "accession": "ON563414",
+                                                          "country": {
+                                                            "value": "USA"
+                                                          },
+                                                          "div": 0.0024440228040964506,
+                                                          "host": {
+                                                            "value": "human"
+                                                          },
+                                                          "num_date": {
+                                                            "value": 2022.3312872246797
+                                                          },
+                                                          "outbreak_associated": {
+                                                            "value": "yes"
+                                                          },
+                                                          "region": {
+                                                            "value": "North America"
+                                                          }
+                                                        }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000053",
+                                                    "name": "NODE_0000056",
                                                     "node_attrs": {
-                                                      "div": 0.002312652232753804,
+                                                      "div": 0.0024440228040964506,
                                                       "num_date": {
-                                                        "value": 2022.3310254263572
+                                                        "value": 2022.3312872246797
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000051",
+                                                "name": "NODE_0000054",
                                                 "node_attrs": {
-                                                  "div": 0.002312652232753804,
+                                                  "div": 0.0024440228040964506,
                                                   "num_date": {
-                                                    "value": 2022.327626800194
+                                                    "value": 2022.330230386277
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000047",
+                                            "name": "NODE_0000050",
                                             "node_attrs": {
-                                              "div": 0.002312652232753804,
+                                              "div": 0.0024440228040964506,
                                               "num_date": {
-                                                "value": 2022.327626800194
+                                                "value": 2022.3291931961219
                                               }
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000046",
+                                        "name": "NODE_0000049",
                                         "node_attrs": {
-                                          "div": 0.002312652232753804,
+                                          "div": 0.0024440228040964506,
                                           "num_date": {
-                                            "value": 2022.327626800194
+                                            "value": 2022.3291931961219
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000045",
+                                    "name": "NODE_0000048",
                                     "node_attrs": {
-                                      "div": 0.002312652232753804,
+                                      "div": 0.0024440228040964506,
                                       "num_date": {
-                                        "value": 2022.2572751159437
+                                        "value": 2022.236993697287
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000044",
+                                "name": "NODE_0000047",
                                 "node_attrs": {
-                                  "div": 0.002312652232753804,
+                                  "div": 0.0024440228040964506,
                                   "num_date": {
-                                    "value": 2022.250026820028
+                                    "value": 2022.142341025377
                                   }
                                 }
                               }
                             ],
                             "name": "NODE_0000038",
                             "node_attrs": {
-                              "div": 0.002312652232753804,
+                              "div": 0.0024440228040964506,
                               "num_date": {
-                                "value": 2022.1109589490975
+                                "value": 2022.142341025377
                               }
                             }
                           }
                         ],
                         "name": "NODE_0000036",
                         "node_attrs": {
-                          "div": 0.0020703752310659877,
+                          "div": 0.0022020961623267876,
                           "num_date": {
-                            "value": 2018.0906742764619
+                            "value": 2017.9852532565703
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000032",
                     "node_attrs": {
-                      "div": 0.00205512120100274,
+                      "div": 0.0021868544812424025,
                       "num_date": {
-                        "value": 2017.9276528041905
+                        "value": 2017.7688832802874
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000025",
                 "node_attrs": {
-                  "div": 0.001988492773468133,
+                  "div": 0.002120295490315138,
                   "num_date": {
-                    "value": 2016.3010417420232
+                    "value": 2015.8341441118168
                   }
                 }
               }
             ],
             "name": "NODE_0000024",
             "node_attrs": {
-              "div": 0.0018313071916451966,
+              "div": 0.0019633217455462576,
               "num_date": {
-                "value": 1971.4336265479849
+                "value": 1971.2787554087665
               }
             }
           }
         ],
         "name": "NODE_0000023",
         "node_attrs": {
-          "div": 0.0010075582721069576,
+          "div": 0.0011355977473220182,
           "num_date": {
-            "value": 1951.551640067213
+            "value": 1947.1873065430368
           }
         }
       }
@@ -32477,7 +32483,7 @@
     "node_attrs": {
       "div": 0,
       "num_date": {
-        "value": 1910.407416644869
+        "value": 1894.494490189011
       }
     }
   },
