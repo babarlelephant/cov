@@ -3,7 +3,7 @@
     "build_url": "https://github.com/nextstrain/monkeypox",
     "colorings": [
       {
-        "key": "num_date",
+        "key": "num_date", 
         "title": "Sampling date",
         "type": "continuous"
       },
