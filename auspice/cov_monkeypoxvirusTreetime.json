@@ -55,13 +55,13 @@
         "type": "categorical"
       },
       {
-        "key": "dinuc_context_fraction",
-        "title": "dinuc_context_fraction",
+        "key": "GA_CT_fraction",
+        "title": "GA_CT_fraction",
         "type": "continuous"
       },
       {
-        "key": "GA_CT_fraction",
-        "title": "GA_CT_fraction",
+        "key": "dinuc_context_fraction",
+        "title": "dinuc_context_fraction",
         "type": "continuous"
       }
     ],
@@ -34672,7 +34672,7 @@
                                     "value": 2021.9136986801368
                                   },
                                   "outbreak_associated": {
-                                    "value": "no"
+                                    "value": "maybe"
                                   },
                                   "region": {
                                     "value": "North America"
@@ -36176,7 +36176,7 @@
                                         "value": 2022.4123288171231
                                       },
                                       "outbreak_associated": {
-                                        "value": "no"
+                                        "value": "yes"
                                       },
                                       "region": {
                                         "value": "North America"
@@ -39726,7 +39726,7 @@
                                             "value": 2022.4024676009356
                                           },
                                           "outbreak_associated": {
-                                            "value": "no"
+                                            "value": "yes"
                                           },
                                           "region": {
                                             "value": "North America"
@@ -50828,7 +50828,7 @@
                                                                                                             "value": 2022.3301370363013
                                                                                                           },
                                                                                                           "outbreak_associated": {
-                                                                                                            "value": "no"
+                                                                                                            "value": "yes"
                                                                                                           },
                                                                                                           "region": {
                                                                                                             "value": "North America"
@@ -50892,7 +50892,7 @@
                                                                                                             "value": 2022.3301370363013
                                                                                                           },
                                                                                                           "outbreak_associated": {
-                                                                                                            "value": "no"
+                                                                                                            "value": "yes"
                                                                                                           },
                                                                                                           "region": {
                                                                                                             "value": "North America"
