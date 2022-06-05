@@ -55,18 +55,18 @@
         "type": "categorical"
       },
       {
-        "key": "proportion_GG>GA_CC>CT",
-        "title": "proportion_GG>GA_CC>CT",
+        "key": "proportion_GA>AA_TC>TT",
+        "title": "proportion_GA>AA_TC>TT",
+        "type": "continuous"
+      },
+      {
+        "key": "proportion_GG>AG_CC>CT",
+        "title": "proportion_GG>AG_CC>CT",
         "type": "continuous"
       },
       {
         "key": "proportion_G>A_C>T",
         "title": "proportion_G>A_C>T",
-        "type": "continuous"
-      },
-      {
-        "key": "proportion_GA>AA_TC>TT",
-        "title": "proportion_GA>AA_TC>TT",
         "type": "continuous"
       }
     ],
@@ -2770,7 +2770,7 @@
                   "proportion_GA>AA_TC>TT": {
                     "value": 0.0
                   },
-                  "proportion_GG>GA_CC>CT": {
+                  "proportion_GG>AG_CC>CT": {
                     "value": 1.0
                   }
                 }
@@ -2788,7 +2788,7 @@
               "proportion_GA>AA_TC>TT": {
                 "value": 0.012987012987012988
               },
-              "proportion_GG>GA_CC>CT": {
+              "proportion_GG>AG_CC>CT": {
                 "value": 0.07792207792207792
               }
             }
@@ -10687,7 +10687,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.2222222222222222
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.1111111111111111
                       },
                       "region": {
@@ -10777,7 +10777,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.1
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.0
                       },
                       "region": {
@@ -10877,7 +10877,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.25
                           }
                         }
@@ -11011,7 +11011,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.0
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               },
                               "region": {
@@ -11032,7 +11032,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 1.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           }
                         }
@@ -11050,7 +11050,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.6666666666666666
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.0
                       }
                     }
@@ -11068,7 +11068,7 @@
                   "proportion_GA>AA_TC>TT": {
                     "value": 0.041666666666666664
                   },
-                  "proportion_GG>GA_CC>CT": {
+                  "proportion_GG>AG_CC>CT": {
                     "value": 0.041666666666666664
                   }
                 }
@@ -11254,7 +11254,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.2
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.08571428571428572
                       },
                       "region": {
@@ -11452,7 +11452,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.058823529411764705
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.11764705882352941
                           },
                           "region": {
@@ -11515,7 +11515,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.0
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.5
                               },
                               "region": {
@@ -11608,7 +11608,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 0.25
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.25
                                   },
                                   "region": {
@@ -11722,7 +11722,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 0.3333333333333333
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -18439,7 +18439,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 0.2
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       }
                                     }
@@ -18457,7 +18457,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 0.0
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.0
                                   }
                                 }
@@ -18475,7 +18475,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.0
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               }
                             }
@@ -18493,7 +18493,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           }
                         }
@@ -18511,7 +18511,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.13333333333333333
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.1
                       }
                     }
@@ -18529,7 +18529,7 @@
                   "proportion_GA>AA_TC>TT": {
                     "value": 0.08333333333333333
                   },
-                  "proportion_GG>GA_CC>CT": {
+                  "proportion_GG>AG_CC>CT": {
                     "value": 0.16666666666666666
                   }
                 }
@@ -18547,7 +18547,7 @@
               "proportion_GA>AA_TC>TT": {
                 "value": 0.06666666666666667
               },
-              "proportion_GG>GA_CC>CT": {
+              "proportion_GG>AG_CC>CT": {
                 "value": 0.06666666666666667
               }
             }
@@ -18565,7 +18565,7 @@
           "proportion_GA>AA_TC>TT": {
             "value": 0.06557377049180328
           },
-          "proportion_GG>GA_CC>CT": {
+          "proportion_GG>AG_CC>CT": {
             "value": 0.03278688524590164
           }
         }
@@ -18731,7 +18731,7 @@
               "proportion_GA>AA_TC>TT": {
                 "value": 0.04
               },
-              "proportion_GG>GA_CC>CT": {
+              "proportion_GG>AG_CC>CT": {
                 "value": 0.04
               },
               "region": {
@@ -19144,7 +19144,7 @@
                   "proportion_GA>AA_TC>TT": {
                     "value": 0.0
                   },
-                  "proportion_GG>GA_CC>CT": {
+                  "proportion_GG>AG_CC>CT": {
                     "value": 0.0
                   },
                   "region": {
@@ -19321,7 +19321,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.9
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.0
                       },
                       "region": {
@@ -19405,7 +19405,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 1.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           },
                           "region": {
@@ -19810,7 +19810,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.8636363636363636
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.045454545454545456
                               },
                               "region": {
@@ -19930,7 +19930,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.8235294117647058
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               },
                               "region": {
@@ -20003,7 +20003,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.9444444444444444
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               },
                               "region": {
@@ -20024,7 +20024,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.8
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.06666666666666667
                           }
                         }
@@ -20042,7 +20042,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 1.0
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.0
                       }
                     }
@@ -20113,7 +20113,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.5
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               },
                               "region": {
@@ -20176,7 +20176,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 1.0
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               },
                               "region": {
@@ -20197,7 +20197,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.75
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           }
                         }
@@ -20257,7 +20257,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 1.0
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.0
                                   },
                                   "region": {
@@ -20296,7 +20296,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 1.0
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.0
                                   },
                                   "region": {
@@ -20317,7 +20317,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 1.0
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               }
                             }
@@ -20391,7 +20391,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 0.0
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.0
                                   },
                                   "region": {
@@ -20435,7 +20435,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 1.0
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.0
                                   },
                                   "region": {
@@ -20456,7 +20456,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 1.0
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               }
                             }
@@ -20566,7 +20566,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.5
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.25
                           },
                           "region": {
@@ -20619,7 +20619,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 1.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           },
                           "region": {
@@ -34546,7 +34546,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 1.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           },
                           "region": {
@@ -34595,7 +34595,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 0.3333333333333333
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.3333333333333333
                           },
                           "region": {
@@ -34811,7 +34811,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 0.6666666666666666
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.0
                                   },
                                   "region": {
@@ -34938,7 +34938,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -35030,7 +35030,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 0.5
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -35075,7 +35075,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -35411,7 +35411,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 0.5
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.25
                                       },
                                       "region": {
@@ -35559,7 +35559,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 0.1111111111111111
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.2222222222222222
                                       },
                                       "region": {
@@ -36069,7 +36069,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -36108,7 +36108,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 0.5
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -36157,7 +36157,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -36300,7 +36300,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -36345,7 +36345,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       },
                                       "region": {
@@ -37469,7 +37469,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 0.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0625
                                           },
                                           "region": {
@@ -37490,7 +37490,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       }
                                     }
@@ -37552,7 +37552,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 0.5
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           },
                                           "region": {
@@ -37749,7 +37749,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 1.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           },
                                           "region": {
@@ -37793,7 +37793,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 0.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           },
                                           "region": {
@@ -37814,7 +37814,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       }
                                     }
@@ -39087,7 +39087,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 1.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           },
                                           "region": {
@@ -39125,7 +39125,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 1.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           },
                                           "region": {
@@ -40360,7 +40360,7 @@
                                               "proportion_GA>AA_TC>TT": {
                                                 "value": 1.0
                                               },
-                                              "proportion_GG>GA_CC>CT": {
+                                              "proportion_GG>AG_CC>CT": {
                                                 "value": 0.0
                                               },
                                               "region": {
@@ -40406,7 +40406,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 1.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           }
                                         }
@@ -40424,7 +40424,7 @@
                                       "proportion_GA>AA_TC>TT": {
                                         "value": 1.0
                                       },
-                                      "proportion_GG>GA_CC>CT": {
+                                      "proportion_GG>AG_CC>CT": {
                                         "value": 0.0
                                       }
                                     }
@@ -40470,7 +40470,7 @@
                                           "proportion_GA>AA_TC>TT": {
                                             "value": 1.0
                                           },
-                                          "proportion_GG>GA_CC>CT": {
+                                          "proportion_GG>AG_CC>CT": {
                                             "value": 0.0
                                           },
                                           "region": {
@@ -40519,7 +40519,7 @@
                                               "proportion_GA>AA_TC>TT": {
                                                 "value": 1.0
                                               },
-                                              "proportion_GG>GA_CC>CT": {
+                                              "proportion_GG>AG_CC>CT": {
                                                 "value": 0.0
                                               },
                                               "region": {
@@ -51030,7 +51030,7 @@
                                                   "proportion_GA>AA_TC>TT": {
                                                     "value": 0.0
                                                   },
-                                                  "proportion_GG>GA_CC>CT": {
+                                                  "proportion_GG>AG_CC>CT": {
                                                     "value": 0.0
                                                   },
                                                   "region": {
@@ -51121,7 +51121,7 @@
                                                       "proportion_GA>AA_TC>TT": {
                                                         "value": 1.0
                                                       },
-                                                      "proportion_GG>GA_CC>CT": {
+                                                      "proportion_GG>AG_CC>CT": {
                                                         "value": 0.0
                                                       }
                                                     }
@@ -51168,7 +51168,7 @@
                                                           "proportion_GA>AA_TC>TT": {
                                                             "value": 1.0
                                                           },
-                                                          "proportion_GG>GA_CC>CT": {
+                                                          "proportion_GG>AG_CC>CT": {
                                                             "value": 0.0
                                                           },
                                                           "region": {
@@ -51238,7 +51238,7 @@
                                                               "proportion_GA>AA_TC>TT": {
                                                                 "value": 1.0
                                                               },
-                                                              "proportion_GG>GA_CC>CT": {
+                                                              "proportion_GG>AG_CC>CT": {
                                                                 "value": 0.0
                                                               },
                                                               "region": {
@@ -51281,7 +51281,7 @@
                                                                   "proportion_GA>AA_TC>TT": {
                                                                     "value": 0.0
                                                                   },
-                                                                  "proportion_GG>GA_CC>CT": {
+                                                                  "proportion_GG>AG_CC>CT": {
                                                                     "value": 0.0
                                                                   },
                                                                   "region": {
@@ -51330,7 +51330,7 @@
                                                                       "proportion_GA>AA_TC>TT": {
                                                                         "value": 1.0
                                                                       },
-                                                                      "proportion_GG>GA_CC>CT": {
+                                                                      "proportion_GG>AG_CC>CT": {
                                                                         "value": 0.0
                                                                       },
                                                                       "region": {
@@ -51373,7 +51373,7 @@
                                                                           "proportion_GA>AA_TC>TT": {
                                                                             "value": 1.0
                                                                           },
-                                                                          "proportion_GG>GA_CC>CT": {
+                                                                          "proportion_GG>AG_CC>CT": {
                                                                             "value": 0.0
                                                                           },
                                                                           "region": {
@@ -51422,7 +51422,7 @@
                                                                               "proportion_GA>AA_TC>TT": {
                                                                                 "value": 0.0
                                                                               },
-                                                                              "proportion_GG>GA_CC>CT": {
+                                                                              "proportion_GG>AG_CC>CT": {
                                                                                 "value": 1.0
                                                                               },
                                                                               "region": {
@@ -51471,7 +51471,7 @@
                                                                                   "proportion_GA>AA_TC>TT": {
                                                                                     "value": 1.0
                                                                                   },
-                                                                                  "proportion_GG>GA_CC>CT": {
+                                                                                  "proportion_GG>AG_CC>CT": {
                                                                                     "value": 0.0
                                                                                   },
                                                                                   "region": {
@@ -51514,7 +51514,7 @@
                                                                                       "proportion_GA>AA_TC>TT": {
                                                                                         "value": 1.0
                                                                                       },
-                                                                                      "proportion_GG>GA_CC>CT": {
+                                                                                      "proportion_GG>AG_CC>CT": {
                                                                                         "value": 0.0
                                                                                       },
                                                                                       "region": {
@@ -51563,7 +51563,7 @@
                                                                                           "proportion_GA>AA_TC>TT": {
                                                                                             "value": 1.0
                                                                                           },
-                                                                                          "proportion_GG>GA_CC>CT": {
+                                                                                          "proportion_GG>AG_CC>CT": {
                                                                                             "value": 0.0
                                                                                           },
                                                                                           "region": {
@@ -52803,7 +52803,7 @@
                                   "proportion_GA>AA_TC>TT": {
                                     "value": 0.7272727272727273
                                   },
-                                  "proportion_GG>GA_CC>CT": {
+                                  "proportion_GG>AG_CC>CT": {
                                     "value": 0.18181818181818182
                                   }
                                 }
@@ -52821,7 +52821,7 @@
                               "proportion_GA>AA_TC>TT": {
                                 "value": 0.9333333333333333
                               },
-                              "proportion_GG>GA_CC>CT": {
+                              "proportion_GG>AG_CC>CT": {
                                 "value": 0.0
                               }
                             }
@@ -52839,7 +52839,7 @@
                           "proportion_GA>AA_TC>TT": {
                             "value": 1.0
                           },
-                          "proportion_GG>GA_CC>CT": {
+                          "proportion_GG>AG_CC>CT": {
                             "value": 0.0
                           }
                         }
@@ -52857,7 +52857,7 @@
                       "proportion_GA>AA_TC>TT": {
                         "value": 0.9230769230769231
                       },
-                      "proportion_GG>GA_CC>CT": {
+                      "proportion_GG>AG_CC>CT": {
                         "value": 0.0
                       }
                     }
@@ -52875,7 +52875,7 @@
                   "proportion_GA>AA_TC>TT": {
                     "value": 0.3103448275862069
                   },
-                  "proportion_GG>GA_CC>CT": {
+                  "proportion_GG>AG_CC>CT": {
                     "value": 0.034482758620689655
                   }
                 }
@@ -52893,7 +52893,7 @@
               "proportion_GA>AA_TC>TT": {
                 "value": 0.11764705882352941
               },
-              "proportion_GG>GA_CC>CT": {
+              "proportion_GG>AG_CC>CT": {
                 "value": 0.051470588235294115
               }
             }
