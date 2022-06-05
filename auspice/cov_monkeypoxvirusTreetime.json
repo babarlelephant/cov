@@ -55,13 +55,18 @@
         "type": "categorical"
       },
       {
-        "key": "GA_CT_fraction",
-        "title": "GA_CT_fraction",
+        "key": "proportion_GG>GA_CC>CT",
+        "title": "proportion_GG>GA_CC>CT",
         "type": "continuous"
       },
       {
-        "key": "dinuc_context_fraction",
-        "title": "dinuc_context_fraction",
+        "key": "proportion_G>A_C>T",
+        "title": "proportion_G>A_C>T",
+        "type": "continuous"
+      },
+      {
+        "key": "proportion_GA>AA_TC>TT",
+        "title": "proportion_GA>AA_TC>TT",
         "type": "continuous"
       }
     ],
@@ -1513,7 +1518,7 @@
       "entropy"
     ],
     "title": "Genomic epidemiology of monkeypox virus",
-    "updated": "2022-06-03"
+    "updated": "2022-06-05"
   },
   "tree": {
     "branch_attrs": {
@@ -2755,30 +2760,36 @@
                 ],
                 "name": "NODE_0000020",
                 "node_attrs": {
-                  "GA_CT_fraction": {
-                    "value": 1.0
-                  },
-                  "dinuc_context_fraction": {
-                    "value": 0.0
-                  },
                   "div": 0.0009940273593996927,
                   "num_date": {
                     "value": 2003.2477827945718
+                  },
+                  "proportion_G>A_C>T": {
+                    "value": 1.0
+                  },
+                  "proportion_GA>AA_TC>TT": {
+                    "value": 0.0
+                  },
+                  "proportion_GG>GA_CC>CT": {
+                    "value": 1.0
                   }
                 }
               }
             ],
             "name": "NODE_0000019",
             "node_attrs": {
-              "GA_CT_fraction": {
-                "value": 0.4935064935064935
-              },
-              "dinuc_context_fraction": {
-                "value": 0.012987012987012988
-              },
               "div": 0.0009887623332882085,
               "num_date": {
                 "value": 2003.0023721013508
+              },
+              "proportion_G>A_C>T": {
+                "value": 0.4935064935064935
+              },
+              "proportion_GA>AA_TC>TT": {
+                "value": 0.012987012987012988
+              },
+              "proportion_GG>GA_CC>CT": {
+                "value": 0.07792207792207792
               }
             }
           },
@@ -10656,15 +10667,9 @@
                     },
                     "name": "UTC",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 0.6666666666666666
-                      },
                       "accession": "KJ642614",
                       "country": {
                         "value": "Netherlands"
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.2222222222222222
                       },
                       "div": 0.0008268516496173104,
                       "host": {
@@ -10675,6 +10680,15 @@
                       },
                       "outbreak_associated": {
                         "value": "no"
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 0.6666666666666666
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.2222222222222222
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.1111111111111111
                       },
                       "region": {
                         "value": "Europe"
@@ -10746,15 +10760,9 @@
                     },
                     "name": "PCH",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 0.45
-                      },
                       "accession": "KJ642616",
                       "country": {
                         "value": "France"
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.1
                       },
                       "div": 0.0008401228872367092,
                       "num_date": {
@@ -10762,6 +10770,15 @@
                       },
                       "outbreak_associated": {
                         "value": "no"
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 0.45
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.1
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.0
                       },
                       "region": {
                         "value": "Europe"
@@ -10846,19 +10863,22 @@
                         },
                         "name": "MPXV_WRAIR7_61__Walter_Reed_267",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 0.75
-                          },
                           "accession": "AY603973",
-                          "dinuc_context_fraction": {
-                            "value": 0.0
-                          },
                           "div": 0.0007622883115278043,
                           "num_date": {
                             "value": 1961.0013699130136
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 0.75
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.25
                           }
                         }
                       },
@@ -10971,15 +10991,9 @@
                             },
                             "name": "MPXV_DRC_2012_Malacomys_longipes_EPU30",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.25
-                              },
                               "accession": "MT724769",
                               "country": {
                                 "value": "Democratic Republic of the Congo"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.0
                               },
                               "div": 0.0007836845289732833,
                               "host": {
@@ -10991,6 +11005,15 @@
                               "outbreak_associated": {
                                 "value": "no"
                               },
+                              "proportion_G>A_C>T": {
+                                "value": 0.25
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.0
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
+                              },
                               "region": {
                                 "value": "Africa"
                               }
@@ -10999,45 +11022,54 @@
                         ],
                         "name": "NODE_0000017",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 1.0
-                          },
                           "div": 0.0007621510040350826,
                           "num_date": {
                             "value": 1958.938250909069
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 1.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000016",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 0.6666666666666666
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.6666666666666666
-                      },
                       "div": 0.0007410568629889566,
                       "num_date": {
                         "value": 1958.708309912869
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 0.6666666666666666
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.6666666666666666
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.0
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000014",
                 "node_attrs": {
-                  "GA_CT_fraction": {
-                    "value": 0.3333333333333333
-                  },
-                  "dinuc_context_fraction": {
-                    "value": 0.041666666666666664
-                  },
                   "div": 0.0007251999492779629,
                   "num_date": {
                     "value": 1958.4930830933101
+                  },
+                  "proportion_G>A_C>T": {
+                    "value": 0.3333333333333333
+                  },
+                  "proportion_GA>AA_TC>TT": {
+                    "value": 0.041666666666666664
+                  },
+                  "proportion_GG>GA_CC>CT": {
+                    "value": 0.041666666666666664
                   }
                 }
               },
@@ -11205,15 +11237,9 @@
                     },
                     "name": "Sierra_Leone",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 0.6857142857142857
-                      },
                       "accession": "AY741551",
                       "country": {
                         "value": "Sierra Leone"
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.2
                       },
                       "div": 0.0008495134111861941,
                       "num_date": {
@@ -11221,6 +11247,15 @@
                       },
                       "outbreak_associated": {
                         "value": "no"
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 0.6857142857142857
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.2
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.08571428571428572
                       },
                       "region": {
                         "value": "Africa"
@@ -11400,15 +11435,9 @@
                         },
                         "name": "Cote_dIvoire_1971",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 0.5294117647058824
-                          },
                           "accession": "KP849470",
                           "country": {
                             "value": "Cote d Ivoire"
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 0.058823529411764705
                           },
                           "div": 0.0009136795063587865,
                           "num_date": {
@@ -11416,6 +11445,15 @@
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 0.5294117647058824
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.058823529411764705
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.11764705882352941
                           },
                           "region": {
                             "value": "Africa"
@@ -11457,15 +11495,9 @@
                             },
                             "name": "Liberia_1970_184",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.5
-                              },
                               "accession": "DQ011156",
                               "country": {
                                 "value": "Liberia"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.0
                               },
                               "div": 0.0008418853944415773,
                               "host": {
@@ -11476,6 +11508,15 @@
                               },
                               "outbreak_associated": {
                                 "value": "no"
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 0.5
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.0
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.5
                               },
                               "region": {
                                 "value": "Africa"
@@ -11547,15 +11588,9 @@
                                 },
                                 "name": "Ivory_Coast_2012",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 0.5
-                                  },
                                   "accession": "KJ136820",
                                   "country": {
                                     "value": "Cote d Ivoire"
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 0.25
                                   },
                                   "div": 0.0009248087691661051,
                                   "host": {
@@ -11566,6 +11601,15 @@
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
+                                  },
+                                  "proportion_G>A_C>T": {
+                                    "value": 0.5
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 0.25
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.25
                                   },
                                   "region": {
                                     "value": "Africa"
@@ -11658,15 +11702,9 @@
                                     },
                                     "name": "MPXV_TNP_2018_East_Paddy",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 0.5
-                                      },
                                       "accession": "MN346702",
                                       "country": {
                                         "value": "Cote d Ivoire"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 0.3333333333333333
                                       },
                                       "div": 0.0009515857986037565,
                                       "host": {
@@ -11677,6 +11715,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "no"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 0.5
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 0.3333333333333333
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Africa"
@@ -18382,120 +18429,144 @@
                                     ],
                                     "name": "NODE_0000002",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 0.4
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 0.2
-                                      },
                                       "div": 0.0009458951182935709,
                                       "num_date": {
                                         "value": 2016.981355036595
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 0.4
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 0.2
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       }
                                     }
                                   }
                                 ],
                                 "name": "NODE_0000001",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 0.6666666666666666
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 0.0
-                                  },
                                   "div": 0.0009193041749915538,
                                   "num_date": {
                                     "value": 2015.618047224116
+                                  },
+                                  "proportion_G>A_C>T": {
+                                    "value": 0.6666666666666666
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 0.0
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.0
                                   }
                                 }
                               }
                             ],
                             "name": "NODE_0000000",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.3076923076923077
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.0
-                              },
                               "div": 0.0009035044917344263,
                               "num_date": {
                                 "value": 2011.4071798909615
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 0.3076923076923077
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.0
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
                               }
                             }
                           }
                         ],
                         "name": "NODE_0000010",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 0.5
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 0.0
-                          },
                           "div": 0.0008312570714776127,
                           "num_date": {
                             "value": 1970.6185536696212
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 0.5
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000011",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 0.5333333333333333
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.13333333333333333
-                      },
                       "div": 0.0008206964623089523,
                       "num_date": {
                         "value": 1969.1254368466987
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 0.5333333333333333
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.13333333333333333
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.1
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000012",
                 "node_attrs": {
-                  "GA_CT_fraction": {
-                    "value": 0.5833333333333334
-                  },
-                  "dinuc_context_fraction": {
-                    "value": 0.08333333333333333
-                  },
                   "div": 0.0006493757369814336,
                   "num_date": {
                     "value": 1959.204957220318
+                  },
+                  "proportion_G>A_C>T": {
+                    "value": 0.5833333333333334
+                  },
+                  "proportion_GA>AA_TC>TT": {
+                    "value": 0.08333333333333333
+                  },
+                  "proportion_GG>GA_CC>CT": {
+                    "value": 0.16666666666666666
                   }
                 }
               }
             ],
             "name": "NODE_0000013",
             "node_attrs": {
-              "GA_CT_fraction": {
-                "value": 0.4666666666666667
-              },
-              "dinuc_context_fraction": {
-                "value": 0.06666666666666667
-              },
               "div": 0.0005852302507513571,
               "num_date": {
                 "value": 1955.218307369962
+              },
+              "proportion_G>A_C>T": {
+                "value": 0.4666666666666667
+              },
+              "proportion_GA>AA_TC>TT": {
+                "value": 0.06666666666666667
+              },
+              "proportion_GG>GA_CC>CT": {
+                "value": 0.06666666666666667
               }
             }
           }
         ],
         "name": "NODE_0000018",
         "node_attrs": {
-          "GA_CT_fraction": {
-            "value": 0.3442622950819672
-          },
-          "dinuc_context_fraction": {
-            "value": 0.06557377049180328
-          },
           "div": 0.0004996982230971328,
           "num_date": {
             "value": 1952.5449418080857
+          },
+          "proportion_G>A_C>T": {
+            "value": 0.3442622950819672
+          },
+          "proportion_GA>AA_TC>TT": {
+            "value": 0.06557377049180328
+          },
+          "proportion_GG>GA_CC>CT": {
+            "value": 0.03278688524590164
           }
         }
       },
@@ -18643,15 +18714,9 @@
             },
             "name": "W_Nigeria",
             "node_attrs": {
-              "GA_CT_fraction": {
-                "value": 0.46
-              },
               "accession": "KJ642615",
               "country": {
                 "value": "Nigeria"
-              },
-              "dinuc_context_fraction": {
-                "value": 0.04
               },
               "div": 0.0005000432850672286,
               "num_date": {
@@ -18659,6 +18724,15 @@
               },
               "outbreak_associated": {
                 "value": "no"
+              },
+              "proportion_G>A_C>T": {
+                "value": 0.46
+              },
+              "proportion_GA>AA_TC>TT": {
+                "value": 0.04
+              },
+              "proportion_GG>GA_CC>CT": {
+                "value": 0.04
               },
               "region": {
                 "value": "Africa"
@@ -19053,15 +19127,9 @@
                 },
                 "name": "Nigeria_SE_1971",
                 "node_attrs": {
-                  "GA_CT_fraction": {
-                    "value": 0.5714285714285714
-                  },
                   "accession": "KJ642617",
                   "country": {
                     "value": "Nigeria"
-                  },
-                  "dinuc_context_fraction": {
-                    "value": 0.0
                   },
                   "div": 0.0011205378488651037,
                   "num_date": {
@@ -19069,6 +19137,15 @@
                   },
                   "outbreak_associated": {
                     "value": "no"
+                  },
+                  "proportion_G>A_C>T": {
+                    "value": 0.5714285714285714
+                  },
+                  "proportion_GA>AA_TC>TT": {
+                    "value": 0.0
+                  },
+                  "proportion_GG>GA_CC>CT": {
+                    "value": 0.0
                   },
                   "region": {
                     "value": "Africa"
@@ -19224,15 +19301,9 @@
                     },
                     "name": "3025",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 0.9
-                      },
                       "accession": "MK783030",
                       "country": {
                         "value": "Nigeria"
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.9
                       },
                       "div": 0.0012979899522872315,
                       "host": {
@@ -19243,6 +19314,15 @@
                       },
                       "outbreak_associated": {
                         "value": "no"
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 0.9
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.9
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.0
                       },
                       "region": {
                         "value": "Africa"
@@ -19305,15 +19385,9 @@
                         },
                         "name": "3030",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
                           "accession": "MK783032",
                           "country": {
                             "value": "Nigeria"
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 1.0
                           },
                           "div": 0.0012922592433795039,
                           "host": {
@@ -19324,6 +19398,15 @@
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 1.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           },
                           "region": {
                             "value": "Africa"
@@ -19707,15 +19790,9 @@
                             },
                             "name": "MPXV_USA_2022_VA001",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.9545454545454546
-                              },
                               "accession": "ON675438",
                               "country": {
                                 "value": "USA"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.8636363636363636
                               },
                               "div": 0.0014491681431314338,
                               "host": {
@@ -19726,6 +19803,15 @@
                               },
                               "outbreak_associated": {
                                 "value": "no"
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 0.9545454545454546
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.8636363636363636
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.045454545454545456
                               },
                               "region": {
                                 "value": "North America"
@@ -19824,15 +19910,9 @@
                             },
                             "name": "MPXV_USA_2022_FL001",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.8823529411764706
-                              },
                               "accession": "ON674051",
                               "country": {
                                 "value": "USA"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.8235294117647058
                               },
                               "div": 0.0014233849368480464,
                               "host": {
@@ -19843,6 +19923,15 @@
                               },
                               "outbreak_associated": {
                                 "value": "no"
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 0.8823529411764706
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.8235294117647058
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
                               },
                               "region": {
                                 "value": "North America"
@@ -19894,15 +19983,9 @@
                             },
                             "name": "MPXV_USA_2021_TX",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 1.0
-                              },
                               "accession": "ON676707",
                               "country": {
                                 "value": "USA"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.9444444444444444
                               },
                               "div": 0.0014268876464116674,
                               "host": {
@@ -19914,6 +19997,15 @@
                               "outbreak_associated": {
                                 "value": "no"
                               },
+                              "proportion_G>A_C>T": {
+                                "value": 1.0
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.9444444444444444
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
+                              },
                               "region": {
                                 "value": "North America"
                               }
@@ -19922,30 +20014,36 @@
                         ],
                         "name": "NODE_0000035",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 0.8
-                          },
                           "div": 0.0013297457289387067,
                           "num_date": {
                             "value": 2017.817677095206
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.8
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.06666666666666667
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000034",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 1.0
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 1.0
-                      },
                       "div": 0.0012496285819405138,
                       "num_date": {
                         "value": 2015.7464585388218
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 1.0
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 1.0
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.0
                       }
                     }
                   },
@@ -19995,15 +20093,9 @@
                             },
                             "name": "3029",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.5
-                              },
                               "accession": "MK783029",
                               "country": {
                                 "value": "Nigeria"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.5
                               },
                               "div": 0.0012760294723791156,
                               "host": {
@@ -20014,6 +20106,15 @@
                               },
                               "outbreak_associated": {
                                 "value": "no"
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 0.5
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.5
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
                               },
                               "region": {
                                 "value": "Africa"
@@ -20055,15 +20156,9 @@
                             },
                             "name": "3020",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 1.0
-                              },
                               "accession": "MK783031",
                               "country": {
                                 "value": "Nigeria"
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 1.0
                               },
                               "div": 0.0012707338661415058,
                               "host": {
@@ -20075,6 +20170,15 @@
                               "outbreak_associated": {
                                 "value": "no"
                               },
+                              "proportion_G>A_C>T": {
+                                "value": 1.0
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 1.0
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
+                              },
                               "region": {
                                 "value": "Africa"
                               }
@@ -20083,15 +20187,18 @@
                         ],
                         "name": "NODE_0000029",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 0.75
-                          },
                           "div": 0.0012654520442794102,
                           "num_date": {
                             "value": 2017.7866716224567
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.75
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           }
                         }
                       },
@@ -20130,15 +20237,9 @@
                                 },
                                 "name": "MPXV-M2957_Lagos",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 1.0
-                                  },
                                   "accession": "MT903338",
                                   "country": {
                                     "value": "Nigeria"
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 1.0
                                   },
                                   "div": 0.0012654462680101964,
                                   "host": {
@@ -20149,6 +20250,15 @@
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
+                                  },
+                                  "proportion_G>A_C>T": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.0
                                   },
                                   "region": {
                                     "value": "Africa"
@@ -20166,15 +20276,9 @@
                                 },
                                 "name": "MPXV-M5312_HM12_Rivers",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 1.0
-                                  },
                                   "accession": "MT903340",
                                   "country": {
                                     "value": "Nigeria"
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 1.0
                                   },
                                   "div": 0.0012707413412118434,
                                   "host": {
@@ -20186,6 +20290,15 @@
                                   "outbreak_associated": {
                                     "value": "no"
                                   },
+                                  "proportion_G>A_C>T": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.0
+                                  },
                                   "region": {
                                     "value": "Africa"
                                   }
@@ -20194,15 +20307,18 @@
                             ],
                             "name": "NODE_0000033",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 1.0
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 1.0
-                              },
                               "div": 0.0012601645737763535,
                               "num_date": {
                                 "value": 2017.7897153834408
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 1.0
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 1.0
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
                               }
                             }
                           },
@@ -20255,15 +20371,9 @@
                                 },
                                 "name": "MPXV-M2940_FCT",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 0.5
-                                  },
                                   "accession": "MT903337",
                                   "country": {
                                     "value": "Nigeria"
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 0.0
                                   },
                                   "div": 0.0012707417992728432,
                                   "host": {
@@ -20274,6 +20384,15 @@
                                   },
                                   "outbreak_associated": {
                                     "value": "no"
+                                  },
+                                  "proportion_G>A_C>T": {
+                                    "value": 0.5
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 0.0
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.0
                                   },
                                   "region": {
                                     "value": "Africa"
@@ -20296,15 +20415,9 @@
                                 },
                                 "name": "MPXV-M3021_Delta",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 1.0
-                                  },
                                   "accession": "MT903339",
                                   "country": {
                                     "value": "Nigeria"
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 1.0
                                   },
                                   "div": 0.0012654464074652535,
                                   "host": {
@@ -20316,6 +20429,15 @@
                                   "outbreak_associated": {
                                     "value": "no"
                                   },
+                                  "proportion_G>A_C>T": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.0
+                                  },
                                   "region": {
                                     "value": "Africa"
                                   }
@@ -20324,15 +20446,18 @@
                             ],
                             "name": "NODE_0000028",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 1.0
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 1.0
-                              },
                               "div": 0.0012601645737763535,
                               "num_date": {
                                 "value": 2017.789681913776
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 1.0
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 1.0
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
                               }
                             }
                           }
@@ -20421,15 +20546,9 @@
                         },
                         "name": "Israel_2018",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 0.75
-                          },
                           "accession": "MN648051",
                           "country": {
                             "value": "Israel"
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 0.5
                           },
                           "div": 0.001335374206390709,
                           "host": {
@@ -20440,6 +20559,15 @@
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 0.75
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.5
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.25
                           },
                           "region": {
                             "value": "West Asia"
@@ -20471,15 +20599,9 @@
                         },
                         "name": "MPXV-Singapore",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
                           "accession": "MT903342",
                           "country": {
                             "value": "Singapore"
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 1.0
                           },
                           "div": 0.0013348433366975104,
                           "host": {
@@ -20490,6 +20612,15 @@
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 1.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           },
                           "region": {
                             "value": "Asia"
@@ -34395,15 +34526,9 @@
                         },
                         "name": "MPXV-M5320_M15_Bayelsa",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
                           "accession": "MT903341",
                           "country": {
                             "value": "Nigeria"
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 1.0
                           },
                           "div": 0.0013248955025075525,
                           "host": {
@@ -34414,6 +34539,15 @@
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 1.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           },
                           "region": {
                             "value": "Africa"
@@ -34441,15 +34575,9 @@
                         },
                         "name": "MPXV-UK_P1",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
                           "accession": "MT903343",
                           "country": {
                             "value": "United Kingdom"
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 0.3333333333333333
                           },
                           "div": 0.0013295228126891084,
                           "host": {
@@ -34460,6 +34588,15 @@
                           },
                           "outbreak_associated": {
                             "value": "no"
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 0.3333333333333333
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.3333333333333333
                           },
                           "region": {
                             "value": "Europe"
@@ -34654,15 +34791,9 @@
                                 },
                                 "name": "MPXV_USA_2021_MD",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 1.0
-                                  },
                                   "accession": "ON676708",
                                   "country": {
                                     "value": "USA"
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 0.6666666666666666
                                   },
                                   "div": 0.0015091072563876813,
                                   "host": {
@@ -34673,6 +34804,15 @@
                                   },
                                   "outbreak_associated": {
                                     "value": "maybe"
+                                  },
+                                  "proportion_G>A_C>T": {
+                                    "value": 1.0
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 0.6666666666666666
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.0
                                   },
                                   "region": {
                                     "value": "North America"
@@ -34778,15 +34918,9 @@
                                     },
                                     "name": "MPXV/Germany/2022/RKI02",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON637939",
                                       "country": {
                                         "value": "Germany"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
                                       },
                                       "div": 0.0015624583628212369,
                                       "host": {
@@ -34797,6 +34931,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -34867,15 +35010,9 @@
                                     },
                                     "name": "MPXV/Germany/2022/RKI01",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON637938",
                                       "country": {
                                         "value": "Germany"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 0.5
                                       },
                                       "div": 0.0015624601101504353,
                                       "host": {
@@ -34886,6 +35023,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 0.5
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -34909,15 +35055,9 @@
                                     },
                                     "name": "MPXV_UK_2022_2",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON619836",
                                       "country": {
                                         "value": "United Kingdom"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
                                       },
                                       "div": 0.0015624709997884966,
                                       "host": {
@@ -34928,6 +35068,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -35242,15 +35391,9 @@
                                     },
                                     "name": "MPXV/ES0001/HUGTiP/2022",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 0.75
-                                      },
                                       "accession": "ON622718",
                                       "country": {
                                         "value": "Spain"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 0.5
                                       },
                                       "div": 0.0015731699485741484,
                                       "host": {
@@ -35261,6 +35404,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 0.75
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 0.5
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.25
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -35387,15 +35539,9 @@
                                     },
                                     "name": "ITM_MPX_1_Belgium",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 0.3333333333333333
-                                      },
                                       "accession": "XXXXXXXX",
                                       "country": {
                                         "value": "Belgium"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 0.1111111111111111
                                       },
                                       "div": 0.0016007889434875155,
                                       "host": {
@@ -35406,6 +35552,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 0.3333333333333333
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 0.1111111111111111
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.2222222222222222
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -35894,15 +36049,9 @@
                                     },
                                     "name": "MPXV_UK_2022_4",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON619838",
                                       "country": {
                                         "value": "United Kingdom"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
                                       },
                                       "div": 0.001562468829200559,
                                       "host": {
@@ -35913,6 +36062,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -35930,15 +36088,9 @@
                                     },
                                     "name": "MPXV_UK_2022_3",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON619837",
                                       "country": {
                                         "value": "United Kingdom"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 0.5
                                       },
                                       "div": 0.0015624757823198495,
                                       "host": {
@@ -35949,6 +36101,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 0.5
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -35976,15 +36137,9 @@
                                     },
                                     "name": "Monkeypox/PT0010/2022",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON585036",
                                       "country": {
                                         "value": "Portugal"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
                                       },
                                       "div": 0.001562661812983388,
                                       "host": {
@@ -35995,6 +36150,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -36116,15 +36280,9 @@
                                     },
                                     "name": "MPXV_2022_NL001",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON615424",
                                       "country": {
                                         "value": "Netherlands"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
                                       },
                                       "div": 0.0015625101289106534,
                                       "host": {
@@ -36135,6 +36293,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -36158,15 +36325,9 @@
                                     },
                                     "name": "MPXV_USA_2022_FL002",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
                                       "accession": "ON676704",
                                       "country": {
                                         "value": "USA"
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
                                       },
                                       "div": 0.0015624555044495003,
                                       "host": {
@@ -36177,6 +36338,15 @@
                                       },
                                       "outbreak_associated": {
                                         "value": "yes"
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       },
                                       "region": {
                                         "value": "North America"
@@ -36764,19 +36934,564 @@
                                             "value": "Europe"
                                           }
                                         }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "labels": {
+                                            "aa": "006-epidermal-growth-factor-like-protein-EGF-like-protein: E48X, *143X; 009-IL-18-binding-protein: K121X, *127X; 010-ankyrin-like-protein: I260X, K382X, E383G, G384R, I573X, *661X; 014-hypothetical-protein-TATV_DAH68_023: Y125X, I126-, F127-, D128-, D129-, T130-, D131-, L132-, S133-, H134-, L135-, K136-, I137-, A138-, L139-, Y140-, R141-, R142-, I143-, Q144-, R145-, *156X; 017: K93X, *127X; 020-putative-alpha-aminitin-sensitive-protein: K135X, *178X; 021-ankyin-like-protein: I155X, *443X; 024-serine-protease-inhibitor-like-protein: M268X, *376X; 026-phospholipase-D-like-protein: E33X, T334X, K416X, *425X; 027-monoglyceride-lipase: G53X, *277X; 038-Ser_Thr-kinase: H17X, *440X; 047-polyA-polymerase-large-subunit: S83X, L164X, G226X, I234X, *480X; 048-iev-morphogenesis-protein: K388X; 050: P223X, *260X; 052-Virion-protein: K311X, L544X; 054-ER-localized-membrane-protein: K144X, *274X; 055-DNA-polymerase: C558X, *1007X; 057-putative-virion-core-protein: Y60X; 058-Hypothetical-protein: K18X, K523X; 066-viral-core-cysteine-proteinase: M365X, *424X; 067-RNA-helicase-NPH-II: K3X, E414X; 068-putative-metalloprotease: K18X, G23X, F457X, S565X; 070-transcriptional-elongation-factor: F14X, G97X, *221X; 071-glutaredoxin-like-protein: L33X; 073-RNA-polymerase: L60X; 080-hypothetical-protein-TATV_DAH68_093: F242X, A268X, *345X; 081-DNA-binding-virion-core-protein: K119X, *252X; 082-Entry-and-Fusion-IMV-protein: F46X, *129X; 083-virion-protein: F18X, *153X; 085-polyA-polymerase-small-subunit: G45X, T150I; 087-late-16kDa-putative-membrane-protein: P24X, *134X; 088-DNA-dependent-RNA-polymerase-subunit-rpo147: A452X; 092-RAP94: N170X, K206X; 094-DNA-topoisomerase-type-I: F127X, N287X, *315X; 095-hypothetical-protein-TATV_DAH68_107: I40X; 098-virion-core-protein: K227X; 099-uracil-DNA-glycosylase: P71X, G128X, H151Q, V152R, S153Y, *219X; 100-NTPase: K434X, K477X, L549X; 101-morph: L78X, *638X; 103-IMV-membrane-protein: S78X, K100X, *305X; 105-mRNA-decapping-enzyme: F3X, *249X; 106-ATPase: K266X; 108-trimeric-virion-coat-protein: N355X, *552X; 110-late-transcription-factor-VLTF-3: N78X, *225X; 116-vetf-l: K192X, I316X, G423X, K584X, F594X; 117-32kDa-small-subunit-of-transcription-factor-VITF-3: P249X; 122-CMLV130: P34X, *71X; 123-phosphorylated-IMV-membrane-protein: G68X, *91X; 128-DNA-helicase: L25X, S267X, K435X, *493X; 131-viral-DNA-polymerase-processivity-factor: K194X, F233X, G242X; 137-cowpox-A-type-inclusion-protein: K297X, *510X; 148-IEV-transmembrane-phosphoprotein: R90X, D196X, N197Y, *229X; 151-secreted-glycoprotein: I218X, *222X; 153-putative-type-I-membrane-glycoprotein: K190X, *197X; 156-inactive-Cu-Zn-superoxide-dismutase-like-in-virion: S94X, *126X; 157-hypothetical-protein-KM542_gp180: K177X, *241X; 158-thymidylate-kinase: L12X, *205X; 159-DNA-ligase: K222X, K275X; 160-hypothetical-protein-TATV_DAH68_178: F150X, *335X; 165-ankyrin-like-protein: F55X, K208X; 166-EEV-membrane-glycoprotein: E112X, *318X; 168-hypothetical-protein-TATV_DAH68_190: K3X, *183X; 169-soluble-interferon-gamma-receptor-like-protein: G103X, K211X, F263X, *268X; 180-SPI-1-serine-protease-inhibitor-like-protein: Q94X; 182-B21R: P726X"
+                                          },
+                                          "mutations": {
+                                            "006-epidermal-growth-factor-like-protein-EGF-like-protein": [
+                                              "E48X",
+                                              "*143X"
+                                            ],
+                                            "009-IL-18-binding-protein": [
+                                              "K121X",
+                                              "*127X"
+                                            ],
+                                            "010-ankyrin-like-protein": [
+                                              "I260X",
+                                              "K382X",
+                                              "E383G",
+                                              "G384R",
+                                              "I573X",
+                                              "*661X"
+                                            ],
+                                            "014-hypothetical-protein-TATV_DAH68_023": [
+                                              "Y125X",
+                                              "I126-",
+                                              "F127-",
+                                              "D128-",
+                                              "D129-",
+                                              "T130-",
+                                              "D131-",
+                                              "L132-",
+                                              "S133-",
+                                              "H134-",
+                                              "L135-",
+                                              "K136-",
+                                              "I137-",
+                                              "A138-",
+                                              "L139-",
+                                              "Y140-",
+                                              "R141-",
+                                              "R142-",
+                                              "I143-",
+                                              "Q144-",
+                                              "R145-",
+                                              "*156X"
+                                            ],
+                                            "017": [
+                                              "K93X",
+                                              "*127X"
+                                            ],
+                                            "020-putative-alpha-aminitin-sensitive-protein": [
+                                              "K135X",
+                                              "*178X"
+                                            ],
+                                            "021-ankyin-like-protein": [
+                                              "I155X",
+                                              "*443X"
+                                            ],
+                                            "024-serine-protease-inhibitor-like-protein": [
+                                              "M268X",
+                                              "*376X"
+                                            ],
+                                            "026-phospholipase-D-like-protein": [
+                                              "E33X",
+                                              "T334X",
+                                              "K416X",
+                                              "*425X"
+                                            ],
+                                            "027-monoglyceride-lipase": [
+                                              "G53X",
+                                              "*277X"
+                                            ],
+                                            "038-Ser_Thr-kinase": [
+                                              "H17X",
+                                              "*440X"
+                                            ],
+                                            "047-polyA-polymerase-large-subunit": [
+                                              "S83X",
+                                              "L164X",
+                                              "G226X",
+                                              "I234X",
+                                              "*480X"
+                                            ],
+                                            "048-iev-morphogenesis-protein": [
+                                              "K388X"
+                                            ],
+                                            "050": [
+                                              "P223X",
+                                              "*260X"
+                                            ],
+                                            "052-Virion-protein": [
+                                              "K311X",
+                                              "L544X"
+                                            ],
+                                            "054-ER-localized-membrane-protein": [
+                                              "K144X",
+                                              "*274X"
+                                            ],
+                                            "055-DNA-polymerase": [
+                                              "C558X",
+                                              "*1007X"
+                                            ],
+                                            "057-putative-virion-core-protein": [
+                                              "Y60X"
+                                            ],
+                                            "058-Hypothetical-protein": [
+                                              "K18X",
+                                              "K523X"
+                                            ],
+                                            "066-viral-core-cysteine-proteinase": [
+                                              "M365X",
+                                              "*424X"
+                                            ],
+                                            "067-RNA-helicase-NPH-II": [
+                                              "K3X",
+                                              "E414X"
+                                            ],
+                                            "068-putative-metalloprotease": [
+                                              "K18X",
+                                              "G23X",
+                                              "F457X",
+                                              "S565X"
+                                            ],
+                                            "070-transcriptional-elongation-factor": [
+                                              "F14X",
+                                              "G97X",
+                                              "*221X"
+                                            ],
+                                            "071-glutaredoxin-like-protein": [
+                                              "L33X"
+                                            ],
+                                            "073-RNA-polymerase": [
+                                              "L60X"
+                                            ],
+                                            "080-hypothetical-protein-TATV_DAH68_093": [
+                                              "F242X",
+                                              "A268X",
+                                              "*345X"
+                                            ],
+                                            "081-DNA-binding-virion-core-protein": [
+                                              "K119X",
+                                              "*252X"
+                                            ],
+                                            "082-Entry-and-Fusion-IMV-protein": [
+                                              "F46X",
+                                              "*129X"
+                                            ],
+                                            "083-virion-protein": [
+                                              "F18X",
+                                              "*153X"
+                                            ],
+                                            "085-polyA-polymerase-small-subunit": [
+                                              "G45X",
+                                              "T150I"
+                                            ],
+                                            "087-late-16kDa-putative-membrane-protein": [
+                                              "P24X",
+                                              "*134X"
+                                            ],
+                                            "088-DNA-dependent-RNA-polymerase-subunit-rpo147": [
+                                              "A452X"
+                                            ],
+                                            "092-RAP94": [
+                                              "N170X",
+                                              "K206X"
+                                            ],
+                                            "094-DNA-topoisomerase-type-I": [
+                                              "F127X",
+                                              "N287X",
+                                              "*315X"
+                                            ],
+                                            "095-hypothetical-protein-TATV_DAH68_107": [
+                                              "I40X"
+                                            ],
+                                            "098-virion-core-protein": [
+                                              "K227X"
+                                            ],
+                                            "099-uracil-DNA-glycosylase": [
+                                              "P71X",
+                                              "G128X",
+                                              "H151Q",
+                                              "V152R",
+                                              "S153Y",
+                                              "*219X"
+                                            ],
+                                            "100-NTPase": [
+                                              "K434X",
+                                              "K477X",
+                                              "L549X"
+                                            ],
+                                            "101-morph": [
+                                              "L78X",
+                                              "*638X"
+                                            ],
+                                            "103-IMV-membrane-protein": [
+                                              "S78X",
+                                              "K100X",
+                                              "*305X"
+                                            ],
+                                            "105-mRNA-decapping-enzyme": [
+                                              "F3X",
+                                              "*249X"
+                                            ],
+                                            "106-ATPase": [
+                                              "K266X"
+                                            ],
+                                            "108-trimeric-virion-coat-protein": [
+                                              "N355X",
+                                              "*552X"
+                                            ],
+                                            "110-late-transcription-factor-VLTF-3": [
+                                              "N78X",
+                                              "*225X"
+                                            ],
+                                            "116-vetf-l": [
+                                              "K192X",
+                                              "I316X",
+                                              "G423X",
+                                              "K584X",
+                                              "F594X"
+                                            ],
+                                            "117-32kDa-small-subunit-of-transcription-factor-VITF-3": [
+                                              "P249X"
+                                            ],
+                                            "122-CMLV130": [
+                                              "P34X",
+                                              "*71X"
+                                            ],
+                                            "123-phosphorylated-IMV-membrane-protein": [
+                                              "G68X",
+                                              "*91X"
+                                            ],
+                                            "128-DNA-helicase": [
+                                              "L25X",
+                                              "S267X",
+                                              "K435X",
+                                              "*493X"
+                                            ],
+                                            "131-viral-DNA-polymerase-processivity-factor": [
+                                              "K194X",
+                                              "F233X",
+                                              "G242X"
+                                            ],
+                                            "137-cowpox-A-type-inclusion-protein": [
+                                              "K297X",
+                                              "*510X"
+                                            ],
+                                            "148-IEV-transmembrane-phosphoprotein": [
+                                              "R90X",
+                                              "D196X",
+                                              "N197Y",
+                                              "*229X"
+                                            ],
+                                            "151-secreted-glycoprotein": [
+                                              "I218X",
+                                              "*222X"
+                                            ],
+                                            "153-putative-type-I-membrane-glycoprotein": [
+                                              "K190X",
+                                              "*197X"
+                                            ],
+                                            "156-inactive-Cu-Zn-superoxide-dismutase-like-in-virion": [
+                                              "S94X",
+                                              "*126X"
+                                            ],
+                                            "157-hypothetical-protein-KM542_gp180": [
+                                              "K177X",
+                                              "*241X"
+                                            ],
+                                            "158-thymidylate-kinase": [
+                                              "L12X",
+                                              "*205X"
+                                            ],
+                                            "159-DNA-ligase": [
+                                              "K222X",
+                                              "K275X"
+                                            ],
+                                            "160-hypothetical-protein-TATV_DAH68_178": [
+                                              "F150X",
+                                              "*335X"
+                                            ],
+                                            "165-ankyrin-like-protein": [
+                                              "F55X",
+                                              "K208X"
+                                            ],
+                                            "166-EEV-membrane-glycoprotein": [
+                                              "E112X",
+                                              "*318X"
+                                            ],
+                                            "168-hypothetical-protein-TATV_DAH68_190": [
+                                              "K3X",
+                                              "*183X"
+                                            ],
+                                            "169-soluble-interferon-gamma-receptor-like-protein": [
+                                              "G103X",
+                                              "K211X",
+                                              "F263X",
+                                              "*268X"
+                                            ],
+                                            "180-SPI-1-serine-protease-inhibitor-like-protein": [
+                                              "Q94X"
+                                            ],
+                                            "182-B21R": [
+                                              "P726X"
+                                            ],
+                                            "nuc": [
+                                              "A333-",
+                                              "A1704-",
+                                              "G7732-",
+                                              "T8024-",
+                                              "A8041-",
+                                              "T8504-",
+                                              "T9523-",
+                                              "G9524-",
+                                              "T10506-",
+                                              "T11193-",
+                                              "C11760T",
+                                              "T11762C",
+                                              "C11764-",
+                                              "T11765-",
+                                              "T12130-",
+                                              "A15763-",
+                                              "T16644-",
+                                              "C16645-",
+                                              "T16646-",
+                                              "C16647-",
+                                              "T16648-",
+                                              "G16649-",
+                                              "T16650-",
+                                              "A16651-",
+                                              "T16652-",
+                                              "T16653-",
+                                              "C16654-",
+                                              "T16655-",
+                                              "A16656-",
+                                              "C16657-",
+                                              "G16658-",
+                                              "A16659-",
+                                              "T16660-",
+                                              "A16661-",
+                                              "G16662-",
+                                              "A16663-",
+                                              "G16664-",
+                                              "T16665-",
+                                              "G16666-",
+                                              "C16667-",
+                                              "T16668-",
+                                              "A16669-",
+                                              "T16670-",
+                                              "T16671-",
+                                              "T16672-",
+                                              "T16673-",
+                                              "A16674-",
+                                              "A16675-",
+                                              "G16676-",
+                                              "A16677-",
+                                              "T16678-",
+                                              "G16679-",
+                                              "T16680-",
+                                              "G16681-",
+                                              "A16682-",
+                                              "C16683-",
+                                              "A16684-",
+                                              "G16685-",
+                                              "A16686-",
+                                              "T16687-",
+                                              "C16688-",
+                                              "C16689-",
+                                              "G16690-",
+                                              "T16691-",
+                                              "G16692-",
+                                              "T16693-",
+                                              "C16694-",
+                                              "A16695-",
+                                              "T16696-",
+                                              "C16697-",
+                                              "A16698-",
+                                              "A16699-",
+                                              "A16700-",
+                                              "T16701-",
+                                              "A16702-",
+                                              "T16703-",
+                                              "A16704-",
+                                              "T16705-",
+                                              "A17092-",
+                                              "T18870-",
+                                              "T20669-",
+                                              "A21085-",
+                                              "T21980-",
+                                              "T24686-",
+                                              "T25860-",
+                                              "T26107-",
+                                              "C27010-",
+                                              "A27117-",
+                                              "C27807-",
+                                              "T33418-",
+                                              "G35957-",
+                                              "T42998-",
+                                              "C43021-",
+                                              "G43208-",
+                                              "A43451-",
+                                              "T44744-",
+                                              "G46770-",
+                                              "A49141-",
+                                              "T49839-",
+                                              "A51028-",
+                                              "A52774-",
+                                              "A54973-",
+                                              "T55566-",
+                                              "T57081-",
+                                              "T63633-",
+                                              "A64738-",
+                                              "A65971-",
+                                              "A66848-",
+                                              "A67170-",
+                                              "C68473-",
+                                              "T68488-",
+                                              "C68907-",
+                                              "G69154-",
+                                              "G69776-",
+                                              "G71367-",
+                                              "A76081-",
+                                              "A76159-",
+                                              "A76160-",
+                                              "A77263-",
+                                              "T77809-",
+                                              "T78068-",
+                                              "A79046-",
+                                              "G79226-",
+                                              "C79542T",
+                                              "G80958-",
+                                              "C82489-",
+                                              "T88840-",
+                                              "T88948-",
+                                              "T90652-",
+                                              "T91134-",
+                                              "T91374-",
+                                              "A95347-",
+                                              "A95582-",
+                                              "G95751-",
+                                              "C95822A",
+                                              "G95823C",
+                                              "T95824G",
+                                              "A95826T",
+                                              "G95827A",
+                                              "A97357-",
+                                              "A97486-",
+                                              "A97704-",
+                                              "A98688-",
+                                              "T101458-",
+                                              "G101524-",
+                                              "T102444-",
+                                              "T103372-",
+                                              "T104283-",
+                                              "T106600-",
+                                              "T108602-",
+                                              "A113925-",
+                                              "T113955-",
+                                              "C114437-",
+                                              "T114760-",
+                                              "T115131-",
+                                              "C116504-",
+                                              "T121126-",
+                                              "G121277-",
+                                              "C121554-",
+                                              "T124029-",
+                                              "T124756-",
+                                              "A125258-",
+                                              "A126574-",
+                                              "T126692-",
+                                              "A126720-",
+                                              "A132030-",
+                                              "T136788-",
+                                              "A143056-",
+                                              "G143374A",
+                                              "A143375-",
+                                              "T143376-",
+                                              "A143377T",
+                                              "T143485C",
+                                              "T146138-",
+                                              "A148005-",
+                                              "A149734-",
+                                              "A150348-",
+                                              "T150544-",
+                                              "T150870-",
+                                              "A151496-",
+                                              "A151517-",
+                                              "G151555-",
+                                              "A152679-",
+                                              "A153366-",
+                                              "A153525-",
+                                              "T154870-",
+                                              "A156613G",
+                                              "A156614C",
+                                              "T156615A",
+                                              "C156616A",
+                                              "C156617T",
+                                              "T163508-",
+                                              "A163965-",
+                                              "A165467-",
+                                              "A166748-",
+                                              "G167651-",
+                                              "A167975-",
+                                              "T168131-",
+                                              "T170909-",
+                                              "T172094-",
+                                              "G179122-",
+                                              "A179561-",
+                                              "C183546-"
+                                            ]
+                                          }
+                                        },
+                                        "name": "MD-HGUGM-6513479/2022",
+                                        "node_attrs": {
+                                          "accession": "EPI_ISL_13089461",
+                                          "country": {
+                                            "value": "Spain"
+                                          },
+                                          "div": 0.0016561037769935684,
+                                          "host": {
+                                            "value": "human"
+                                          },
+                                          "num_date": {
+                                            "value": 2022.4013698630138
+                                          },
+                                          "outbreak_associated": {
+                                            "value": "yes"
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 0.3125
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 0.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0625
+                                          },
+                                          "region": {
+                                            "value": "Europe"
+                                          }
+                                        }
                                       }
                                     ],
                                     "name": "NODE_0000095",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
-                                      },
                                       "div": 0.0015623920584567049,
                                       "num_date": {
                                         "value": 2022.1651887473508
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       }
                                     }
                                   },
@@ -36817,15 +37532,9 @@
                                         },
                                         "name": "mpx-37-Finland_consensus",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 0.5
-                                          },
                                           "accession": "XXXXXXXX",
                                           "country": {
                                             "value": "Finland"
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 0.5
                                           },
                                           "div": 0.0015782767784928756,
                                           "host": {
@@ -36836,6 +37545,15 @@
                                           },
                                           "outbreak_associated": {
                                             "value": "yes"
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 0.5
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 0.5
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -37011,15 +37729,9 @@
                                         },
                                         "name": "SLO",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 1.0
-                                          },
                                           "accession": "ON609725",
                                           "country": {
                                             "value": "Slovenia"
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 1.0
                                           },
                                           "div": 0.0015729451498079456,
                                           "host": {
@@ -37030,6 +37742,15 @@
                                           },
                                           "outbreak_associated": {
                                             "value": "yes"
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -37052,15 +37773,9 @@
                                         },
                                         "name": "MPXV_FR_HCL0001_2022",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 0.0
-                                          },
                                           "accession": "ON622722",
                                           "country": {
                                             "value": "France"
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 0.0
                                           },
                                           "div": 0.0015729629880431731,
                                           "host": {
@@ -37072,6 +37787,15 @@
                                           "outbreak_associated": {
                                             "value": "yes"
                                           },
+                                          "proportion_G>A_C>T": {
+                                            "value": 0.0
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 0.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
+                                          },
                                           "region": {
                                             "value": "Europe"
                                           }
@@ -37080,15 +37804,18 @@
                                     ],
                                     "name": "NODE_0000051",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
-                                      },
                                       "div": 0.001567662469841052,
                                       "num_date": {
                                         "value": 2022.3299163096997
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       }
                                     }
                                   },
@@ -38340,15 +39067,9 @@
                                         },
                                         "name": "Monkeypox/PT0008/2022",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 1.0
-                                          },
                                           "accession": "ON585038",
                                           "country": {
                                             "value": "Portugal"
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 1.0
                                           },
                                           "div": 0.001567746378370496,
                                           "host": {
@@ -38359,6 +39080,15 @@
                                           },
                                           "outbreak_associated": {
                                             "value": "yes"
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -38375,15 +39105,9 @@
                                         },
                                         "name": "Monkeypox/PT0005/2022",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 1.0
-                                          },
                                           "accession": "ON585037",
                                           "country": {
                                             "value": "Portugal"
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 1.0
                                           },
                                           "div": 0.0015677466270765446,
                                           "host": {
@@ -38394,6 +39118,15 @@
                                           },
                                           "outbreak_associated": {
                                             "value": "yes"
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -39607,15 +40340,9 @@
                                             },
                                             "name": "Monkeypox/PT0015/2022",
                                             "node_attrs": {
-                                              "GA_CT_fraction": {
-                                                "value": 1.0
-                                              },
                                               "accession": "ON649714",
                                               "country": {
                                                 "value": "Portugal"
-                                              },
-                                              "dinuc_context_fraction": {
-                                                "value": 1.0
                                               },
                                               "div": 0.0015731580968636203,
                                               "host": {
@@ -39626,6 +40353,15 @@
                                               },
                                               "outbreak_associated": {
                                                 "value": "yes"
+                                              },
+                                              "proportion_G>A_C>T": {
+                                                "value": 1.0
+                                              },
+                                              "proportion_GA>AA_TC>TT": {
+                                                "value": 1.0
+                                              },
+                                              "proportion_GG>GA_CC>CT": {
+                                                "value": 0.0
                                               },
                                               "region": {
                                                 "value": "Europe"
@@ -39660,30 +40396,36 @@
                                         ],
                                         "name": "NODE_0000104",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 1.0
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 1.0
-                                          },
                                           "div": 0.0015677122068373408,
                                           "num_date": {
                                             "value": 2022.3337651156771
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
                                           }
                                         }
                                       }
                                     ],
                                     "name": "NODE_0000102",
                                     "node_attrs": {
-                                      "GA_CT_fraction": {
-                                        "value": 1.0
-                                      },
-                                      "dinuc_context_fraction": {
-                                        "value": 1.0
-                                      },
                                       "div": 0.0015624394044971147,
                                       "num_date": {
                                         "value": 2022.2461333992107
+                                      },
+                                      "proportion_G>A_C>T": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GA>AA_TC>TT": {
+                                        "value": 1.0
+                                      },
+                                      "proportion_GG>GA_CC>CT": {
+                                        "value": 0.0
                                       }
                                     }
                                   },
@@ -39708,15 +40450,9 @@
                                         },
                                         "name": "MPXV_USA_2022_UT001",
                                         "node_attrs": {
-                                          "GA_CT_fraction": {
-                                            "value": 1.0
-                                          },
                                           "accession": "ON676705",
                                           "country": {
                                             "value": "USA"
-                                          },
-                                          "dinuc_context_fraction": {
-                                            "value": 1.0
                                           },
                                           "div": 0.001557161135004913,
                                           "host": {
@@ -39727,6 +40463,15 @@
                                           },
                                           "outbreak_associated": {
                                             "value": "yes"
+                                          },
+                                          "proportion_G>A_C>T": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GA>AA_TC>TT": {
+                                            "value": 1.0
+                                          },
+                                          "proportion_GG>GA_CC>CT": {
+                                            "value": 0.0
                                           },
                                           "region": {
                                             "value": "North America"
@@ -39754,15 +40499,9 @@
                                             },
                                             "name": "MPxV/VIDRL01/2022",
                                             "node_attrs": {
-                                              "GA_CT_fraction": {
-                                                "value": 1.0
-                                              },
                                               "accession": "ON631963",
                                               "country": {
                                                 "value": "Australia"
-                                              },
-                                              "dinuc_context_fraction": {
-                                                "value": 1.0
                                               },
                                               "div": 0.001557161029400399,
                                               "host": {
@@ -39773,6 +40512,15 @@
                                               },
                                               "outbreak_associated": {
                                                 "value": "yes"
+                                              },
+                                              "proportion_G>A_C>T": {
+                                                "value": 1.0
+                                              },
+                                              "proportion_GA>AA_TC>TT": {
+                                                "value": 1.0
+                                              },
+                                              "proportion_GG>GA_CC>CT": {
+                                                "value": 0.0
                                               },
                                               "region": {
                                                 "value": "Oceania"
@@ -50262,15 +51010,9 @@
                                                 },
                                                 "name": "MPXV_GSTT_Patient1",
                                                 "node_attrs": {
-                                                  "GA_CT_fraction": {
-                                                    "value": 0.0
-                                                  },
                                                   "accession": "ON645312",
                                                   "country": {
                                                     "value": "United Kingdom"
-                                                  },
-                                                  "dinuc_context_fraction": {
-                                                    "value": 0.0
                                                   },
                                                   "div": 0.0015575812755400536,
                                                   "host": {
@@ -50281,6 +51023,15 @@
                                                   },
                                                   "outbreak_associated": {
                                                     "value": "yes"
+                                                  },
+                                                  "proportion_G>A_C>T": {
+                                                    "value": 0.0
+                                                  },
+                                                  "proportion_GA>AA_TC>TT": {
+                                                    "value": 0.0
+                                                  },
+                                                  "proportion_GG>GA_CC>CT": {
+                                                    "value": 0.0
                                                   },
                                                   "region": {
                                                     "value": "Europe"
@@ -50360,15 +51111,18 @@
                                                     ],
                                                     "name": "NODE_0000098",
                                                     "node_attrs": {
-                                                      "GA_CT_fraction": {
-                                                        "value": 1.0
-                                                      },
-                                                      "dinuc_context_fraction": {
-                                                        "value": 1.0
-                                                      },
                                                       "div": 0.0015571272685449087,
                                                       "num_date": {
                                                         "value": 2022.3292265882078
+                                                      },
+                                                      "proportion_G>A_C>T": {
+                                                        "value": 1.0
+                                                      },
+                                                      "proportion_GA>AA_TC>TT": {
+                                                        "value": 1.0
+                                                      },
+                                                      "proportion_GG>GA_CC>CT": {
+                                                        "value": 0.0
                                                       }
                                                     }
                                                   },
@@ -50394,15 +51148,9 @@
                                                         },
                                                         "name": "Monkeypox/PT0006/2022",
                                                         "node_attrs": {
-                                                          "GA_CT_fraction": {
-                                                            "value": 1.0
-                                                          },
                                                           "accession": "ON585033",
                                                           "country": {
                                                             "value": "Portugal"
-                                                          },
-                                                          "dinuc_context_fraction": {
-                                                            "value": 1.0
                                                           },
                                                           "div": 0.0015571609564578573,
                                                           "host": {
@@ -50413,6 +51161,15 @@
                                                           },
                                                           "outbreak_associated": {
                                                             "value": "yes"
+                                                          },
+                                                          "proportion_G>A_C>T": {
+                                                            "value": 1.0
+                                                          },
+                                                          "proportion_GA>AA_TC>TT": {
+                                                            "value": 1.0
+                                                          },
+                                                          "proportion_GG>GA_CC>CT": {
+                                                            "value": 0.0
                                                           },
                                                           "region": {
                                                             "value": "Europe"
@@ -50461,15 +51218,9 @@
                                                             },
                                                             "name": "MPXV-CH-38134631/2022",
                                                             "node_attrs": {
-                                                              "GA_CT_fraction": {
-                                                                "value": 1.0
-                                                              },
                                                               "accession": "ON595760",
                                                               "country": {
                                                                 "value": "Switzerland"
-                                                              },
-                                                              "dinuc_context_fraction": {
-                                                                "value": 1.0
                                                               },
                                                               "div": 0.0015571767900761189,
                                                               "host": {
@@ -50480,6 +51231,15 @@
                                                               },
                                                               "outbreak_associated": {
                                                                 "value": "yes"
+                                                              },
+                                                              "proportion_G>A_C>T": {
+                                                                "value": 1.0
+                                                              },
+                                                              "proportion_GA>AA_TC>TT": {
+                                                                "value": 1.0
+                                                              },
+                                                              "proportion_GG>GA_CC>CT": {
+                                                                "value": 0.0
                                                               },
                                                               "region": {
                                                                 "value": "Europe"
@@ -50501,15 +51261,9 @@
                                                                 },
                                                                 "name": "Monkeypox/PT0017/2022",
                                                                 "node_attrs": {
-                                                                  "GA_CT_fraction": {
-                                                                    "value": 1.0
-                                                                  },
                                                                   "accession": "ON649715",
                                                                   "country": {
                                                                     "value": "Portugal"
-                                                                  },
-                                                                  "dinuc_context_fraction": {
-                                                                    "value": 0.0
                                                                   },
                                                                   "div": 0.0015571997624867818,
                                                                   "host": {
@@ -50520,6 +51274,15 @@
                                                                   },
                                                                   "outbreak_associated": {
                                                                     "value": "yes"
+                                                                  },
+                                                                  "proportion_G>A_C>T": {
+                                                                    "value": 1.0
+                                                                  },
+                                                                  "proportion_GA>AA_TC>TT": {
+                                                                    "value": 0.0
+                                                                  },
+                                                                  "proportion_GG>GA_CC>CT": {
+                                                                    "value": 0.0
                                                                   },
                                                                   "region": {
                                                                     "value": "Europe"
@@ -50547,15 +51310,9 @@
                                                                     },
                                                                     "name": "MPX/UZ_REGA_1/Belgium/2022",
                                                                     "node_attrs": {
-                                                                      "GA_CT_fraction": {
-                                                                        "value": 1.0
-                                                                      },
                                                                       "accession": "ON622712",
                                                                       "country": {
                                                                         "value": "Belgium"
-                                                                      },
-                                                                      "dinuc_context_fraction": {
-                                                                        "value": 1.0
                                                                       },
                                                                       "div": 0.001557161029400399,
                                                                       "host": {
@@ -50566,6 +51323,15 @@
                                                                       },
                                                                       "outbreak_associated": {
                                                                         "value": "yes"
+                                                                      },
+                                                                      "proportion_G>A_C>T": {
+                                                                        "value": 1.0
+                                                                      },
+                                                                      "proportion_GA>AA_TC>TT": {
+                                                                        "value": 1.0
+                                                                      },
+                                                                      "proportion_GG>GA_CC>CT": {
+                                                                        "value": 0.0
                                                                       },
                                                                       "region": {
                                                                         "value": "Europe"
@@ -50587,15 +51353,9 @@
                                                                         },
                                                                         "name": "MPXV-BY-IMB25241",
                                                                         "node_attrs": {
-                                                                          "GA_CT_fraction": {
-                                                                            "value": 1.0
-                                                                          },
                                                                           "accession": "ON568298",
                                                                           "country": {
                                                                             "value": "Germany"
-                                                                          },
-                                                                          "dinuc_context_fraction": {
-                                                                            "value": 1.0
                                                                           },
                                                                           "div": 0.001557161029400399,
                                                                           "host": {
@@ -50606,6 +51366,15 @@
                                                                           },
                                                                           "outbreak_associated": {
                                                                             "value": "yes"
+                                                                          },
+                                                                          "proportion_G>A_C>T": {
+                                                                            "value": 1.0
+                                                                          },
+                                                                          "proportion_GA>AA_TC>TT": {
+                                                                            "value": 1.0
+                                                                          },
+                                                                          "proportion_GG>GA_CC>CT": {
+                                                                            "value": 0.0
                                                                           },
                                                                           "region": {
                                                                             "value": "Europe"
@@ -50633,15 +51402,9 @@
                                                                             },
                                                                             "name": "MPXV-CH-38156923/2022",
                                                                             "node_attrs": {
-                                                                              "GA_CT_fraction": {
-                                                                                "value": 1.0
-                                                                              },
                                                                               "accession": "XXXXXXX",
                                                                               "country": {
                                                                                 "value": "Switzerland"
-                                                                              },
-                                                                              "dinuc_context_fraction": {
-                                                                                "value": 0.0
                                                                               },
                                                                               "div": 0.0015572921737856858,
                                                                               "host": {
@@ -50652,6 +51415,15 @@
                                                                               },
                                                                               "outbreak_associated": {
                                                                                 "value": "yes"
+                                                                              },
+                                                                              "proportion_G>A_C>T": {
+                                                                                "value": 1.0
+                                                                              },
+                                                                              "proportion_GA>AA_TC>TT": {
+                                                                                "value": 0.0
+                                                                              },
+                                                                              "proportion_GG>GA_CC>CT": {
+                                                                                "value": 1.0
                                                                               },
                                                                               "region": {
                                                                                 "value": "Europe"
@@ -50679,15 +51451,9 @@
                                                                                 },
                                                                                 "name": "Monkeypox/PT0019/2022",
                                                                                 "node_attrs": {
-                                                                                  "GA_CT_fraction": {
-                                                                                    "value": 1.0
-                                                                                  },
                                                                                   "accession": "ON649717",
                                                                                   "country": {
                                                                                     "value": "Portugal"
-                                                                                  },
-                                                                                  "dinuc_context_fraction": {
-                                                                                    "value": 1.0
                                                                                   },
                                                                                   "div": 0.001557161029400399,
                                                                                   "host": {
@@ -50698,6 +51464,15 @@
                                                                                   },
                                                                                   "outbreak_associated": {
                                                                                     "value": "yes"
+                                                                                  },
+                                                                                  "proportion_G>A_C>T": {
+                                                                                    "value": 1.0
+                                                                                  },
+                                                                                  "proportion_GA>AA_TC>TT": {
+                                                                                    "value": 1.0
+                                                                                  },
+                                                                                  "proportion_GG>GA_CC>CT": {
+                                                                                    "value": 0.0
                                                                                   },
                                                                                   "region": {
                                                                                     "value": "Europe"
@@ -50719,15 +51494,9 @@
                                                                                     },
                                                                                     "name": "MPX/UZ_REGA_2/Belgium/2022",
                                                                                     "node_attrs": {
-                                                                                      "GA_CT_fraction": {
-                                                                                        "value": 1.0
-                                                                                      },
                                                                                       "accession": "ON622713",
                                                                                       "country": {
                                                                                         "value": "Belgium"
-                                                                                      },
-                                                                                      "dinuc_context_fraction": {
-                                                                                        "value": 1.0
                                                                                       },
                                                                                       "div": 0.001557161029400399,
                                                                                       "host": {
@@ -50738,6 +51507,15 @@
                                                                                       },
                                                                                       "outbreak_associated": {
                                                                                         "value": "yes"
+                                                                                      },
+                                                                                      "proportion_G>A_C>T": {
+                                                                                        "value": 1.0
+                                                                                      },
+                                                                                      "proportion_GA>AA_TC>TT": {
+                                                                                        "value": 1.0
+                                                                                      },
+                                                                                      "proportion_GG>GA_CC>CT": {
+                                                                                        "value": 0.0
                                                                                       },
                                                                                       "region": {
                                                                                         "value": "Europe"
@@ -50765,15 +51543,9 @@
                                                                                         },
                                                                                         "name": "Monkeypox/PT0016/2022",
                                                                                         "node_attrs": {
-                                                                                          "GA_CT_fraction": {
-                                                                                            "value": 1.0
-                                                                                          },
                                                                                           "accession": "ON649716",
                                                                                           "country": {
                                                                                             "value": "Portugal"
-                                                                                          },
-                                                                                          "dinuc_context_fraction": {
-                                                                                            "value": 1.0
                                                                                           },
                                                                                           "div": 0.0015571871977385684,
                                                                                           "host": {
@@ -50784,6 +51556,15 @@
                                                                                           },
                                                                                           "outbreak_associated": {
                                                                                             "value": "yes"
+                                                                                          },
+                                                                                          "proportion_G>A_C>T": {
+                                                                                            "value": 1.0
+                                                                                          },
+                                                                                          "proportion_GA>AA_TC>TT": {
+                                                                                            "value": 1.0
+                                                                                          },
+                                                                                          "proportion_GG>GA_CC>CT": {
+                                                                                            "value": 0.0
                                                                                           },
                                                                                           "region": {
                                                                                             "value": "Europe"
@@ -52012,90 +52793,108 @@
                                 ],
                                 "name": "NODE_0000044",
                                 "node_attrs": {
-                                  "GA_CT_fraction": {
-                                    "value": 0.9090909090909091
-                                  },
-                                  "dinuc_context_fraction": {
-                                    "value": 0.7272727272727273
-                                  },
                                   "div": 0.0015518797426905284,
                                   "num_date": {
                                     "value": 2022.1273736360492
+                                  },
+                                  "proportion_G>A_C>T": {
+                                    "value": 0.9090909090909091
+                                  },
+                                  "proportion_GA>AA_TC>TT": {
+                                    "value": 0.7272727272727273
+                                  },
+                                  "proportion_GG>GA_CC>CT": {
+                                    "value": 0.18181818181818182
                                   }
                                 }
                               }
                             ],
                             "name": "NODE_0000043",
                             "node_attrs": {
-                              "GA_CT_fraction": {
-                                "value": 0.9666666666666667
-                              },
-                              "dinuc_context_fraction": {
-                                "value": 0.9333333333333333
-                              },
                               "div": 0.0014932230813435845,
                               "num_date": {
                                 "value": 2021.2129837570967
+                              },
+                              "proportion_G>A_C>T": {
+                                "value": 0.9666666666666667
+                              },
+                              "proportion_GA>AA_TC>TT": {
+                                "value": 0.9333333333333333
+                              },
+                              "proportion_GG>GA_CC>CT": {
+                                "value": 0.0
                               }
                             }
                           }
                         ],
                         "name": "NODE_0000041",
                         "node_attrs": {
-                          "GA_CT_fraction": {
-                            "value": 1.0
-                          },
-                          "dinuc_context_fraction": {
-                            "value": 1.0
-                          },
                           "div": 0.0013294205289431575,
                           "num_date": {
                             "value": 2018.2150971326992
+                          },
+                          "proportion_G>A_C>T": {
+                            "value": 1.0
+                          },
+                          "proportion_GA>AA_TC>TT": {
+                            "value": 1.0
+                          },
+                          "proportion_GG>GA_CC>CT": {
+                            "value": 0.0
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000037",
                     "node_attrs": {
-                      "GA_CT_fraction": {
-                        "value": 1.0
-                      },
-                      "dinuc_context_fraction": {
-                        "value": 0.9230769230769231
-                      },
                       "div": 0.0013136368667209712,
                       "num_date": {
                         "value": 2017.808481553866
+                      },
+                      "proportion_G>A_C>T": {
+                        "value": 1.0
+                      },
+                      "proportion_GA>AA_TC>TT": {
+                        "value": 0.9230769230769231
+                      },
+                      "proportion_GG>GA_CC>CT": {
+                        "value": 0.0
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000025",
                 "node_attrs": {
-                  "GA_CT_fraction": {
-                    "value": 0.6206896551724138
-                  },
-                  "dinuc_context_fraction": {
-                    "value": 0.3103448275862069
-                  },
                   "div": 0.0012443806065001186,
                   "num_date": {
                     "value": 2015.6064396818904
+                  },
+                  "proportion_G>A_C>T": {
+                    "value": 0.6206896551724138
+                  },
+                  "proportion_GA>AA_TC>TT": {
+                    "value": 0.3103448275862069
+                  },
+                  "proportion_GG>GA_CC>CT": {
+                    "value": 0.034482758620689655
                   }
                 }
               }
             ],
             "name": "NODE_0000024",
             "node_attrs": {
-              "GA_CT_fraction": {
-                "value": 0.5588235294117647
-              },
-              "dinuc_context_fraction": {
-                "value": 0.11764705882352941
-              },
               "div": 0.0010831338615651192,
               "num_date": {
                 "value": 1971.2162715270779
+              },
+              "proportion_G>A_C>T": {
+                "value": 0.5588235294117647
+              },
+              "proportion_GA>AA_TC>TT": {
+                "value": 0.11764705882352941
+              },
+              "proportion_GG>GA_CC>CT": {
+                "value": 0.051470588235294115
               }
             }
           }
