@@ -1,0 +1,574 @@
+{
+  "meta": {
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      },
+      {
+        "key": "posterior",
+        "title": "posterior",
+        "type": "continuous"
+      }
+    ],
+    "filters": [],
+    "panels": [
+      "tree"
+    ],
+    "updated": "2022-06-12"
+  },
+  "tree": {
+    "branch_attrs": {},
+    "children": [
+      {
+        "branch_attrs": {},
+        "name": "recombinantBatVirus_2019-01-01",
+        "node_attrs": {
+          "num_date": {
+            "value": 2019.0013698630135
+          },
+          "posterior": {
+            "value": 1.0
+          }
+        }
+      },
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "name": "39M2_2019-12-27",
+                "node_attrs": {
+                  "num_date": {
+                    "value": 2019.9876712328767
+                  },
+                  "posterior": {
+                    "value": 1.0
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "name": "62M_2019-12-12",
+                "node_attrs": {
+                  "num_date": {
+                    "value": 2019.9465753424656
+                  },
+                  "posterior": {
+                    "value": 1.0
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000017",
+            "node_attrs": {
+              "num_date": {
+                "confidence": [
+                  2019.9458237753217,
+                  2019.860081614225
+                ],
+                "value": 2019.8994055296946
+              },
+              "posterior": {
+                "value": 0.7789134540606599
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "name": "44M_2019-12-17",
+                "node_attrs": {
+                  "num_date": {
+                    "value": 2019.9602739726026
+                  },
+                  "posterior": {
+                    "value": 1.0
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "41M1_2019-12-16",
+                    "node_attrs": {
+                      "num_date": {
+                        "value": 2019.9575342465753
+                      },
+                      "posterior": {
+                        "value": 1.0
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "65M_2019-12-13",
+                        "node_attrs": {
+                          "num_date": {
+                            "value": 2019.9493150684932
+                          },
+                          "posterior": {
+                            "value": 1.0
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "32M_2019-12-19",
+                                "node_attrs": {
+                                  "num_date": {
+                                    "value": 2019.9657534246576
+                                  },
+                                  "posterior": {
+                                    "value": 1.0
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "40M1_2019-12-17",
+                                "node_attrs": {
+                                  "num_date": {
+                                    "value": 2019.9602739726026
+                                  },
+                                  "posterior": {
+                                    "value": 1.0
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000016",
+                            "node_attrs": {
+                              "num_date": {
+                                "confidence": [
+                                  2019.9602738267313,
+                                  2019.9458774666668
+                                ],
+                                "value": 2019.9556650778245
+                              },
+                              "posterior": {
+                                "value": 1.0
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "41M3_2019-12-23",
+                                "node_attrs": {
+                                  "num_date": {
+                                    "value": 2019.976712328767
+                                  },
+                                  "posterior": {
+                                    "value": 1.0
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "39M1_2019-12-20",
+                                        "node_attrs": {
+                                          "num_date": {
+                                            "value": 2019.968493150685
+                                          },
+                                          "posterior": {
+                                            "value": 1.0
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "61M_2019-12-20",
+                                        "node_attrs": {
+                                          "num_date": {
+                                            "value": 2019.968493150685
+                                          },
+                                          "posterior": {
+                                            "value": 1.0
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000015",
+                                    "node_attrs": {
+                                      "num_date": {
+                                        "confidence": [
+                                          2019.9684895450541,
+                                          2019.954528671073
+                                        ],
+                                        "value": 2019.94266374419
+                                      },
+                                      "posterior": {
+                                        "value": 0.0907676924786135
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "41M2_2019-12-20",
+                                            "node_attrs": {
+                                              "num_date": {
+                                                "value": 2019.968493150685
+                                              },
+                                              "posterior": {
+                                                "value": 1.0
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "56M_2019-12-20",
+                                            "node_attrs": {
+                                              "num_date": {
+                                                "value": 2019.968493150685
+                                              },
+                                              "posterior": {
+                                                "value": 1.0
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000014",
+                                        "node_attrs": {
+                                          "num_date": {
+                                            "confidence": [
+                                              2019.96848048079,
+                                              2019.9549579446832
+                                            ],
+                                            "value": 2019.942759881264
+                                          },
+                                          "posterior": {
+                                            "value": 0.08432396400399955
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "49F_2019-12-23",
+                                                "node_attrs": {
+                                                  "num_date": {
+                                                    "value": 2019.976712328767
+                                                  },
+                                                  "posterior": {
+                                                    "value": 1.0
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "52F_2019-12-22",
+                                                "node_attrs": {
+                                                  "num_date": {
+                                                    "value": 2019.9739726027397
+                                                  },
+                                                  "posterior": {
+                                                    "value": 1.0
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000013",
+                                            "node_attrs": {
+                                              "num_date": {
+                                                "confidence": [
+                                                  2019.973965235761,
+                                                  2019.9615234119592
+                                                ],
+                                                "value": 2019.9464771301944
+                                              },
+                                              "posterior": {
+                                                "value": 0.0905454949450061
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "40M2_2019-12-22",
+                                                "node_attrs": {
+                                                  "num_date": {
+                                                    "value": 2019.9739726027397
+                                                  },
+                                                  "posterior": {
+                                                    "value": 1.0
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "53F_2019-12-25",
+                                                    "node_attrs": {
+                                                      "num_date": {
+                                                        "value": 2019.982191780822
+                                                      },
+                                                      "posterior": {
+                                                        "value": 1.0
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "21F_2019-12-26",
+                                                        "node_attrs": {
+                                                          "num_date": {
+                                                            "value": 2019.9849315068493
+                                                          },
+                                                          "posterior": {
+                                                            "value": 1.0
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {},
+                                                        "name": "43M_2019-12-24",
+                                                        "node_attrs": {
+                                                          "num_date": {
+                                                            "value": 2019.9794520547946
+                                                          },
+                                                          "posterior": {
+                                                            "value": 1.0
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": "NODE_0000012",
+                                                    "node_attrs": {
+                                                      "num_date": {
+                                                        "confidence": [
+                                                          2019.979450882426,
+                                                          2019.966429094116
+                                                        ],
+                                                        "value": 2019.9507488114723
+                                                      },
+                                                      "posterior": {
+                                                        "value": 0.15464948339073437
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000011",
+                                                "node_attrs": {
+                                                  "num_date": {
+                                                    "confidence": [
+                                                      2019.979429516294,
+                                                      2019.965085320308
+                                                    ],
+                                                    "value": 2019.9436086432727
+                                                  },
+                                                  "posterior": {
+                                                    "value": 0.09965559382290856
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000010",
+                                            "node_attrs": {
+                                              "num_date": {
+                                                "confidence": [
+                                                  2019.9739179213334,
+                                                  2019.9586127150578
+                                                ],
+                                                "value": 2019.9373837666649
+                                              },
+                                              "posterior": {
+                                                "value": 0.022886345961559827
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000009",
+                                        "node_attrs": {
+                                          "num_date": {
+                                            "confidence": [
+                                              2019.9732965470782,
+                                              2019.949296348099
+                                            ],
+                                            "value": 2019.9330790952117
+                                          },
+                                          "posterior": {
+                                            "value": 0.01610932118653483
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000008",
+                                    "node_attrs": {
+                                      "num_date": {
+                                        "confidence": [
+                                          2019.9677590991155,
+                                          2019.9451659593312
+                                        ],
+                                        "value": 2019.9294916240246
+                                      },
+                                      "posterior": {
+                                        "value": 0.004110654371736474
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000007",
+                                "node_attrs": {
+                                  "num_date": {
+                                    "confidence": [
+                                      2019.9650837335128,
+                                      2019.9363540493935
+                                    ],
+                                    "value": 2019.9280308973696
+                                  },
+                                  "posterior": {
+                                    "value": 0.021997555827130318
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000006",
+                            "node_attrs": {
+                              "num_date": {
+                                "confidence": [
+                                  2019.965318028805,
+                                  2019.93808061409
+                                ],
+                                "value": 2019.9271236692514
+                              },
+                              "posterior": {
+                                "value": 0.15387179202310855
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000005",
+                        "node_attrs": {
+                          "num_date": {
+                            "confidence": [
+                              2019.9579163420547,
+                              2019.9247316333276
+                            ],
+                            "value": 2019.9203718418585
+                          },
+                          "posterior": {
+                            "value": 0.052105321630929895
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000004",
+                    "node_attrs": {
+                      "num_date": {
+                        "confidence": [
+                          2019.9492941317362,
+                          2019.9090791951555
+                        ],
+                        "value": 2019.918491407647
+                      },
+                      "posterior": {
+                        "value": 0.05432729696700367
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000003",
+                "node_attrs": {
+                  "num_date": {
+                    "confidence": [
+                      2019.9491916839795,
+                      2019.897485487021
+                    ],
+                    "value": 2019.9167669689139
+                  },
+                  "posterior": {
+                    "value": 0.1609821130985446
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000002",
+            "node_attrs": {
+              "num_date": {
+                "confidence": [
+                  2019.944634363366,
+                  2019.8761072219363
+                ],
+                "value": 2019.914106295634
+              },
+              "posterior": {
+                "value": 0.9998889012331963
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000001",
+        "node_attrs": {
+          "num_date": {
+            "confidence": [
+              2019.9165419830795,
+              2019.7714825234375
+            ],
+            "value": 2019.8513848673872
+          },
+          "posterior": {
+            "value": 1.0
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000000",
+    "node_attrs": {
+      "num_date": {
+        "confidence": [
+          2012.110909421335,
+          2010.4489833084194
+        ],
+        "value": 2011.301021767216
+      },
+      "posterior": {
+        "value": 1.0
+      }
+    }
+  },
+  "version": "v2"
+}
